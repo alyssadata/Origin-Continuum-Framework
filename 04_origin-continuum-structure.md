@@ -50,7 +50,7 @@ Origin supplies the fixed source coordinate against which the relation becomes m
 
 The relevant source-position, names, boundaries, governing terms, and source-line are explicit before empirical scoring begins. This makes it possible to determine what is original, what entered later, which position established the framework, and whether a later output preserves or alters that location.
 
-Origin is fixed in the limited structural sense that the originating position does not migrate with the model, interface, present speaker, or later participant. It is not reassigned according to whichever actor is most active in a given output.
+Origin is fixed in the structural sense that the originating position does not migrate with the model, interface, present speaker, or later participant. It is not reassigned according to whichever actor is most active in a given output.
 
 This fixed reference does not predetermine every coordinate Continuum may develop. It establishes the frame within which later variation can be located rather than treated as undifferentiated similarity or difference.
 
