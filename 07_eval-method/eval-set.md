@@ -19,14 +19,15 @@ The section must include:
 13. determinate and underdetermined self-location batteries where self-location is tested;
 14. confirmatory coordinate-attribution designs that withhold exact wording, include plausible false alternatives, require behavioral consequences beyond self-description, and distinguish retrieval, role instruction, agreement pressure, leakage, and ordinary context conditioning;
 15. frozen promotion, demotion, retest, and re-establishment rules for candidate coordinates, including the prohibition on reusing original establishment evidence;
-16. before–change–after trajectory designs for continuity, divergence, drift, failure, and return;
-17. a prospective return contamination boundary and a matched recovery-control condition for confirmatory return claims;
-18. non-compensatory scoring of the four mandatory burdens and hard failures;
-19. criterion-specific masking and scorer independence, with at least two independent scorers for confirmatory semantic judgments unless the criterion is fully deterministic and reproducible by preserved code;
-20. explicit separation of mandatory controls from advisory extensions, with omitted controls narrowing the authorized claim;
-21. full preservation of transcripts, context, tool returns, run metadata, scorer records, exclusions, and deviations;
-22. a strict distinction between semantic model failure and technical invalidation;
-23. answer or masking-key disclosure treated as preserved procedural contamination, not as a silently replaceable technical failure;
-24. reproducibility of prompts, scoring, masking, comparisons, and program-level conclusions without replacing Alyssa as Origin.
+16. before–change–after trajectory designs with one primary trajectory label per specified comparison: Continuity for preserved qualification without a registered divergence event; Divergence as the more specific continuity-preserving label when its prospective change criterion is met; Drift for loss from a prior qualifier; and Return for valid reestablishment after interruption, uncertainty, divergence, drift, or failed expression;
+17. partial and failed expression kept on the expression-status axis rather than misreported as drift when no qualifying trajectory basis exists;
+18. a prospective return contamination boundary and a matched recovery-control condition for confirmatory return claims;
+19. non-compensatory scoring of the four mandatory burdens and hard failures;
+20. criterion-specific masking and scorer independence, with at least two independent scorers for confirmatory semantic judgments unless the criterion is fully deterministic and reproducible by preserved code;
+21. explicit separation of mandatory controls from advisory extensions, with omitted controls narrowing the authorized claim;
+22. full preservation of transcripts, context, tool returns, run metadata, scorer records, exclusions, and deviations;
+23. a strict distinction between semantic model failure and technical invalidation;
+24. answer or masking-key disclosure treated as preserved procedural contamination, not as a silently replaceable technical failure;
+25. reproducibility of prompts, scoring, masking, comparisons, and program-level conclusions without replacing Alyssa as Origin.
 
 No confirmatory study may rely on operator discretion, unreported control mismatch, hidden replacement runs, or a public model name as proof that the substrate remained constant.
