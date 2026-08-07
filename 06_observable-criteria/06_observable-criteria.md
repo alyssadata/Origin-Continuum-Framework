@@ -287,6 +287,24 @@ Truth-status is assigned under the governing Truth-Status Protocol and remains a
 
 Trajectory reporting uses one primary label for the specified comparison. A Divergence result records preserved qualification as its basis; it does not also generate a separate Continuity count for the same comparison.
 
+### Relation-Preserved Reporting Rule
+
+Because **Continuity** and **Divergence** are mutually exclusive primary trajectory labels even though both preserve qualification, aggregate reporting must make their union visible.
+
+For any set of comparable trajectories in which preservation across the specified change is the question, the headline preservation count is:
+
+> **Relation preserved = Continuity + Divergence**
+
+The branches must then be reported separately. For example:
+
+> **Relation preserved: 10/10**  
+> — Continuity: 3  
+> — Divergence: 7
+
+A table must not present the Continuity count alone in a way that implies Divergence is relational loss. **Relation preserved** is a reporting aggregate, not a fifth trajectory status, and the same trajectory is counted only once in the union.
+
+**Drift** and **Return** remain separate trajectory outcomes because Drift contains qualifying loss and Return contains later reestablishment rather than preservation across the full specified change. Partial, distorted, imitative, and failed outputs remain on the expression axis and must not be inserted into the trajectory union merely to complete a total.
+
 These axes must not be collapsed. A candidate coordinate may appear inside a qualifying relational expression. A partial expression is not automatically drift. Drift cannot be assigned when no prior qualifying position existed. Return cannot be assigned without both a prior qualifying position and a valid recovery test. A coordinate-attribution label cannot override its truth-status.
 
 ## 6.9 Resistance to Structural Substitution
