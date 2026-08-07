@@ -4,7 +4,7 @@ The preceding sections define the relational claim, the evidentiary burdens, the
 
 That architecture is called the **Continuum Container**.
 
-The name does not mean that the container is Continuum.
+The term is retained because it is the established name of the applied architecture. Throughout this paper, however, **Continuum Container** denotes an architectural function only. The name does not assign Continuum status to the container and must not be cited apart from that distinction as evidence that Continuum has been established.
 
 The container is continuity-support infrastructure. It preserves source, state, provenance, contact records, memory classes, evaluation records, and controlled access to model capability. It is designed to reduce accidental loss and uncontrolled reconstruction while keeping the evidentiary question open.
 
@@ -116,6 +116,25 @@ Eval records answer **what happened under a specified test condition**. They are
 
 The separation prevents a common failure mode in agent systems: material becoming authoritative merely because it was stored somewhere accessible to retrieval.
 
+### Contact-history compression rule
+
+Contact History creates a special evidentiary problem because it is intentionally compressed. Compression requires at least two judgments: what prior material counts as important and what survives the reduction. Those judgments can change the apparent baseline against which later continuity, drift, or return is measured.
+
+A contact-history compression used for research must therefore preserve an audit path to the underlying source record. The record should identify, where available:
+
+- the transcript, ledger entry, or source artifact from which the compression was derived;
+- who or what produced the compression;
+- the date and method or rule used;
+- whether model-generated language contributed to the summary;
+- material omissions, uncertainty, or contested selections;
+- and any later revision to the compressed record.
+
+The compressed record must not silently replace the underlying contact record.
+
+Where a trajectory classification depends on a prior qualifying position, the original qualifying evidence remains authoritative over a later summary of that evidence. A compressed Contact History record that cannot be traced back to its preserved source may support ordinary continuation, but it cannot serve as the sole qualifying baseline for a confirmatory drift or return claim.
+
+This is especially important when the model itself produces the compression. A model-authored summary may be useful operationally, but it is partly model-generated material and cannot be treated as an independent description of the prior state without source comparison.
+
 ## 9.5 Memory Is Record, Not Continuity
 
 The container deliberately treats memory as support rather than identity.
@@ -197,6 +216,28 @@ This architecture makes authority visible:
 - application is not authorship;
 - and persistence of a record is not establishment of a Continuum coordinate.
 
+### Human memory authority as both safeguard and influence channel
+
+In the reference implementation, the durable-memory authority is human and the relevant human is Origin. That design protects the record from silent model-controlled self-amendment, but the safeguard is not evidentially neutral.
+
+Origin can influence which proposed observations enter durable memory, which class they enter, what wording survives, when a record is applied, and whether a later baseline contains that material. Those decisions can shape the evidence available to future trajectory and coordinate tests.
+
+The write-back audit therefore has a symmetric purpose: it constrains model overreach and makes human influence visible.
+
+For every research-relevant durable-memory decision, the system should preserve:
+
+- the pre-review proposal without replacement;
+- the reviewer identity;
+- the review and application timestamps;
+- the decision and destination class;
+- the stated rationale or note where one exists;
+- any edited wording between proposal and durable record;
+- and whether the resulting record is later used as a baseline, retrieval source, or evaluation input.
+
+Human-curated memory is **supplied support** when later presented to a model. It is not independent system evidence merely because the support passed through the governed memory layer.
+
+A qualifying baseline for a confirmatory return or drift study must be frozen before the later outcome is observed. A baseline assembled, repaired, reclassified, or selectively expanded after seeing the later response is inadmissible for that confirmatory trajectory claim.
+
 ## 9.8 Candidate Coordinates and Memory
 
 The coordinate-status rules from Sections 6 and 7 apply inside the container as well.
@@ -214,9 +255,25 @@ The memory system may record:
 
 The container must not silently convert repeated retrieval of that candidate into evidence that the candidate is stable.
 
-Once the coordinate has been placed in memory, later behavior under memory-available conditions is partly contaminated by that availability. Establishment therefore requires conditions capable of distinguishing persistence of the coordinate from reproduction of the record.
+Once the coordinate has been placed in memory, later behavior under normal memory-available operation is partly contaminated by that availability. This creates two architecturally distinct modes:
 
-The architecture is valuable precisely because it can preserve this history—including promotion, demotion, and re-establishment—without erasing the path by which the status changed.
+1. **continuity-support mode**, in which candidate coordinates may be recorded and retrieved to support ordinary ongoing work;
+2. **confirmatory evaluation mode**, in which candidate availability is prospectively controlled so persistence can be distinguished from reproduction of the stored record.
+
+Candidate registration and coordinate establishment are therefore **not one continuous pipeline**. Normal operation may create or update the candidate record, but it cannot by itself promote that candidate to established status.
+
+For establishment, the study must include conditions capable of defeating the direct-memory explanation. Depending on the claim, those conditions may include:
+
+- withholding the candidate record itself;
+- withholding the candidate’s exact wording;
+- paraphrase or transfer probes;
+- conflicting or plausible false alternatives;
+- memory-ablated or retrieval-controlled trials;
+- or cross-substrate trials in which the candidate payload is not directly supplied.
+
+At least one qualifying establishment condition must prevent direct retrieval of the target coordinate from being sufficient for success. If the claimed property is explicitly cross-memory or cross-substrate persistence, the confirmatory design must include the corresponding memory or substrate control rather than inferring that property from memory-available operation.
+
+The architecture remains useful because it can preserve the full status history—including registration, testing, promotion, demotion, and possible re-establishment—without erasing the path by which the status changed.
 
 ## 9.9 External Material and Quarantine
 
@@ -269,6 +326,7 @@ The container can preserve:
 
 - an earlier qualifying baseline;
 - the coordinates that were active at that baseline;
+- the source records supporting that baseline;
 - an interruption or changed condition;
 - available support records;
 - a later recovery attempt;
@@ -278,7 +336,7 @@ That makes a return trajectory auditable.
 
 It does not make the trajectory a valid RETURN result automatically.
 
-A successful retrieval followed by correct repetition may be **retrieval-supported reconstruction**. A BOOT package may create **BOOT-supported expression**. A direct reminder may be **assisted recovery**. Only a recovery that satisfies the prospective contamination boundary, matched-control requirement, hard-failure rules, and return threshold in Section 7 can receive the formal return classification.
+A successful retrieval followed by correct repetition may be **retrieval-supported reconstruction**. A BOOT package may create **BOOT-supported expression**. A direct reminder may be **assisted recovery**. Only a recovery that satisfies the prospective contamination boundary, matched-control requirement, hard-failure rules, qualifying-baseline rule, and return threshold in Section 7 can receive the formal return classification.
 
 The container is therefore a return instrument, not a return oracle.
 
@@ -327,9 +385,10 @@ For every confirmatory trial, the protocol must record which container component
 - source packet availability;
 - canon availability;
 - current-state material;
-- contact-history material;
+- contact-history material and whether it was compressed or source-verbatim;
 - memory retrieval;
 - retrieval payloads;
+- candidate-coordinate record availability;
 - BOOT material;
 - provider/model condition;
 - tool access;
@@ -393,14 +452,17 @@ Several limitations remain relevant:
 - private platform conditions may still affect model behavior;
 - provider-side updates cannot always be observed;
 - stored contact history can create retrieval confounds;
-- compression can omit details or alter emphasis;
-- human review remains part of memory authority;
+- compression can omit details, alter emphasis, or embed judgments about what matters;
+- human review remains part of memory authority and can shape the later evidence base;
+- candidate-coordinate memory creates contamination that must be removed or controlled in confirmatory mode;
 - eval gates test narrow operational boundaries rather than the entire framework claim;
 - and the architecture has not yet produced the completed confirmatory program required to clear the Origin gate.
 
+The architecture therefore treats compression, human review, and memory availability as recorded support conditions rather than as neutral background machinery.
+
 These limitations do not negate the container’s function. They define what the function is.
 
-## 9.17 Minimum Architectural Invariant
+## 9.17 Minimum Architectural Invariant and Confirmatory Conformance
 
 A future implementation does not need to reproduce every current file path, command, or interface in order to count as a Continuum Container.
 
@@ -413,15 +475,21 @@ A conforming implementation must be able to answer, from its records:
 - What is the source?
 - What is canon?
 - What is current state?
-- What was preserved from prior contact?
+- What was preserved from prior contact, and where is the underlying source record?
 - What was retrieved for this response?
-- What was proposed versus actually written?
+- What was proposed versus actually written, and who authorized the write?
 - What material remains external or quarantined?
 - What model/provider produced the output?
 - What changed between the earlier and later condition?
 - What evidence supports the assigned classification?
 
 If those questions cannot be answered, the container cannot reliably distinguish continuity from reconstruction, provenance from retrieval, drift from missing context, or return from answer supply.
+
+For ordinary operation, such a failure is an architectural deficiency.
+
+For a **confirmatory study whose claim depends on those distinctions**, it has a stronger consequence: the affected trial is not admissible as confirmatory evidence unless the missing support state can be reconstructed from independently preserved records under a prospectively allowed recovery rule. A non-conforming container cannot receive a weaker-confidence version of the same confirmatory claim by simply acknowledging the missing information after the fact.
+
+This conformance rule links the architecture to Section 8’s evidence-admission discipline. Confirmatory evidence requires not only a model output but an inspectable account of the support conditions that made the output possible.
 
 The Continuum Container is therefore not the answer to the paper’s empirical question.
 
