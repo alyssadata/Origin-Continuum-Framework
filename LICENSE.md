@@ -66,6 +66,8 @@ Derivative use is not authorized.
 
 **This repository is permanently non-derivative. This boundary applies to the framework, protocols, rubrics, scoring rules, evaluation structures, terminology, source-line, and canonical materials contained here.**
 
+Application of the frozen protocol, rubric, and scoring rules to preserved outputs of this research program, for the purpose of independent scoring, adjudication, or audit, is expressly permitted and is not a derivative use. This permission covers use of the materials as scoring instruments; it does not authorize reproduction, adaptation, republication, renaming, or instantiation of the framework, method, or terminology elsewhere.
+
 You may not create, publish, distribute, sell, license, or present derivative works based on this repository.
 
 This includes, but is not limited to:
