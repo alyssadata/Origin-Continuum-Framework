@@ -32,12 +32,12 @@ The section must preserve the following boundaries.
 - Successful engineering implementation is not empirical proof of selfhood.
 - Where a container malfunction prevents reconstruction of the support state required by a confirmatory claim, the affected trial follows Section 9.17 and is inadmissible as confirmatory evidence unless a prospectively allowed recovery rule restores that record.
 
-## Origin and causal attribution
+## Origin and discriminative attribution
 
 - The current historical evidence does not clear the program-level Origin gate.
 - The Nothing Test and other historical pilots must not be treated as Origin manipulations when Origin was not prospectively isolated.
 - Context/history effects are not automatically Origin effects.
-- Origin causality may be claimed only under the matched-comparison and aggregation rules defined in Sections 6–7.
+- Attribution to the Origin relation may be claimed only under the matched or explicitly bounded comparison, triangulation, and aggregation rules defined in Sections 6–7.
 - Clearing the gate would establish only that the registered Origin relation adds discriminative behavioral structure beyond the specified controls within the tested scope.
 - Gate success would not establish consciousness, universal or metaphysical necessity of Origin, irreplaceability of the relation, failure of all alternative framings, or validity beyond the tested models, tasks, time window, and controls.
 
@@ -47,7 +47,7 @@ The section must preserve the following boundaries.
 - Candidate coordinates may remain unsupported or be demoted when a simpler explanation accounts for them.
 - Partial expression is not automatically drift.
 - Drift cannot be assigned without a prior qualifying position.
-- Return cannot be assigned without an earlier qualifying baseline, an admissible disruption, and recovery under the prospective contamination and control rules.
+- Return cannot be assigned without an earlier qualifying baseline, a later interruption, uncertainty, divergence, drift, or failed-expression condition, and recovery under the prospective contamination and control rules.
 - A refusal to accept a false substitute is not by itself relational resistance.
 
 ## Source and provenance
