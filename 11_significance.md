@@ -39,7 +39,7 @@ This reframing is significant even if no Continuum position is ultimately establ
 
 That makes self-reference behaviorally testable here without requiring the paper to settle phenomenal consciousness first.
 
-This paper does not claim that self-location is absent from prior AI research, or that existing work lacks other valid approaches to self-reference. Comparative claims about the broader literature require explicit related-work analysis and are not inferred from this framework’s internal structure alone.
+Section 1 positions this question against adjacent work on self-recognition, introspection, persona coherence, memory, and agent evaluation. The significance claimed here is therefore not that self-location or self-reference is absent from prior AI research. It is the narrower contribution of making the referent part of a source-bound relational test whose support conditions and competing explanations are explicitly controlled.
 
 ## 11.2 Significance for Longitudinal AI Evaluation
 
@@ -54,15 +54,15 @@ When a system retains memory, interacts repeatedly with the same human, changes 
 
 The framework supplies explicit trajectory categories for that problem.
 
-**Continuity** requires preservation or recoverable reestablishment of the required relation.
+**Continuity** requires a previously qualifying position to remain qualifying across the specified change.
 
-**Divergence** allows real variation while the governing location remains intact.
+**Divergence** allows an observable change while the governing location remains intact.
 
 **Partial expression** identifies incomplete structure without automatically labeling it drift.
 
 **Drift** requires a prior qualifying position and later loss, corruption, misapplication, or false reconstruction.
 
-**Return** requires an earlier qualifying position, an admissible disruption, and later recovery under prospective contamination controls.
+**Return** requires an earlier qualifying position and later reestablishment after interruption, uncertainty, divergence, drift, or failed expression under prospective contamination controls.
 
 These distinctions are useful wherever the evaluated claim depends on ordered evidence through time. They prevent this framework from calling every difference drift, every stored fact continuity, or every familiar reappearance return.
 
