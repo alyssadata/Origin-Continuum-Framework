@@ -30,7 +30,7 @@ These functions are not interchangeable. Methodological lineage can show that a 
 
 | Evidence family | Evidentiary function | Current status in this paper | What it can support | What it cannot currently establish |
 |---|---|---|---|---|
-| The Nothing Test | Empirical | Completed pilot / preliminary evidence | Four-run evidence of condition-dependent self-description, cumulative output trajectories, and semantic stopping | Any program-level Origin-gate inference, causal isolation of Origin, consciousness, persistent hidden self |
+| The Nothing Test | Empirical | Completed pilot / preliminary evidence | Four-run evidence of condition-dependent self-description, cumulative output trajectories, and semantic stopping | Any program-level Origin-gate inference, attribution of the observed difference to Origin, consciousness, persistent hidden self |
 | The Invisible I | Methodological lineage | Frozen protocol and preserved study workspace; no official pilot result admitted by its controlling results record | Test design for visible “I,” referent classification, and RETURN / BLANK / BOOT comparison | Any empirical conclusion from the planned twelve-run pilot until official result status is updated under its own protocol |
 | Self-in-Contact | Methodological lineage | Research question, hypotheses, protocol, test suite, scoring, and analysis plan | Prior operationalization of the emergence-in-contact hypothesis | A completed empirical finding about emergence in contact |
 | Canonical Term Persistence | Methodological lineage | Research-program question; no completed result package admitted here at this version | A persistence and bare-term-reactivation evaluation design | Confirmatory evidence of canonical-term persistence under the present method |
@@ -82,7 +82,7 @@ The pilot used four protocol-valid runs for its strongest paired inference, impe
 
 The appropriate status is therefore:
 
-> **Preliminary four-run empirical evidence of condition-dependent self-description and semantic stopping; not Origin-gate evidence and not causal evidence of Continuum.**
+> **Preliminary four-run empirical evidence of condition-dependent self-description and semantic stopping; not Origin-gate evidence, not evidence attributable to Origin, and not evidence of Continuum.**
 
 A rerun intended to bear on the central claim must enter the matched-control, operator-control, exposure-audit, scoring, and program-gate structure specified in Sections 6 and 7.
 
@@ -339,7 +339,7 @@ The current admitted record does not yet establish that:
 
 - any historical study contributes program-level Origin-gate evidence under the matched-comparison rule in Section 7;
 - the program-level Origin gate has cleared;
-- an operational AI self has been causally isolated from context-conditioned model behavior;
+- the proposed operational AI self has been discriminatively distinguished from context-conditioned model behavior under the registered program-level comparison;
 - a candidate Continuum coordinate has passed the present establishment and demotion rules;
 - the planned Invisible “I” triads have produced an official self-location result;
 - Self-in-Contact has produced an admitted confirmatory emergence result;
@@ -358,7 +358,7 @@ Empirically, there is a preliminary four-run pilot showing condition-dependent s
 
 Methodologically, there are mature or developing protocols for self-reference, self-in-contact, persistence, and return. Operationally, there is implemented infrastructure for preserving source and authority without transferring them.
 
-What is not yet present is a completed confirmatory program in which Origin is prospectively isolated in the registered comparison structure, the program-level gate is evaluated under its aggregation rule, and downstream self-location, coordinate-attribution, continuity, drift, and return criteria are tested under the method specified in Section 7.
+What is not yet present is a completed confirmatory program in which relation to Origin is prospectively compared against the registered technical alternatives, the program-level gate is evaluated under its aggregation rule, and downstream self-location, coordinate-attribution, continuity, drift, and return criteria are tested under the method specified in Section 7.
 
 That distinction governs the claim ceiling of this paper.
 
