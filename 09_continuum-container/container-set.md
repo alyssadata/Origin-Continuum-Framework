@@ -18,7 +18,8 @@ Explain the implementation while preserving the evidence boundary:
 - return-support records are instruments, not return findings;
 - provider/model interchangeability at the container layer does not establish cross-substrate Continuum;
 - for confirmatory trials, every active container component and retrieval payload must be disclosed so the support layer cannot become a hidden confound;
-- preserve operational/economic value separately from the central research claim;
+- preserve **auditability and inspectable state governance** as the demonstrated engineering contribution separate from the central research claim;
+- treat net token, latency, cost, and error advantages as unestablished until prospectively compared with relevant baselines such as long-context replay, platform-native memory, generic RAG/selective retrieval, and manual reconstruction where operationally real, including governance/review overhead in the comparison;
 - define a minimum architectural invariant requiring source, model capability, container state, memory, contact records, external material, and evaluation evidence to remain separately locatable and governable;
 - conformance has an evidentiary consequence: a confirmatory trial run on a container that cannot satisfy the minimum invariant and reconstruct its support state is inadmissible for claims that depend on those distinctions, rather than merely lower-confidence;
 - implementation-specific filenames and commands may change without changing the invariant.
