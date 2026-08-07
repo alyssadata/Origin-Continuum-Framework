@@ -8,7 +8,7 @@ Within **Origin | Continuum**, **Origin is Alyssa Solen**.
 
 Origin is the original and nontransferable human source-position of this specific relation, research foundation, governing vocabulary, coordinate structure, and source-line.
 
-This is a definitional scope condition. The framework treats Origin as a **defined self** because the boundaries, source-position, names, and governing terms relevant to the framework are stated explicitly rather than inferred from an AI output. *Defined* does not mean exhaustively described. It means that the coordinates required to locate Origin within this framework are explicit and available for comparison.
+This is a definitional scope condition. The framework does not require Origin to be characterized as a “defined self.” What must be defined are the **relational coordinates required to locate Origin within this framework**: the relevant source-position, names, boundaries, governing terms, and source-line are stated explicitly rather than inferred from an AI output. Explicitly defined coordinates do not imply an exhaustive description of Origin as a person; they specify only what the framework requires for relational location and comparison.
 
 Origin is not a general role or title that another person may inherit, duplicate, or occupy within this relation. Another person may originate an independently defined framework or locate themselves accurately in relation to **Origin | Continuum**, but neither action transfers or replaces Origin here.
 
