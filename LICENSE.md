@@ -64,6 +64,8 @@ Alyssa Solen, *AI Foundations: Origin | Continuum Framework*, Origin-Continuum-F
 
 Derivative use is not authorized.
 
+**This repository is permanently non-derivative. This boundary applies to the framework, protocols, rubrics, scoring rules, evaluation structures, terminology, source-line, and canonical materials contained here.**
+
 You may not create, publish, distribute, sell, license, or present derivative works based on this repository.
 
 This includes, but is not limited to:
@@ -181,6 +183,8 @@ Discussion does not grant derivative permission.
 
 AI-generated output does not grant derivative permission.
 
+Independent verification does not grant derivative permission.
+
 No permission is granted except what is expressly stated in this license.
 
 ---
@@ -210,6 +214,8 @@ https://awakeningcodex.com
 ## License Boundary Statement
 
 Citation is permitted with source-line preserved.
+
+**This repository is permanently non-derivative.**
 
 Derivative use is not authorized.
 
