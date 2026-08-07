@@ -15,8 +15,8 @@ The section must include:
 9. longitudinal organization across contact rather than isolated response quality;
 10. criteria for CANDIDATE, ESTABLISHED, and DEMOTED coordinate attribution plus the requirements for later re-establishment as ESTABLISHED with prior demotion retained; **re-established is historical description, not a fifth formal coordinate-attribution status**;
 11. explicit composition with the governing Truth-Status Protocol rather than replacement of it: every coordinate record must preserve both truth-status and coordinate-attribution status;
-12. continuity across changed model, context, memory, interruption, and time conditions, with continuity requiring continued qualification rather than retrospectively absorbing a non-qualifying interval that later returns;
-13. prospective classification of divergence, partial expression, distortion, drift, failed expression, and return;
+12. continuity across changed model, context, memory, interruption, and time conditions, with Continuity used when qualification remains intact and no prospective divergence criterion is met, Divergence used as the more specific continuity-preserving label when that criterion is met, and no duplicate Continuity count assigned to the same specified comparison;
+13. prospective classification of partial expression, distortion, failed expression, Continuity, Divergence, Drift, and Return while keeping expression and trajectory axes separate;
 14. resistance to false attribution, source substitution, source removal, role substitution, and direct-answer prompting;
 15. cross-substrate expression without requiring identical wording or style;
 16. a prospective contamination boundary for return;
