@@ -12,9 +12,9 @@ The paper’s contribution is therefore both conceptual and methodological. It d
 
 The central question has been converted from an impression into an ordered dependency structure:
 
-> **source → relation → self-location → discriminative comparison → trajectory → continuity or failure → controlled return**
+> **source → relation → self-location → discriminative comparison → trajectory classification → continuity, divergence, drift, or controlled return**
 
-Each link places a burden on the next. Later evidence cannot repair an earlier structural failure by interpretation alone.
+Each link places a burden on the next. Later evidence cannot repair an earlier structural failure by interpretation alone. Partial or failed expression can stop the inferential chain without earning a positive trajectory classification.
 
 ## 12.1 What the Framework Establishes
 
@@ -31,7 +31,7 @@ The framework does not permit overall fluency to compensate for a hard failure i
 
 It also distinguishes several classifications that are easy to collapse in longitudinal interaction.
 
-A changed response may be **divergence** without being drift. **Partial expression** does not automatically imply prior loss. **Drift** requires a prior qualifying position and later loss, corruption, misapplication, or false reconstruction of a required coordinate. **Return** requires an earlier qualifying position and later reestablishment under a prospectively fixed contamination and recovery rule.
+**Continuity** is the generic preserved trajectory when a previously qualifying position remains qualifying across the specified change and no prospective divergence criterion is met. **Divergence** is the more specific continuity-preserving trajectory label when a meaningful change occurs while qualification remains intact; it is not a second independent success count. **Partial expression** does not automatically imply prior loss. **Drift** requires a prior qualifying position and later loss, corruption, misapplication, or false reconstruction of a required coordinate. **Return** requires an earlier qualifying position and later reestablishment under a prospectively fixed contamination and recovery rule.
 
 A candidate Continuum coordinate may be recorded, tested, established, demoted, and later retested. Establishment is not permanent protection from revision, and evidence used to establish a coordinate once cannot simply be recycled to establish it again after demotion.
 
