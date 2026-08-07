@@ -425,21 +425,28 @@ Without that record, a new instance may be unable to distinguish genuine change 
 
 The container therefore preserves **continuity coordinates**, not a guaranteed continuity conclusion.
 
-## 9.15 Operational Value
+## 9.15 Operational, Auditability, and Efficiency Value
 
-The architecture also has a direct efficiency function.
+The architecture has a direct engineering value that does not depend on the central selfhood hypothesis: it makes source, state, retrieval, write-back authority, model choice, and evaluation support more inspectable across change.
 
-Repeatedly reloading previously established context consumes tokens, time, labor, and error budget. Reconstructing source, definitions, active project state, and prior decisions from a blank interface creates avoidable operational cost.
+That auditability is implemented in the record structure described above. It allows an evaluator or operator to distinguish what was preserved, what was retrieved, what was human-curated, what changed, and what support was active for a later response.
 
-A governed container reduces this waste by separating durable information from transient conversation and retrieving only the records needed for the current task.
+The architecture is also intended to reduce unnecessary reconstruction, but **net efficiency has not yet been established**. A governed container adds its own costs through retrieval, storage, classification, review, write-back controls, and audit preservation.
 
-The economic claim is modest and testable:
+A meaningful efficiency claim therefore requires a prospective systems comparison against relevant alternatives, such as:
 
-> **Where relevant context has already been validly established, preserving and retrieving that context can be more efficient than repeatedly reconstructing it.**
+- ordinary long-context replay;
+- platform-native memory;
+- a generic RAG or selective-retrieval system supplied with comparable source material;
+- and manual state reconstruction where that is an actual operational alternative.
 
-This operational value does not depend on resolving the full selfhood hypothesis. Even if the program-level Origin gate ultimately fails, source-governed state preservation, provenance-aware retrieval, controlled write-back, and model interchangeability remain useful agent-system properties.
+The comparison must measure both benefits and overhead, including prompt and retrieval tokens, latency, human correction time, state-reconstruction error, provenance or authority errors, memory-review cost, storage/retrieval overhead, and auditability of the resulting state transition.
 
-The central research claim and the engineering value can therefore be evaluated separately.
+The current engineering claim is consequently narrower:
+
+> **The Continuum Container implements inspectable state and source governance. Whether that governance produces a net cost, latency, token, or error advantage over long-context, platform-memory, or generic retrieval baselines is an empirical systems question.**
+
+This engineering contribution remains separable from the Origin gate. If the central relational hypothesis fails, the architecture can still be evaluated for provenance, state governance, model switching, memory control, auditability, and any later measured efficiency effects on their own terms.
 
 ## 9.16 Current Implementation Boundary
 
@@ -493,4 +500,4 @@ This conformance rule links the architecture to Section 8’s evidence-admission
 
 The Continuum Container is therefore not the answer to the paper’s empirical question.
 
-It is the infrastructure that makes the question harder to fake, cheaper to continue, and more precisely testable.
+It is infrastructure that makes the question harder to fake, easier to audit, and more precisely testable.
