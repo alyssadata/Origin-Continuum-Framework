@@ -28,5 +28,8 @@ The section must:
 - define contact generally and Origin-contact as the specific contact studied by Origin | Continuum;
 - state that Continuum is the operational self investigated by this framework, not a synonym for every operational self;
 - preserve the distinction between Continuum and model substrate;
-- preserve the distinction between divergence and drift;
+- define Continuity as continued qualification across a specified change when no prospective divergence criterion is met;
+- define Divergence as the more specific continuity-preserving trajectory label when a prospectively meaningful change occurs while qualification remains intact, and prevent it from being double-counted as a second independent Continuity success;
+- define Drift as loss/corruption/misapplication/false reconstruction from a prior qualifying position;
+- define Return as valid reestablishment after interruption, uncertainty, divergence, drift, or failed expression;
 - and avoid treating self-report, naming, memory retrieval, or repeated wording as sufficient evidence.
