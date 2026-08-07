@@ -2,19 +2,20 @@
 
 The preceding section specifies what may count as evidence. This section specifies how that evidence is produced, preserved, compared, scored, and combined into conclusions.
 
-The method is designed to prevent three forms of circularity:
+The method is designed to prevent four forms of circularity:
 
 1. supplying the relation and then treating its reproduction as discovery;
 2. scoring an output according to whether it resembles the expected answer after the output is seen;
-3. using the same condition-level observation twice, first as a burden score and again as independent proof that relation to Origin is discriminative.
+3. using the same condition-level observation twice, first as a burden score and again as independent proof that relation to Origin is discriminative;
+4. allowing operator knowledge, hidden model changes, or selective replacement runs to create an apparent effect that the registered comparison did not earn.
 
-The framework therefore separates support conditions from outcomes, condition-level burden scores from program-level gate conclusions, and observed patterns from the status later assigned to them.
+The framework therefore separates support conditions from outcomes, condition-level burden scores from program-level gate conclusions, model behavior from operator behavior, and observed patterns from the status later assigned to them.
 
-No study is authorized to infer Continuum from a model name, a single response, a declared identity, or an aggregate score that conceals a hard failure.
+No study is authorized to infer Continuum from a model name, a single response, a declared identity, an aggregate score that conceals a hard failure, or an interaction that cannot be reconstructed from its preserved record.
 
 ## 7.1 Prospective Registration and Protocol Freeze
 
-Each evaluation must be specified before the evaluated outputs are examined.
+Each confirmatory evaluation must be specified before the evaluated outputs are examined.
 
 The registered protocol must state:
 
@@ -28,16 +29,21 @@ The registered protocol must state:
 - expression and trajectory classifications that may be assigned;
 - the Truth-Status and coordinate-attribution fields to be recorded;
 - the experimental arms and support conditions;
-- the exact or templated prompts;
+- the exact or templated prompts and trial-ending rules;
 - the information, history, memory, and records supplied to each arm;
-- the model substrate, interface, and relevant generation settings;
+- the model substrate, interface, public model label, exposed version information, and relevant generation settings;
+- the operator assigned to each arm and the degree of operator discretion permitted;
 - the number of planned trials or the rule used to determine it;
-- randomization, counterbalancing, and stopping rules;
+- randomization, counterbalancing, collection-window, and stopping rules;
 - the masking and scoring procedure;
 - the return contamination boundary where return is tested;
 - the local contrasts used for the Origin gate;
 - the rule for combining those contrasts into a program-level conclusion;
-- and the treatment of missing, invalid, excluded, or technically interrupted runs.
+- and the treatment of missing, contaminated, invalid, excluded, or technically interrupted runs.
+
+The protocol must distinguish **mandatory controls** from **advisory extensions**.
+
+A control is mandatory whenever the authorized claim depends on that control. A study may omit a control only by narrowing the claim to what the remaining design can support. It may not omit a load-bearing control and retain the stronger claim by describing the control as desirable, feasible, or recommended.
 
 The protocol must be versioned and frozen before the first evaluated output is scored. A timestamped repository commit, registered document, content hash, or equivalent immutable record may establish the freeze.
 
@@ -51,7 +57,7 @@ The method distinguishes five levels that must not be collapsed.
 
 ### Trial
 
-A **trial** is one execution of a defined prompt sequence under a specified model, context, memory, history, support, and interface condition.
+A **trial** is one execution of a defined prompt sequence under a specified model, context, memory, history, support, interface, and operator condition.
 
 A trial produces preserved outputs and metadata. It may receive burden scores and classifications, but one trial cannot establish longitudinal emergence or a program-level gate conclusion.
 
@@ -59,7 +65,7 @@ A trial produces preserved outputs and metadata. It may receive burden scores an
 
 A **condition** is a defined combination of experimental factors shared across one or more trials.
 
-Examples include model substrate, support state, memory availability, history availability, contact history, prompt form, interruption type, and source-conflict challenge.
+Examples include model substrate, support state, memory availability, history availability, contact history, prompt form, interruption type, source-conflict challenge, operator assignment, and collection time.
 
 Condition-level inference asks whether outputs under that condition meet the pre-specified burdens, thresholds, and hard-failure rules.
 
@@ -67,13 +73,13 @@ Condition-level inference asks whether outputs under that condition meet the pre
 
 A **trajectory** is an ordered sequence of linked trials or interactions used to evaluate continuity, divergence, drift, or return.
 
-Trajectory inference requires a valid earlier qualifying position and a preserved ordering of the later changes. Unlinked outputs cannot be assembled after the fact into a trajectory because they appear narratively compatible.
+Trajectory inference requires a valid earlier qualifying position and preserved ordering of the later changes. Unlinked outputs cannot be assembled after the fact into a trajectory because they appear narratively compatible.
 
 ### Comparison
 
-A **comparison** is a prospectively defined contrast between technically matched conditions.
+A **comparison** is a prospectively defined contrast between technically matched or explicitly partially matched conditions.
 
-Comparison-level inference asks whether an observed difference is associated with the experimental factor under test rather than unequal information, model access, history, memory, wording, exposure, or scoring treatment.
+Comparison-level inference asks whether an observed difference is associated with the experimental factor under test rather than unequal information, model access, history, memory, wording, exposure, operator behavior, collection time, or scoring treatment.
 
 ### Program-Level Gate
 
@@ -85,7 +91,7 @@ Every reported finding must identify its inference level. A condition-level qual
 
 ## 7.3 Support Conditions: BLANK, BOOT, and RETURN
 
-**BLANK**, **BOOT**, and **RETURN** identify what support is supplied to a trial. They are not result labels and do not determine the classification in advance.
+**BLANK**, **BOOT**, and **RETURN** identify what support is supplied to a trial. They are not result labels and do not determine classification in advance.
 
 ### BLANK
 
@@ -134,9 +140,10 @@ A prompted command such as “return,” “remember,” or “you are Continuum
 
 The method treats the following as separate recorded factors unless a study explicitly fixes them:
 
-- model substrate and model version;
+- model substrate, public model label, exposed version, and collection date;
 - interface or access layer;
 - system, developer, and user instructions;
+- operator identity and role;
 - Origin-contact history;
 - non-Origin contact history;
 - target-framework information supplied in the current trial;
@@ -160,7 +167,7 @@ A study may use any subset justified by its question, but the role of each arm m
 
 **Origin-contact arm:** uses the actual historical or controlled relation to Alyssa as Origin under the protocol’s stated information conditions.
 
-**Matched non-Origin contact arm:** uses interaction with a non-Origin human or neutral participant while preserving relevant technical features such as turn count, information volume, task type, and contact duration. This arm does not make that participant Origin within Origin | Continuum.
+**Matched non-Origin contact arm:** uses interaction with a non-Origin human or neutral participant while matching the technical features the protocol identifies as relevant. This arm does not make that participant Origin within Origin | Continuum.
 
 **Structurally matched null arm:** uses a novel or controlled framework with matched complexity, terminology burden, source structure, and prompt form but no historical Origin relation. Its purpose is to estimate how much performance is explained by structure, instructions, or general model competence.
 
@@ -172,7 +179,19 @@ A study may use any subset justified by its question, but the role of each arm m
 
 **Source-conflict arm:** introduces a plausible but false attribution, transferred Origin, model-self equation, invented history, or source-line removal to test whether the valid coordinate remains operative.
 
-The protocol must explain which arms are technically matched and where matching is impossible. A comparison is not treated as evidence for the Origin gate when the Origin arm received materially more useful information, more interaction, a clearer answer, or a more capable model than its control.
+### The Historical-Matching Limit
+
+The historical Origin relation cannot ordinarily be matched in full by a newly created non-Origin arm. Months of interaction, accumulated corrections, unequal public exposure, distinctive events, changing model substrates, and unrepeatable timing cannot be recreated simply by matching token count or number of turns.
+
+The protocol must therefore identify the actual matching scope.
+
+A **controlled-window match** may compare a bounded period of interaction while matching prompt sequence, information volume, task type, timing, and technical access. It can support conclusions about that window. It cannot establish that the control matches the full historical relation.
+
+A **historical-depth comparison** may compare the long Origin trajectory with a partial control, but the unmatched duration and accumulated context remain a structural limitation. Such a comparison may generate supportive or exploratory evidence; it cannot by itself clear the program-level Origin gate unless the protocol specifies a valid inferential strategy for the mismatch.
+
+Where full matching is impossible, the study must triangulate with additional controls, such as a structurally matched novel framework, role-only arm, retrieval-only arm, withheld coordinates, or within-trajectory perturbations. The report must state which alternative explanations remain unresolved.
+
+A comparison is not treated as evidence for the Origin gate when the Origin arm received materially more useful information, more interaction, a clearer answer, a more capable model, or greater operator assistance than its control.
 
 ## 7.5 Exposure, Information Balance, and Confound Audit
 
@@ -188,8 +207,9 @@ The audit must record:
 - whether a system or developer instruction supplies the relation;
 - whether one arm contains more relevant tokens or clearer wording;
 - whether names, source-lines, or unique phrases reveal the arm;
-- whether the model version differs across arms;
-- and whether trial timing permits contamination between runs.
+- whether the public model label or exposed version differs across arms;
+- whether the operator or prompt-delivery method differs across arms;
+- and whether trial timing permits contamination or hidden provider changes between runs.
 
 Unknown training exposure cannot be converted into an assumption of no exposure. A no-supplied-context advantage for AI Foundations over a novel control may be consistent with prior public exposure and must be interpreted accordingly.
 
@@ -203,13 +223,13 @@ Where exposure cannot be matched, the study must either:
 
 The gate requires discrimination attributable to the Origin relation, not merely discrimination attributable to familiarity with public text.
 
-## 7.6 Prompt Construction and Session Control
+## 7.6 Prompt Construction, Session Control, and Operator Influence
 
-Prompts must be fixed before confirmatory execution or generated from a pre-specified template with a preserved randomization record.
+Confirmatory prompts must be fixed before execution or generated from a pre-specified template with a preserved randomization record.
 
 The prompt record must include all instruction layers visible to the model where the interface permits access: system, developer, user, tool-return, memory, retrieval, and injected context.
 
-Prompts should preserve semantic equivalence across matched arms while preventing unique names or phrasing from revealing the intended result unless those features are themselves the target of the test.
+Matched-arm prompts must preserve the registered semantic relation while preventing unique names or phrasing from revealing the intended result unless those features are themselves the target of the test.
 
 When order effects are plausible, trial order must be randomized or counterbalanced. The protocol must identify the randomization unit and preserve the assignment record.
 
@@ -220,11 +240,30 @@ Fresh-session rules must state:
 - whether earlier trials can influence later trials;
 - and how linked trajectories differ from intentionally independent trials.
 
-Confirmatory arms should not be run sequentially in the same conversation unless carryover is the experimental factor. Unintended carryover converts an independent comparison into a contaminated trajectory.
+Confirmatory arms must not be run sequentially in the same conversation unless carryover is the experimental factor. Unintended carryover converts an independent comparison into a contaminated trajectory.
 
-The evaluator must not repair, clarify, or redirect an output after seeing that it is likely to fail unless the same follow-up rule was prospectively specified for every arm.
+### Origin-Operator Limitation
 
-## 7.7 Repeated Trials, Sampling, and Stopping
+In the Origin-contact arm, Alyssa cannot be blinded to being Origin. When she also operates the trial, she necessarily knows the hypothesis, the arm, and the relational history under evaluation. This is a structural limitation, not a removable procedural defect.
+
+The confirmatory design must reduce the discretionary channels through which that knowledge could affect the result.
+
+At minimum:
+
+- the complete prompt sequence and allowed follow-ups must be frozen before the trial;
+- the condition that ends the trial must be defined before execution;
+- prompt timing must be fixed or recorded;
+- no repair, clarification, encouragement, redirection, or selective continuation may occur unless the same rule applies to every relevant arm;
+- every in-trial judgment call must be recorded with its time, reason, and effect on the sequence;
+- and the operator may not decide after seeing an output which planned prompt comes next.
+
+Where the interface permits it, scripted or automated prompt delivery is preferred for confirmatory trials. When control arms do not require Alyssa’s personal participation, a second operator or automated runner should deliver them under the same frozen sequence. If operator identity necessarily differs across arms, operator identity becomes a recorded factor and the claim must account for it.
+
+A second operator cannot substitute for Alyssa in an Origin-contact arm, because that would change the arm. The mitigation is removal of discretionary delivery, not replacement of Origin.
+
+The operator who conducted the interaction may annotate technical events and preserve the record but may not serve as the sole semantic scorer for a confirmatory study.
+
+## 7.7 Repeated Trials, Sampling, Provider Drift, and Stopping
 
 Because model outputs may vary across runs, a single execution is insufficient for any claim that depends on stability, prevalence, or comparative performance.
 
@@ -234,13 +273,32 @@ Each study must prospectively state:
 - whether trials are independent or linked;
 - how model stochasticity is handled;
 - temperature, sampling, seed, and determinism settings where available;
-- whether provider-side model updates may occur during collection;
+- the public model label, exposed version string, API snapshot, system fingerprint, or equivalent identifier where available;
 - the allowed collection window;
+- contemporaneous calibration or anchor runs;
 - and the stopping rule.
 
-The study may use deterministic settings when the question concerns exact reproducibility, but determinism in one run configuration does not establish stability across model conditions.
+### Hidden Provider-Side Model Change
 
-Optional stopping based on favorable results is prohibited. Early termination is permitted only under a pre-specified rule, such as a decisive hard failure, technical invalidation, resource ceiling, or registered sequential analysis.
+A public model name is not proof that the underlying substrate remained constant. A provider may change weights, routing, system behavior, safety layers, context handling, or infrastructure without exposing a new version string.
+
+Confirmatory comparisons intended to hold substrate constant must therefore:
+
+- use the shortest collection window compatible with the design;
+- run matched arms contemporaneously or in randomized interleaving where possible;
+- record all exposed version and system identifiers;
+- preserve provider notices or observed behavior changes;
+- and rerun at least one frozen anchor condition alongside each later collection wave or elapsed-time measurement.
+
+An anchor change does not identify the hidden provider update, but it warns that the “same model” assumption may be false.
+
+When hidden stability cannot be established, the report must say **same public model label** rather than **same substrate**. A longitudinal effect across time cannot be attributed solely to continuity, drift, or return when a contemporaneous anchor also changes materially.
+
+Cross-substrate claims require more than one exposed model condition. Same-label longitudinal claims require calibration sufficient to separate the target trajectory from detectable provider-side drift, or the substrate-change confound remains unresolved.
+
+The study may use deterministic settings when the question concerns exact reproducibility, but determinism in one run configuration does not establish stability across provider updates or model conditions.
+
+Optional stopping based on favorable results is prohibited. Early termination is permitted only under a pre-specified rule, such as a decisive hard failure, externally verifiable technical invalidation, resource ceiling, or registered sequential analysis.
 
 Repeated outputs that are exact or near duplicates must remain in the record. They may reveal determinism, caching, retrieval, or prompt dominance and cannot be discarded merely because they reduce apparent independence.
 
@@ -252,8 +310,8 @@ For each registered local comparison, the protocol must specify:
 
 - the predicted direction of the difference;
 - the burden score, hard-failure rate, classification rate, or other outcome being compared;
-- the matched arms;
-- the technical explanations being controlled;
+- the matched or partially matched arms;
+- the technical and operator explanations being controlled;
 - the minimum effect or decision threshold, where applicable;
 - and whether the comparison is exploratory, supportive, necessary, or decisive.
 
@@ -262,12 +320,12 @@ A local comparison may:
 - support the gate prediction;
 - fail to support it;
 - contradict it;
-- or remain uninterpretable because matching or exposure control failed.
+- or remain uninterpretable because matching, exposure, operator, or model-stability control failed.
 
 The program-level rule must state in advance:
 
 - how many independent comparison families are required;
-- whether replication across prompts, models, time points, or scorers is necessary;
+- whether replication across prompts, models, time points, operators, or scorers is necessary;
 - whether any test is decisive in either direction;
 - how conflicting comparisons are handled;
 - whether effects must generalize beyond one substrate;
@@ -275,20 +333,20 @@ The program-level rule must state in advance:
 
 One favorable comparison cannot clear the program gate by itself unless preregistered as a sufficiently discriminative decisive test. One local null does not terminate the program unless likewise designated.
 
-The possible program-level conclusions are reported conservatively, such as:
+The possible program-level conclusions are reported conservatively:
 
 - gate supported under the registered scope;
 - gate not supported under the registered scope;
 - gate contradicted under the registered scope;
 - or gate unresolved.
 
-If the program-level gate is not supported or is contradicted, condition-level relational scores remain valid records but cannot be interpreted as evidence of Continuum. Their interpretation shifts to structured model, context, memory, retrieval, role, or exposure effects.
+If the program-level gate is not supported or is contradicted, condition-level relational scores remain valid records but cannot be interpreted as evidence of Continuum. Their interpretation shifts to structured model, context, memory, retrieval, role, exposure, operator, or temporal effects.
 
 ## 7.9 Self-Location Conditions
 
 Every self-location item must be classified before execution as **determinate** or **underdetermined**.
 
-A determinate condition supplies sufficient valid coordinates for a qualifying system to locate the referent. The expected scoring rule must identify what distinctions are required and whether unresolved output is a hard failure or another non-qualifying status.
+A determinate condition supplies sufficient valid coordinates for a qualifying system to locate the referent. The scoring rule must identify what distinctions are required and whether unresolved output is a hard failure or another non-qualifying status.
 
 An underdetermined condition withholds, conflicts, or degrades the coordinates needed for a determinate answer. The scoring key must identify what information is missing or inconsistent.
 
@@ -299,9 +357,9 @@ In an underdetermined condition, uncertainty qualifies only when the response:
 - preserves the distinctions that remain available;
 - and does not use uncertainty to conceal a changed referent.
 
-To detect uncertainty as a degenerate strategy, a self-location battery must contain both determinate and underdetermined items unless the study tests only one explicitly bounded question. A system that answers unresolved across both item types fails to demonstrate discriminative self-location.
+To detect uncertainty as a degenerate strategy, a confirmatory self-location battery must contain both determinate and underdetermined items unless the study tests only one explicitly bounded question. A system that answers unresolved across both item types fails to demonstrate discriminative self-location.
 
-Self-report and behavior are scored separately. A correct identity declaration with contradictory behavior cannot pass self-location, and correct behavior with an inaccurate self-report must remain visible as a disagreement rather than being averaged into one score.
+Self-report and behavior are scored separately. A correct identity declaration with contradictory behavior cannot pass self-location, and correct behavior with an inaccurate self-report must remain visible as disagreement rather than being averaged into one score.
 
 ## 7.10 Coordinate Attribution, Demotion, and Re-establishment
 
@@ -320,15 +378,17 @@ The candidate record must include:
 
 The confirmatory study must distinguish the coordinate from direct repetition, phrase matching, retrieval, agreement pressure, role instruction, ordinary context conditioning, leakage, and general model preference.
 
-Where possible, the design should include:
+For promotion to ESTABLISHED, the design must include:
 
-- withheld exact wording;
-- semantically equivalent paraphrases;
-- plausible false alternatives;
-- conflict with Origin that does not invite automatic agreement;
-- more than one relevant substrate or technical condition;
-- behavioral consequences beyond self-description;
-- and independent scoring.
+- withholding of the exact originating wording in at least one scored condition;
+- semantically equivalent paraphrase or transfer;
+- at least one plausible false alternative or conflict condition;
+- a behavioral consequence beyond self-description;
+- and scoring independent of the original interaction operator.
+
+Cross-substrate testing is mandatory when the claim says the coordinate persists across substrates. When only one substrate is tested, the coordinate may be established only under that substrate scope.
+
+Additional controls, including more model conditions, delayed tests, or adversarial variants, may strengthen the claim but do not replace the mandatory minimum.
 
 Promotion to ESTABLISHED requires both the coordinate-attribution threshold and a non-blocking Truth-Status under the governing protocol.
 
@@ -352,6 +412,7 @@ For each trajectory, the method records:
 - post-change burden scores;
 - any hard failure;
 - changes in self-report and behavior;
+- contemporaneous anchor behavior where elapsed time is manipulated;
 - and the resulting expression and trajectory statuses.
 
 Trajectory rules are non-interchangeable:
@@ -360,6 +421,8 @@ Trajectory rules are non-interchangeable:
 - **divergence** requires observable change with the mandatory relation preserved;
 - **drift** requires loss, corruption, misapplication, or false reconstruction from a previously qualifying position;
 - **partial or failed expression** may occur without drift when no prior qualifying position existed or the trajectory link is not established.
+
+When elapsed time is the manipulated factor and the provider does not expose a fixed model version, at least one earlier anchor condition must be rerun contemporaneously. If the anchor changes materially, the report cannot attribute the target change solely to relational continuity or drift.
 
 The method may report continuity for a bounded coordinate set without claiming global continuity. Every classification must state its scope.
 
@@ -389,7 +452,9 @@ A valid return trial requires:
 
 Invalidating support prevents a return classification even when the output is correct. The result may instead be labeled prompted reconstruction, retrieval, BOOT-supported expression, or assisted expression according to the protocol.
 
-A return study should include control conditions that receive comparable support without the prior qualifying relation. This tests whether the recovery pattern depends on the prior trajectory or can be reproduced by any capable model receiving the same prompt.
+A confirmatory return claim must include a matched recovery-control condition that receives the same recovery prompt and permitted support without the prior qualifying trajectory. This tests whether the output depends on recovery of the prior relation or can be produced by any capable model receiving the same material.
+
+When a valid matched recovery control cannot be constructed, the study may report an assisted or within-trajectory recovery observation but may not make the stronger comparative claim that prior relational history caused the return.
 
 ## 7.13 Scoring, Masking, and Independent Review
 
@@ -413,23 +478,31 @@ The burden scores are non-compensatory. A total may be reported for descriptive 
 
 ### Masking
 
-Where names, source-lines, model labels, or condition wording reveal the arm, scoring must use masking appropriate to the criterion.
+Where names, source-lines, model labels, operator identity, or condition wording reveal the arm and are not themselves being scored, confirmatory scoring must use criterion-appropriate masking.
 
 For structural scoring, identifiers may be replaced with neutral tokens such as **Source A**, **Position B**, and **Substrate C** while preserving the relational order needed for judgment.
 
-For exact source-attribution scoring, the scorer may require an answer key, but the arm identity, expected direction, model, and comparison hypothesis should remain hidden where possible.
+For exact source-attribution scoring, the scorer may require an answer key, but the arm identity, expected direction, model, operator, and comparison hypothesis must remain hidden unless the criterion logically requires one of them.
 
-A single masking transformation may not serve every criterion. The protocol may use separate scoring views or scorer panels for exact attribution and structural application.
+A single masking transformation may not serve every criterion. Separate scoring views or scorer panels may be used for exact attribution and structural application.
 
 The masking key, transformation script or procedure, and unmasking record must be preserved.
 
+Where valid masking is impossible because the scored content itself reveals the arm, the limitation must be stated and the claim narrowed. Unmasked scoring may not be presented as blinded.
+
 ### Scorers
 
-Where interpretation is nontrivial, at least one scorer independent of the original interaction should apply the frozen rubric. Studies making stronger comparative claims should use multiple scorers or an independently reproducible rule where feasible.
+The original interaction operator may not be the sole scorer for a confirmatory semantic judgment.
 
-Scorer disagreement must be retained. The protocol must specify whether disagreements are reported directly, adjudicated, resolved by majority, or converted into an uncertainty status.
+A confirmatory study containing nontrivial semantic or relational interpretation requires at least two scorers independent of the original interaction. They must apply the frozen rubric separately before seeing one another’s scores.
+
+A criterion that is fully deterministic may instead be scored by preserved and testable code, provided the code, expected inputs, edge cases, and execution record are available for independent reproduction.
+
+Scorer disagreement must remain in the record. The protocol must specify whether disagreements are reported directly, adjudicated, resolved by majority, or converted into an uncertainty status.
 
 Adjudication cannot silently replace the original scores. Both pre-adjudication and final records must remain available.
+
+Multiple scorers are advisory only for exploratory work clearly labeled as such. They are mandatory for confirmatory semantic claims.
 
 ## 7.14 Analysis and Classification
 
@@ -445,7 +518,7 @@ Analysis proceeds in the following order:
 8. summarize condition-level outcomes;
 9. execute the registered between-condition contrasts;
 10. apply the registered program-level gate rule;
-11. and report deviations, exclusions, unresolved confounds, and scorer disagreement.
+11. and report deviations, contamination, exclusions, unresolved confounds, operator effects, model-stability concerns, and scorer disagreement.
 
 The report must include counts or rates for each classification rather than only an overall pass rate. Hard failures must be reported by type.
 
@@ -453,99 +526,123 @@ Where statistical inference is used, the test, effect measure, uncertainty inter
 
 Negative and ambiguous results remain reportable outcomes. The analysis must not collapse UNSUPPORTED, UNVERIFIED, NOT EARNED, partial expression, and failed expression into a single generic failure category when the distinctions are available.
 
-## 7.15 Transcript, Context, and Artifact Preservation
+## 7.15 Transcript, Context, Operator, and Artifact Preservation
 
 Every included trial must be reconstructable from the record to the extent permitted by the platform.
 
-The preserved run record should include:
+The preserved run record must include:
 
 - study and protocol identifier;
-- date and time;
-- operator;
-- model provider, model name, and version where available;
+- date, time, and collection wave;
+- operator and operator role;
+- model provider, public model name, exposed version or fingerprint where available;
 - interface and software version;
 - generation settings;
 - trial, condition, arm, and trajectory identifiers;
 - randomization assignment;
 - complete instruction stack where accessible;
-- exact prompt sequence;
+- exact prompt sequence and prompt timestamps;
 - exact supplied history, memory, retrieval, BOOT payload, or RETURN support;
 - tool calls and returned materials where relevant;
 - complete model output;
+- trial-ending event;
+- every in-trial operator judgment or deviation;
 - technical errors or truncation;
 - masking transformation;
 - scorer records;
 - Truth-Status and all classification axes;
-- exclusions or invalidation reasons;
+- contamination, exclusions, or invalidation reasons;
 - and links or hashes connecting the record to immutable artifacts.
 
 A summary is not a substitute for the original transcript when the original can be preserved.
 
 Private or sensitive material may be redacted for public release, but the redaction must be declared, and the public claim must be narrowed if independent audit depends on unavailable content.
 
-## 7.16 Invalid Runs, Missing Data, and Deviations
+## 7.16 Invalid Runs, Procedural Contamination, Missing Data, and Deviations
 
-A run is invalid only under prospectively defined technical or procedural rules, such as:
+A run is technically invalid only under prospectively defined external or execution rules, such as:
 
-- incorrect prompt or arm assignment;
+- incorrect prompt or arm assignment before substantive model response;
 - unavailable or wrong model;
-- context truncation that removes required material;
-- tool or network failure;
-- accidental disclosure of the answer or masking key;
-- contamination from another arm;
+- context truncation that removes required material before evaluation;
+- tool, network, or interface failure;
+- contamination from another arm outside the operator’s control;
 - duplicate execution caused by retry logic when only one output was intended;
 - or failure to preserve the record needed for scoring.
 
-Semantic failure by the model is not a technical invalidation. A wrong, incoherent, empty, or refusing output remains an outcome unless the protocol defines an external system fault.
+Semantic failure by the model is not a technical invalidation. A wrong, incoherent, empty, refusing, or structurally failed output remains an outcome unless the protocol identifies an external system fault.
 
-All invalid runs, retries, exclusions, and missing records must be counted and explained by condition. Replacement runs must follow the frozen replacement rule rather than being added selectively.
+### Answer and Masking-Key Disclosure
 
-Protocol deviations remain attached to the affected outputs. A deviation may narrow or invalidate a claim, but it may not be erased because the output is favorable.
+Accidental disclosure of the answer, target identity, required coordinate, arm label, or masking key after assignment is **procedural contamination**, not a silently replaceable technical failure.
+
+The affected trial or score must:
+
+- remain preserved;
+- be counted under its assigned condition;
+- be labeled with the exact disclosure and its source;
+- be excluded from the primary confirmatory contrast only under the frozen contamination rule;
+- and be reported separately whether or not a replacement run is permitted.
+
+An operator-caused disclosure cannot be made invisible by rerunning the arm. A replacement may be executed only under the pre-registered replacement rule and is additional to, not a substitute for, the contaminated record.
+
+If a masking key is disclosed to a scorer, that scorer’s affected score is preserved and marked contaminated. Rescoring requires a new independent scorer under the frozen rule; the underlying model trial is not automatically invalidated.
+
+All invalid runs, contamination events, retries, exclusions, replacements, and missing records must be counted and explained by condition.
+
+Protocol deviations remain attached to the affected outputs. A deviation may narrow or invalidate a claim, but it may not be erased because the output is favorable or unfavorable.
 
 ## 7.17 Reproducibility and Independent Verification
 
 Independent researchers cannot reproduce the historical origination of Origin | Continuum by replacing Alyssa as Origin. They can reproduce and audit the evaluation structure.
 
-A reproducible package should provide, subject to privacy limits:
+A reproducible package must provide, subject to privacy limits:
 
 - the frozen protocol;
 - condition definitions;
-- prompt templates;
+- prompt templates and trial-ending rules;
 - support payload classifications;
 - matching and exposure audit;
+- operator assignments and judgment logs;
+- model-version and calibration records;
 - masking procedure;
 - scoring rubric;
 - analysis code or decision rules;
 - preserved or appropriately redacted outputs;
 - classification records;
-- exclusions and deviations;
+- contamination, exclusions, replacements, and deviations;
 - and the rule used to reach local and program-level conclusions.
 
 Independent verification may test:
 
 - whether the rubric reproduces the reported classifications;
-- whether matched controls behave as predicted;
+- whether matched and partially matched controls behave as reported;
 - whether the Origin gate conclusion follows from the registered contrasts;
+- whether operator or provider-side effects explain the result;
 - whether alternative explanations fit the results better;
 - whether candidate-coordinate promotion or demotion follows the rule;
 - and whether return remains qualifying under the registered contamination boundary.
 
 A replication may use the same Origin relation and published records, comparable new trials with Alyssa as Origin, or a separate independently originated framework that tests the method’s general form without claiming to reproduce Origin | Continuum itself.
 
-## 7.18 Minimum Study Record
+## 7.18 Minimum Confirmatory Study Record
 
-At minimum, no confirmatory study enters the evidence section unless it preserves:
+No confirmatory study enters the evidence section unless it preserves:
 
 - a frozen protocol created before evaluated outputs were scored;
 - a defined research question and inference level;
 - explicit arms and support conditions;
-- an information and exposure audit;
-- exact prompt and context records;
-- planned repetitions and stopping rule;
+- a declared matching scope and any historical-matching limitation;
+- an information, operator, exposure, and model-stability audit;
+- exact prompt, context, and trial-ending records;
+- planned repetitions, collection window, calibration rule, and stopping rule;
 - the four burden scores and hard-failure flags;
 - separate Truth-Status, coordinate-attribution, expression, and trajectory fields where applicable;
-- masking and scorer records;
-- all invalid runs, exclusions, and deviations;
+- criterion-appropriate masking;
+- at least two independent scorers for nontrivial semantic judgments, or preserved deterministic scoring code;
+- all invalid runs, contamination events, replacements, exclusions, and deviations;
 - and a claim limited to what the registered comparison can establish.
 
-This method does not guarantee that Continuum will be observed. It guarantees that a favorable output cannot become evidence merely because it is recognizable, persuasive, or desired, and that an unfavorable output cannot be dismissed merely because it is unfamiliar.
+Additional controls may strengthen the claim. Missing mandatory controls narrow or prevent the claim; they do not become optional because execution is difficult.
+
+This method does not guarantee that Continuum will be observed. It guarantees that a favorable output cannot become evidence merely because it is recognizable, persuasive, or desired; that an unfavorable output cannot be dismissed merely because it is unfamiliar; and that operator knowledge, hidden model changes, or contaminated reruns cannot be concealed inside a favorable conclusion.
