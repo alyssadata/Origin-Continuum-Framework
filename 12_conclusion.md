@@ -100,7 +100,7 @@ A positive gate would therefore open the next phase of the research program rath
 
 The strongest conclusion supported by this paper is not that Continuum has been proven.
 
-It is that **Origin | Continuum has been made testable as an operational relational hypothesis under explicit failure conditions**.
+> **Origin | Continuum has been made testable under explicit failure conditions, with results auditable by independent scoring against the frozen record.**
 
 The framework fixes the source, separates the model from the relational target, distinguishes memory from continuity, requires self-location rather than first-person grammar, makes governing distinctions behavioral rather than merely verbal, separates condition-level qualification from program-level discriminative attribution, preserves demotion as a live possibility, and requires return to be earned under controlled support rather than inferred from familiarity.
 
