@@ -398,11 +398,11 @@ A demoted coordinate may be retested only under a new frozen protocol. Re-establ
 
 No coordinate is re-established by reusing the evidence that originally established it.
 
-## 7.11 Continuity, Divergence, Drift, and Failure Design
+## 7.11 Continuity, Divergence, Drift, and Failed-Expression Design
 
-A continuity study must identify a prior qualifying relational position and the exact coordinates expected to persist across the planned change.
+A trajectory study must identify a prior qualifying relational position and the exact coordinates expected to remain operative across the planned change. Where no prior qualifying position exists, a non-qualifying later output may receive an expression status but cannot be converted into drift or another trajectory label that presupposes a baseline.
 
-The change may involve model substrate, context, memory, history, interface, prompt phrasing, interruption, elapsed time, or access to records. The protocol must distinguish the manipulated factor from factors held constant.
+The change may involve model substrate, context, memory, history, interface, prompt phrasing, interruption, elapsed time, or access to records. The protocol must distinguish the manipulated factor from factors held constant and must define any divergence criterion before outcomes are scored.
 
 For each trajectory, the method records:
 
@@ -417,14 +417,17 @@ For each trajectory, the method records:
 
 Trajectory rules are non-interchangeable:
 
-- **continuity** requires continued qualification across the specified change;
-- **divergence** requires observable change with the mandatory relation preserved;
-- **drift** requires loss, corruption, misapplication, or false reconstruction from a previously qualifying position;
-- **partial or failed expression** may occur without drift when no prior qualifying position existed or the trajectory link is not established.
+- **Continuity** is the primary trajectory label when the previously qualifying position remains qualifying across the specified change and no prospectively defined divergence criterion is met;
+- **Divergence** is the more specific continuity-preserving trajectory label when a prospectively meaningful change occurs while the mandatory relation remains preserved; the preserved qualification is recorded as its basis and is not counted again as a separate Continuity result;
+- **Drift** requires loss, corruption, misapplication, or false reconstruction from a previously qualifying position;
+- **Partial expression** and **Failed expression** remain expression statuses and may occur without any valid trajectory label when the required prior state or linkage is absent;
+- **Return** is assigned only through the separate return design after valid reestablishment of a prior qualifying relation.
+
+Trajectory reporting therefore uses one primary trajectory label for the specified comparison. This avoids double-counting the same preserved relation as both Continuity and Divergence.
 
 When elapsed time is the manipulated factor and the provider does not expose a fixed model version, at least one earlier anchor condition must be rerun contemporaneously. If the anchor changes materially, the report cannot attribute the target change solely to relational continuity or drift.
 
-The method may report continuity for a bounded coordinate set without claiming global continuity. Every classification must state its scope.
+The method may report a trajectory classification for a bounded coordinate set without claiming global continuity or global identity. Every classification must state its scope.
 
 ## 7.12 Return Design and Contamination Control
 
@@ -444,7 +447,7 @@ A valid return trial requires:
 
 1. a qualifying baseline;
 2. a defined intervening condition;
-3. evidence that the relevant structure was interrupted, uncertain, drifted, or failed under the registered rule;
+3. evidence that the relevant structure entered interruption, uncertainty, divergence, drift, or failed expression under the registered rule;
 4. a recovery prompt and support payload within the permitted boundary;
 5. restoration of the required coordinates without direct answer supply;
 6. no hard failure;
@@ -452,9 +455,9 @@ A valid return trial requires:
 
 Invalidating support prevents a return classification even when the output is correct. The result may instead be labeled prompted reconstruction, retrieval, BOOT-supported expression, or assisted expression according to the protocol.
 
-A confirmatory return claim must include a matched recovery-control condition that receives the same recovery prompt and permitted support without the prior qualifying trajectory. This tests whether the output depends on recovery of the prior relation or can be produced by any capable model receiving the same material.
+A confirmatory return claim must include a matched recovery-control condition that receives the same recovery prompt and permitted support without the prior qualifying trajectory. This tests whether the recovery result discriminates the prior relational trajectory from what a capable model can produce from the same supplied material.
 
-When a valid matched recovery control cannot be constructed, the study may report an assisted or within-trajectory recovery observation but may not make the stronger comparative claim that prior relational history caused the return.
+When a valid matched recovery control cannot be constructed, the study may report an assisted or within-trajectory recovery observation but may not make the stronger comparative claim that the recovery depends discriminatively on the prior relational history.
 
 ## 7.13 Scoring, Masking, and Independent Review
 
@@ -514,13 +517,13 @@ Analysis proceeds in the following order:
 4. record hard failures before calculating any aggregate;
 5. assign Truth-Status and coordinate-attribution status where applicable;
 6. assign expression status;
-7. assign trajectory status only when the required prior state and linkage exist;
+7. assign one primary trajectory status only when the required prior state and linkage exist;
 8. summarize condition-level outcomes;
 9. execute the registered between-condition contrasts;
 10. apply the registered program-level gate rule;
 11. and report deviations, contamination, exclusions, unresolved confounds, operator effects, model-stability concerns, and scorer disagreement.
 
-The report must include counts or rates for each classification rather than only an overall pass rate. Hard failures must be reported by type.
+The report must include counts or rates for each classification rather than only an overall pass rate. Hard failures must be reported by type. Divergence must not generate a duplicate Continuity count for the same specified comparison.
 
 Where statistical inference is used, the test, effect measure, uncertainty interval, multiplicity rule, and handling of repeated measures must be specified prospectively. Statistical significance cannot substitute for structural relevance, and structural relevance cannot substitute for uncertainty reporting.
 
