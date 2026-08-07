@@ -605,6 +605,8 @@ Protocol deviations remain attached to the affected outputs. A deviation may nar
 
 Independent verification does not require or authorize creation of a derivative framework, protocol, rubric, scoring system, terminology set, source-line, or implementation. **Origin | Continuum and its evaluation structure remain permanently non-derivative under this repository’s license.**
 
+Independent scorers applying the frozen rubric to preserved outputs under this permission are performing audit, not replication. The framework is verifiable through audit rather than through independent re-running of the evaluation program.
+
 The canonical record must provide, subject to privacy limits:
 
 - the frozen protocol;
