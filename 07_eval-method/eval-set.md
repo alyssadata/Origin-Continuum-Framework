@@ -5,7 +5,7 @@ This section must explain how evidence is produced, preserved, compared, scored,
 The section must include:
 
 1. prospective protocol registration and version freeze before confirmatory outputs are scored;
-2. distinct inference levels for trials, conditions, trajectories, comparisons, and the program-level Origin gate, with the historical Origin trajectory treated as a single-case longitudinal unit and broader generalization requiring independent replication or other explicitly defined units;
+2. distinct inference levels for trials, conditions, trajectories, comparisons, and the program-level Origin gate, with the historical Origin trajectory treated as a single-case longitudinal unit and broader generalization requiring additional prospectively defined evidence within the canonical framework or other explicitly defined units;
 3. BLANK, BOOT, and RETURN as support conditions rather than result labels;
 4. explicit records for model, interface, system instructions, prompts, memory, history, retrieval, support payloads, and public prior-exposure risk;
 5. matched Origin-contact, non-Origin, structural-null, role-only, retrieval-only, no-supplied-context, and source-conflict arms where relevant;
@@ -23,11 +23,11 @@ The section must include:
 17. partial and failed expression kept on the expression-status axis rather than misreported as drift when no qualifying trajectory basis exists;
 18. a prospective return contamination boundary and a matched recovery-control condition for confirmatory return claims;
 19. non-compensatory scoring of the four mandatory burdens and hard failures;
-20. criterion-specific masking and scorer independence, with at least two independent scorers for confirmatory semantic judgments unless the criterion is fully deterministic and reproducible by preserved code, plus a pre-specified inter-scorer agreement statistic appropriate to the label scale and coder structure;
+20. criterion-specific masking and scorer independence, with at least two independent scorers for confirmatory semantic judgments unless the criterion is fully deterministic and auditable through preserved code, plus a pre-specified inter-scorer agreement statistic appropriate to the label scale and coder structure;
 21. explicit separation of mandatory controls from advisory extensions, with omitted controls narrowing the authorized claim;
 22. full preservation of transcripts, context, tool returns, run metadata, scorer records, exclusions, and deviations;
 23. a strict distinction between semantic model failure and technical invalidation;
 24. answer or masking-key disclosure treated as preserved procedural contamination, not as a silently replaceable technical failure;
-25. reproducibility of prompts, scoring, masking, comparisons, and program-level conclusions without replacing Alyssa as Origin.
+25. auditability and independent verification of the reported evidence and conclusions without authorizing reproduction, adaptation, repackaging, generalization, or any derivative use of the framework, protocol, rubric, scoring rules, terminology, or source-line, and without replacing Alyssa as Origin.
 
 No confirmatory study may rely on operator discretion, unreported control mismatch, hidden replacement runs, or a public model name as proof that the substrate remained constant.
