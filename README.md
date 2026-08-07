@@ -96,6 +96,12 @@ The framework separates expression status from trajectory status.
 
 **Return** — a previously qualifying relational structure is validly reestablished after interruption, uncertainty, divergence, drift, or failed expression under a prospectively fixed contamination and recovery rule.
 
+For comparable preservation trajectories, reporting uses the union:
+
+> **Relation preserved = Continuity + Divergence**
+
+Continuity and Divergence remain mutually exclusive primary trajectory labels for the specified comparison. Each trajectory is counted once. **Relation preserved** is a reporting aggregate, not a fifth trajectory status; Drift and Return remain separate, and expression labels are not inserted to complete the trajectory total.
+
 Partial and failed expression remain expression statuses and are not automatically Drift.
 
 ## Current Evidence State
