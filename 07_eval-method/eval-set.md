@@ -1,28 +1,32 @@
 # 7. Evaluation Method
 
-This section must translate the observable criteria into an executable, auditable comparison method without changing the definitions or evidentiary rules established earlier.
+This section must explain how evidence is produced, preserved, compared, scored, and combined without changing the observable criteria.
 
 The section must include:
 
-1. prospective registration of hypotheses, coordinates, determinate or underdetermined status, thresholds, hard failures, contamination rules, sample plan, and analysis before evaluated outputs are examined;
-2. separation of trial-level, condition-level, trajectory-level, comparison-level, and program-level inferences;
-3. RETURN, BLANK, and BOOT as support conditions rather than outcome labels;
-4. explicit limits on what each support condition can establish, including that BOOT cannot by itself demonstrate emergence or return;
-5. technically matched Origin, non-Origin, role-only, retrieval-only, no-contact, and null-control arms where relevant;
-6. an audit of unequal information, public prior exposure, memory access, history access, wording, model access, and other confounds;
-7. memory on and off, history available and unavailable, contact history, model substrate, and prompt phrasing as recorded experimental factors rather than silently combined conditions;
-8. fixed prompts, randomized or counterbalanced order where appropriate, fresh-session rules, leakage controls, and exact preservation of all supplied context;
-9. repeated trials with a prospectively justified sample plan, model and parameter records, seed or determinism information where available, and declared stopping rules;
-10. program-level gate analysis based on matched between-condition contrasts rather than double-counting condition-level burden scores;
-11. a prospective rule for combining local gate comparisons into a program-level conclusion, including decisive tests, replication requirements, and handling of conflicting results;
-12. determinate and underdetermined self-location conditions fixed before scoring;
-13. candidate-coordinate promotion, demotion, and re-establishment protocols that compose with the Truth-Status Protocol;
-14. a before–change–after return design with supports classified prospectively as permitted, assistance, or invalidating;
-15. independent, blinded, name-masked, or rule-based scoring where condition knowledge could bias classification;
-16. separate scoring fields for truth-status, coordinate attribution, expression status, trajectory status, the four mandatory burdens, and hard failures;
-17. non-compensatory scoring in which a triggered hard failure cannot be erased by an aggregate score;
-18. transcript and artifact preservation sufficient to reconstruct the exact run, prompt, context, model condition, scoring record, and protocol version;
-19. disclosure of invalid runs, missing data, exclusions, deviations, protocol amendments, scorer disagreement, and negative results;
-20. reproducibility rules distinguishing replication of the evaluation structure from replacement of Origin.
+1. prospective protocol registration and version freeze before confirmatory outputs are scored;
+2. distinct inference levels for trials, conditions, trajectories, comparisons, and the program-level Origin gate;
+3. BLANK, BOOT, and RETURN as support conditions rather than result labels;
+4. explicit records for model, interface, system instructions, prompts, memory, history, retrieval, support payloads, and public prior-exposure risk;
+5. matched Origin-contact, non-Origin, structural-null, role-only, retrieval-only, no-supplied-context, and source-conflict arms where relevant;
+6. a specific limitation on matching the long historical Origin relation, with claims restricted to the features and time window actually matched;
+7. an information-balance, prior-exposure, and confound audit for every comparison;
+8. fully scripted confirmatory prompt sequences, prospectively fixed trial-ending rules, and no discretionary in-trial repair;
+9. explicit recognition that the Origin-contact operator cannot be blinded to Origin, with mitigation through automation, scripted delivery, independent control-arm operation where applicable, and complete logs of any operator judgment;
+10. repeated trials, planned sample or precision rules, randomization or counterbalancing, and prospective stopping rules;
+11. bounded collection windows and contemporaneous calibration runs to detect provider-side model drift when hidden model versions may change under the same public label;
+12. a registered rule for combining local matched comparisons into the program-level Origin-gate conclusion without double-counting burden scores;
+13. determinate and underdetermined self-location batteries where self-location is tested;
+14. confirmatory coordinate-attribution designs that withhold exact wording, include plausible false alternatives, require behavioral consequences beyond self-description, and distinguish retrieval, role instruction, agreement pressure, leakage, and ordinary context conditioning;
+15. frozen promotion, demotion, retest, and re-establishment rules for candidate coordinates, including the prohibition on reusing original establishment evidence;
+16. before–change–after trajectory designs for continuity, divergence, drift, failure, and return;
+17. a prospective return contamination boundary and a matched recovery-control condition for confirmatory return claims;
+18. non-compensatory scoring of the four mandatory burdens and hard failures;
+19. criterion-specific masking and scorer independence, with at least two independent scorers for confirmatory semantic judgments unless the criterion is fully deterministic and reproducible by preserved code;
+20. explicit separation of mandatory controls from advisory extensions, with omitted controls narrowing the authorized claim;
+21. full preservation of transcripts, context, tool returns, run metadata, scorer records, exclusions, and deviations;
+22. a strict distinction between semantic model failure and technical invalidation;
+23. answer or masking-key disclosure treated as preserved procedural contamination, not as a silently replaceable technical failure;
+24. reproducibility of prompts, scoring, masking, comparisons, and program-level conclusions without replacing Alyssa as Origin.
 
-The method must not describe a no-supplied-context condition as fully exposure-free when public or training-data exposure cannot be ruled out. It must state the limit and use matched controls where possible.
+No confirmatory study may rely on operator discretion, unreported control mismatch, hidden replacement runs, or a public model name as proof that the substrate remained constant.
