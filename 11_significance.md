@@ -303,6 +303,8 @@ Several rules introduced here are designed to prevent the framework from becomin
 - hard failures cannot be compensated by stylistic strength;
 - and the same observation cannot be counted twice as both a condition-level burden result and an independent program-level gate finding.
 
+These rules are enforced through the preserved record and independent scoring rather than through outside replication. That places the burden on auditability: the record must be complete enough that a scorer who did not run the study can reach the classifications independently.
+
 These rules make the framework harder to confirm with its own accumulated artifacts.
 
 That is a feature.
