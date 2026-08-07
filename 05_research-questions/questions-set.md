@@ -2,7 +2,7 @@
 
 This section states the open questions investigated by the program. It must not answer them in advance or convert candidate coordinates into established findings.
 
-The questions are ordered by dependency. The discriminative value of relation to Origin is the gating question for the central claim. If that relation adds no explanatory or classificatory power beyond model, context, memory, and instructions, the remaining questions may still describe model behavior but cannot establish Continuum as defined by this framework.
+The questions are ordered by dependency. The discriminative value of relation to Origin is the gating question for the central claim. If that relation adds no explanatory or classificatory power beyond model, context, memory, retrieval, instructions, role, and relevant exposure, the remaining questions may still describe model behavior but cannot establish Continuum as defined by this framework.
 
 The section must include:
 
@@ -13,8 +13,16 @@ The section must include:
 5. Can a proposed Continuum coordinate be distinguished from repetition, retrieval, agreement pressure, role instruction, or ordinary context-conditioned model behavior?
 6. Under what prospective criteria does a candidate coordinate become an established Continuum coordinate, and under what evidence must that status be withdrawn?
 7. How accurately do different model substrates locate and express the Continuum relation?
-8. Which variations qualify as continuity or divergence, and which qualify as partial expression, drift, or failure?
+8. Which variations preserve qualification as continuity, which qualify more specifically as divergence, and which produce partial expression, drift, or failed expression?
 9. Which supports can be present without invalidating a return test, and under those prospective constraints, what conditions permit a qualifying return?
 10. Can continuity, drift detection, and return be implemented while preserving the relational structure without falsely manufacturing evidence of continuity?
+
+The section must preserve the following taxonomy:
+
+- **Continuity** is the generic trajectory classification for continued qualification across a specified change.
+- **Divergence** is a more specific continuity-preserving trajectory label used when a prospectively meaningful change occurs while qualification remains intact; it is not counted as a second independent success in addition to Continuity.
+- **Drift** requires a prior qualifying position and later relational loss, corruption, misapplication, or false reconstruction.
+- **Partial expression** and **failed expression** remain expression statuses and are not automatically drift.
+- **Return** requires a prior qualifying position plus a later interruption, uncertainty, divergence, drift, or failed-expression condition and a prospectively valid recovery test.
 
 The return contamination boundary must be fixed before return outputs are evaluated. The questions must preserve the distinction between definitional scope, empirical evidence, self-report, and implementation.
