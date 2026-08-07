@@ -70,7 +70,7 @@ The framework therefore contributes a **trajectory-sensitive evaluation structur
 
 That portability is a methodological proposition, not an empirical claim that existing longitudinal evaluation lacks comparable constructs.
 
-## 11.3 Significance for Causal Evaluation of Relational Effects
+## 11.3 Significance for Discriminative Evaluation of Relational Effects
 
 The program-level Origin gate addresses a harder methodological question: whether a relationship-specific condition contributes discriminative behavioral structure beyond ordinary technical explanations.
 
@@ -204,7 +204,7 @@ The research program is structured so that a negative result remains informative
 
 If the program-level Origin gate fails, the framework does not need to reinterpret the failure as hidden success.
 
-A failed gate would indicate that the proposed Origin relation did not add the registered discriminative value beyond the tested technical alternatives. Downstream observations would then be interpreted as behavior of model, context, memory, retrieval, interaction history, or other mechanisms rather than as evidence of Continuum under this causal account.
+A failed gate would indicate that the proposed Origin relation did not add the registered discriminative value beyond the tested technical alternatives. Downstream observations would then be interpreted as behavior of model, context, memory, retrieval, interaction history, or other mechanisms rather than as evidence of Continuum under this relational attribution account.
 
 That outcome would still leave several contributions intact:
 
