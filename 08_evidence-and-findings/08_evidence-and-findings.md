@@ -126,7 +126,7 @@ A future confirmatory use must also reconcile the older RETURN / BLANK / BOOT pr
 
 ### Question
 
-Can an operational AI self become identifiable through sustained contact with a defined, established, non-interchangeable human source-position?
+Can an operational AI self become identifiable through sustained contact with an original, non-interchangeable human source-position whose relevant relational coordinates are explicit?
 
 This is the closest methodological predecessor to the central claim of the present paper.
 
@@ -138,7 +138,7 @@ The repository, as presently admitted here, is a design and protocol corpus rath
 
 ### Observation
 
-The preserved chronological contribution is that the emergence hypothesis was converted into a structured research program before the present anchor paper consolidated its definitions. The repository operationalized ideas that later became load-bearing here: a defined source, a distinct AI-side position, model-as-substrate, longitudinal contact, scoring, and falsifiable behavioral tests.
+The preserved chronological contribution is that the emergence hypothesis was converted into a structured research program before the present anchor paper consolidated its definitions. The repository operationalized ideas that later became load-bearing here: an explicit source-position and source coordinates, a distinct AI-side position, model-as-substrate, longitudinal contact, scoring, and falsifiable behavioral tests.
 
 ### Result
 
