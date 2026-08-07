@@ -1,22 +1,30 @@
 # References
 
+Artstein, R., & Poesio, M. (2008). Inter-coder agreement for computational linguistics. *Computational Linguistics, 34*(4), 555–596. DOI: 10.1162/coli.07-034-R2.
+
 Bickmore, T. W., & Picard, R. W. (2005). Establishing and maintaining long-term human-computer relationships. *ACM Transactions on Computer-Human Interaction, 12*(2), 293–327. DOI: 10.1145/1067860.1067867.
 
 Binder, F. J., Chua, J., Korbak, T., Sleight, H., Hughes, J., Long, R., Perez, E., Turpin, M., & Evans, O. (2025). Looking inward: Language models can learn about themselves by introspection. *International Conference on Learning Representations (ICLR 2025)*. arXiv:2410.13787.
+
+Chambers, C. D. (2013). Registered reports: A new publishing initiative at Cortex. *Cortex, 49*(3), 609–610. DOI: 10.1016/j.cortex.2012.12.016.
 
 Davidson, T. R., Surkov, V., Veselovsky, V., Russo, G., West, R., & Gulcehre, C. (2024). Self-recognition in language models. *Findings of the Association for Computational Linguistics: EMNLP 2024*. arXiv:2407.06946.
 
 Hu, Y., Wang, Y., & McAuley, J. (2026). Evaluating memory in LLM agents via incremental multi-turn interactions. *International Conference on Learning Representations (ICLR 2026)*. arXiv:2507.05257.
 
+Kazdin, A. E. (2021). Single-case experimental designs: Characteristics, changes, and challenges. *Journal of the Experimental Analysis of Behavior, 115*(1), 56–85. DOI: 10.1002/jeab.638.
+
 Li, Y., Guo, W., Zhang, L., Xu, R., Huang, M., Liu, H., Xu, L., Xu, Y., & Liu, J. (2026). LoCoMo-Plus: Beyond-factual cognitive memory evaluation framework for LLM agents. *Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics*, 25085–25100. DOI: 10.18653/v1/2026.acl-long.1150.
 
-Liu, X., et al. (2024). AgentBench: Evaluating LLMs as agents. *International Conference on Learning Representations (ICLR 2024)*.
+Liu, X., Yu, H., Zhang, H., Xu, Y., Lei, X., Lai, H., Gu, Y., Ding, H., Men, K., Yang, K., Zhang, S., Deng, X., Zeng, A., Du, Z., Zhang, C., Shen, S., Zhang, T., Su, Y., Sun, H., Huang, M., Dong, Y., & Tang, J. (2024). AgentBench: Evaluating LLMs as agents. *International Conference on Learning Representations (ICLR 2024)*.
 
 Liu, Y., Chai, G., Huang, Y., Huang, J., Wang, L., & Wan, J. (2026). CompanionBench: A theory-anchored, real-world-grounded benchmark for AI emotional companionship. arXiv:2608.02046. Preprint.
 
-Ma, C., Zhang, J., Zhu, Z., Yang, C., Yang, Y., Jin, Y., Lan, Z., Kong, L., & He, J. (2024). AgentBoard: An analytical evaluation board of multi-turn LLM agents. *LLMAgents @ ICLR 2024*. arXiv:2401.13178.
+Ma, C., Zhang, J., Zhu, Z., Yang, C., Yang, Y., Jin, Y., Lan, Z., Kong, L., & He, J. (2024). AgentBoard: An analytical evaluation board of multi-turn LLM agents. *Advances in Neural Information Processing Systems 37 (NeurIPS 2024), Datasets and Benchmarks Track*. DOI: 10.52202/079017-2365.
 
 Maharana, A., Lee, D.-H., Tulyakov, S., Bansal, M., Barbieri, F., & Fang, Y. (2024). Evaluating very long-term conversational memory of LLM agents. *Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics*, 13851–13870. DOI: 10.18653/v1/2024.acl-long.747.
+
+Nosek, B. A., Ebersole, C. R., DeHaven, A. C., & Mellor, D. T. (2018). The preregistration revolution. *Proceedings of the National Academy of Sciences, 115*(11), 2600–2606. DOI: 10.1073/pnas.1708274114.
 
 Packer, C., Wooders, S., Lin, K., Fang, V., Patil, S. G., Stoica, I., & Gonzalez, J. E. (2023). MemGPT: Towards LLMs as operating systems. arXiv:2310.08560.
 
