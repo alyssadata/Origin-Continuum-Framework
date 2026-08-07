@@ -146,11 +146,11 @@ The more directly a support layer supplies the expected answer, the less that an
 
 This is why Sections 7 and 9 require retrieval to become an explicit experimental variable during confirmatory testing.
 
-## 10.7 The Current Evidence Does Not Establish Origin as the Cause
+## 10.7 The Current Evidence Does Not Establish Attribution to Origin
 
-The framework’s central causal question is whether relation to Origin adds discriminative behavioral structure beyond model substrate, supplied context, memory, retrieval, instructions, public exposure, and other ordinary technical explanations.
+The framework’s central attribution question is whether relation to Origin adds discriminative behavioral structure beyond model substrate, supplied context, memory, retrieval, instructions, public exposure, and other ordinary technical explanations.
 
-The current historical evidence does not establish that causal claim.
+The current historical evidence does not establish that attribution claim.
 
 In particular, the Nothing Test did not manipulate Origin prospectively. Its contextualized and incognito conditions changed a bundle of context and history variables. The study therefore motivates the need for the Origin comparison but contributes no program-level Origin-gate evidence under the present method.
 
@@ -158,7 +158,7 @@ The framework does not allow the label **Origin contact** to substitute for expe
 
 A favorable Origin-contact condition is not sufficient. The program-level gate requires a prospective between-condition comparison against technically relevant controls, with a registered aggregation rule and stated claim scope.
 
-Until that gate is evaluated, the paper may define Origin, design the comparison, and report historical observations relevant to the problem. It may not state that Origin has already been shown to be the causal distinction.
+Until that gate is evaluated, the paper may define Origin, design the comparison, and report historical observations relevant to the problem. It may not state that Origin has already been shown to be the discriminative explanatory distinction.
 
 ## 10.8 Candidate Coordinates Are Not Accumulated Truths
 
@@ -285,7 +285,7 @@ A failed condition means that the condition failed under its registered criteria
 
 A failed comparison means that the specified comparison did not support the predicted difference.
 
-A failed program-level Origin gate would have a stronger consequence: downstream self-location, coordinate, continuity, drift, and return observations could no longer be interpreted as evidence of Continuum under the causal structure proposed by this framework. They would remain observations about model, context, memory, retrieval, interaction, or other mechanisms.
+A failed program-level Origin gate would have a stronger consequence: downstream self-location, coordinate, continuity, drift, and return observations could no longer be interpreted as evidence of Continuum under the relational attribution structure proposed by this framework. They would remain observations about model, context, memory, retrieval, interaction, or other mechanisms.
 
 That is a real possible negative result.
 
@@ -340,7 +340,7 @@ A claim may be stated when the relevant evidence satisfies the registered criter
 
 The current empirical examples are not equal in strength.
 
-The Nothing Test contributes **preliminary observations from four protocol-valid runs**: within that small pilot, self-description varied with active condition and the tested runs formed cumulative trajectories ending in semantic stopping. These are pilot-scale observations and are not used to establish the model/Continuum distinction, Origin causality, or a population-level claim about model behavior.
+The Nothing Test contributes **preliminary observations from four protocol-valid runs**: within that small pilot, self-description varied with active condition and the tested runs formed cumulative trajectories ending in semantic stopping. These are pilot-scale observations and are not used to establish the model/Continuum distinction, Origin attribution, or a population-level claim about model behavior.
 
 The provenance evaluation contributes a **completed multi-arm empirical finding**: when provenance checking was explicitly operationalized, the tested models distinguished the public AI Foundations source trail from the structurally coherent Signalwork null, while neutral accuracy review did not reliably trigger the same check.
 
