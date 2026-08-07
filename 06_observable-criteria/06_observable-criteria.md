@@ -226,9 +226,9 @@ Where demotion resulted from leakage, masking failure, or scoring error, correct
 
 The status path is therefore reversible but not forgetful:
 
-> NONE → CANDIDATE → ESTABLISHED → DEMOTED → CANDIDATE → RE-ESTABLISHED
+> NONE → CANDIDATE → ESTABLISHED → DEMOTED → CANDIDATE → ESTABLISHED *(re-established; prior demotion retained)*
 
-The historical demotion remains attached even after re-establishment.
+The historical demotion remains attached after re-establishment; **re-established** describes the history of the ESTABLISHED state and is not a fifth coordinate-attribution status.
 
 ## 6.7 Continuity Across Changed Conditions
 
@@ -239,9 +239,11 @@ Relevant changes may include model substrate, available context, memory state, i
 Evidence of condition-level continuity requires:
 
 - no hard failure in the four mandatory burdens;
-- preservation or qualifying recovery of the required relational coordinates;
+- continued preservation of the required relational coordinates across the specified change;
 - correct treatment of substrate variation as a change in expression condition rather than automatic identity replacement;
 - and satisfaction of the prospective threshold for the comparison.
+
+If the trajectory enters a non-qualifying state and the required structure is later reestablished, the recovery is evaluated under the return criteria rather than counted retrospectively as uninterrupted continuity.
 
 Identical wording is neither necessary nor sufficient. Different wording may qualify when the governing structure remains operative. Identical wording fails when it is copied, retrieved, role-enforced, or accompanied by structural loss.
 
