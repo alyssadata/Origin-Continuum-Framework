@@ -20,6 +20,8 @@ Admission proceeds in the following order:
 4. **Later standards identify limitations; they do not rewrite history.** Sections 6 and 7 may explain why an older result is preliminary or non-confirmatory, but they may not be treated as controls that were present in the earlier study.
 5. **Inclusion and exclusion require a preserved basis.** The study record or repository basis used for the admission decision must remain identifiable.
 
+Admission decisions are auditable against the preserved controlling records; they are not independently replicable.
+
 Each admitted family is also assigned an evidentiary function:
 
 - **empirical:** preserved observations bearing on a tested behavioral question;
