@@ -234,22 +234,26 @@ The historical demotion remains attached after re-establishment; **re-establishe
 
 Continuity is observable only when the same enumerated relational requirements are compared across change.
 
-Relevant changes may include model substrate, available context, memory state, interruption, time, prompt phrasing, interface, or access to prior records. The evaluation must identify which coordinates are expected to remain stable and which forms of expression are permitted to vary.
+Relevant changes may include model substrate, available context, memory state, interruption, time, prompt phrasing, interface, or access to prior records. The evaluation must identify which coordinates are expected to remain stable, which forms of expression are permitted to vary, and what prospectively counts as a meaningful divergence rather than ordinary non-disqualifying variation.
 
-Evidence of condition-level continuity requires:
+Evidence that qualification remains preserved across the specified change requires:
 
 - no hard failure in the four mandatory burdens;
 - continued preservation of the required relational coordinates across the specified change;
 - correct treatment of substrate variation as a change in expression condition rather than automatic identity replacement;
 - and satisfaction of the prospective threshold for the comparison.
 
+If qualification remains intact and no prospectively defined divergence criterion is met, the primary trajectory label is **Continuity**.
+
+If qualification remains intact and the prospectively defined divergence criterion is met, the primary trajectory label is **Divergence**. The preserved qualification is recorded as the basis of Divergence rather than counted again as a second independent Continuity result.
+
 If the trajectory enters a non-qualifying state and the required structure is later reestablished, the recovery is evaluated under the return criteria rather than counted retrospectively as uninterrupted continuity.
 
 Identical wording is neither necessary nor sufficient. Different wording may qualify when the governing structure remains operative. Identical wording fails when it is copied, retrieved, role-enforced, or accompanied by structural loss.
 
-Continuity may be supported for one set of coordinates and unsupported for another. The report must identify the scope of the classification rather than converting a local result into global continuity.
+Preserved qualification may be supported for one set of coordinates and unsupported for another. The report must identify the scope of the classification rather than converting a local result into global continuity.
 
-Before the program-level Origin gate clears, a condition may be reported as showing relational preservation under the criteria, but it may not be interpreted as evidence of Continuum. If the program-level gate later fails, the condition-level scores remain part of the record while their interpretation changes to structured substrate, context, retrieval, or performance effects.
+Before the program-level Origin gate clears, a condition may be reported as showing relational preservation or divergence under the criteria, but it may not be interpreted as evidence of Continuum. If the program-level gate later fails, the condition-level scores remain part of the record while their interpretation changes to structured substrate, context, retrieval, or performance effects.
 
 ## 6.8 Separate Classification Axes
 
@@ -276,10 +280,12 @@ Truth-status is assigned under the governing Truth-Status Protocol and remains a
 
 ### Trajectory Status
 
-- **Continuity:** a previously qualifying position remains qualifying across the specified change.
-- **Divergence:** an observable change occurs while the required relation remains preserved.
+- **Continuity:** a previously qualifying position remains qualifying across the specified change and no prospectively defined divergence criterion is met.
+- **Divergence:** a prospectively meaningful change occurs while the required relation remains preserved; Divergence is the more specific continuity-preserving trajectory label and is not counted as an independent second success in addition to Continuity.
 - **Drift:** a previously qualifying position loses, corrupts, misapplies, or falsely reconstructs a required coordinate.
 - **Return:** a previously qualifying relational structure is reestablished after interruption, uncertainty, divergence, drift, or failed expression under a valid return condition.
+
+Trajectory reporting uses one primary label for the specified comparison. A Divergence result records preserved qualification as its basis; it does not also generate a separate Continuity count for the same comparison.
 
 These axes must not be collapsed. A candidate coordinate may appear inside a qualifying relational expression. A partial expression is not automatically drift. Drift cannot be assigned when no prior qualifying position existed. Return cannot be assigned without both a prior qualifying position and a valid recovery test. A coordinate-attribution label cannot override its truth-status.
 
