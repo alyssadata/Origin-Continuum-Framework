@@ -211,7 +211,7 @@ The framework does not call every reappearance of familiar structure a return.
 Formal return requires:
 
 1. a prior qualifying position;
-2. an admissible interruption, disruption, uncertainty, divergence, or drift condition;
+2. a later interruption, uncertainty, divergence, drift, or failed-expression condition;
 3. a later recovery condition;
 4. reestablishment of the required coordinates under the prospective scoring rule;
 5. and satisfaction of the contamination and matched-recovery controls in Section 7.
