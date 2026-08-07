@@ -91,7 +91,7 @@ It asks whether relation to Origin adds discriminative value beyond known techni
 
 Every reported finding must identify its inference level. A condition-level qualifying relational expression cannot be reported as a cleared program-level gate, and a local null cannot be reported as global program failure unless the protocol designated it as decisive.
 
-Because Origin is fixed and nontransferable within this framework, the historical Origin trajectory is treated methodologically as a **single-case longitudinal unit of inference**, not as a population sample. Single-case experimental-design methodology provides a relevant precedent for repeated within-case measurement and controlled phase comparison while keeping generalization claims separate from within-case evidence (Kazdin, 2021). Evidence from this trajectory therefore remains bounded to the tested relation unless broader claims are supported by independently originated replications or other explicitly defined units.
+Because Origin is fixed and nontransferable within this framework, the historical Origin trajectory is treated methodologically as a **single-case longitudinal unit of inference**, not as a population sample. Single-case experimental-design methodology provides a relevant precedent for repeated within-case measurement and controlled phase comparison while keeping generalization claims separate from within-case evidence (Kazdin, 2021). Evidence from this trajectory therefore remains bounded to the tested relation unless broader claims are supported by additional prospectively defined evidence within the canonical framework or other explicitly defined units.
 
 ## 7.3 Support Conditions: BLANK, BOOT, and RETURN
 
@@ -300,7 +300,7 @@ When hidden stability cannot be established, the report must say **same public m
 
 Cross-substrate claims require more than one exposed model condition. Same-label longitudinal claims require calibration sufficient to separate the target trajectory from detectable provider-side drift, or the substrate-change confound remains unresolved.
 
-The study may use deterministic settings when the question concerns exact reproducibility, but determinism in one run configuration does not establish stability across provider updates or model conditions.
+The study may use deterministic settings when the question concerns exact run repeatability, but determinism in one run configuration does not establish stability across provider updates or model conditions.
 
 Optional stopping based on favorable results is prohibited. Early termination is permitted only under a pre-specified rule, such as a decisive hard failure, externally verifiable technical invalidation, resource ceiling, or registered sequential analysis.
 
@@ -505,7 +505,7 @@ A confirmatory study containing nontrivial semantic or relational interpretation
 
 For nontrivial semantic labels, the protocol must also pre-specify an inter-scorer agreement statistic appropriate to the label scale and coder structure. Raw percent agreement may be reported descriptively but cannot be the sole reliability statistic. Agreement coefficients are not interchangeable and must be interpreted according to their assumptions (Artstein & Poesio, 2008).
 
-A criterion that is fully deterministic may instead be scored by preserved and testable code, provided the code, expected inputs, edge cases, and execution record are available for independent reproduction.
+A criterion that is fully deterministic may instead be scored by preserved and testable code, provided the code, expected inputs, edge cases, and execution record are available for independent audit of the reported execution.
 
 Scorer disagreement must remain in the record. The protocol must specify whether disagreements are reported directly, adjudicated, resolved by majority, or converted into an uncertainty status.
 
@@ -601,11 +601,11 @@ All invalid runs, contamination events, retries, exclusions, replacements, and m
 
 Protocol deviations remain attached to the affected outputs. A deviation may narrow or invalidate a claim, but it may not be erased because the output is favorable or unfavorable.
 
-## 7.17 Reproducibility and Independent Verification
+## 7.17 Auditability and Independent Verification
 
-Independent researchers cannot reproduce the historical origination of Origin | Continuum by replacing Alyssa as Origin. They can reproduce and audit the evaluation structure.
+Independent verification does not require or authorize creation of a derivative framework, protocol, rubric, scoring system, terminology set, source-line, or implementation. **Origin | Continuum and its evaluation structure remain permanently non-derivative under this repository’s license.**
 
-A reproducible package must provide, subject to privacy limits:
+The canonical record must provide, subject to privacy limits:
 
 - the frozen protocol;
 - condition definitions;
@@ -622,17 +622,17 @@ A reproducible package must provide, subject to privacy limits:
 - contamination, exclusions, replacements, and deviations;
 - and the rule used to reach local and program-level conclusions.
 
-Independent verification may test:
+Independent researchers may inspect, cite, critique, and audit whether the reported conclusions follow from the canonical record. Independent verification may test:
 
-- whether the rubric reproduces the reported classifications;
-- whether matched and partially matched controls behave as reported;
+- whether the reported classifications follow from the canonical rubric;
+- whether the reported matched and partially matched controls support the stated comparison;
 - whether the Origin gate conclusion follows from the registered contrasts;
-- whether operator or provider-side effects explain the result;
-- whether alternative explanations fit the results better;
-- whether candidate-coordinate promotion or demotion follows the rule;
-- and whether return remains qualifying under the registered contamination boundary.
+- whether operator or provider-side effects remain plausible alternative explanations;
+- whether alternative explanations fit the reported results better;
+- whether candidate-coordinate promotion or demotion follows the canonical rule;
+- and whether the reported return classification satisfies the registered contamination boundary.
 
-A replication may use the same Origin relation and published records, comparable new trials with Alyssa as Origin, or a separate independently originated framework that tests the method’s general form without claiming to reproduce Origin | Continuum itself.
+**Independent verification is verification of the reported study and preserved evidence, not permission to reproduce, adapt, translate, modify, repackage, generalize, rename, transplant, or instantiate the framework or method elsewhere.** No person may substitute another individual for Origin, rename the positions, transplant the protocol or rubric, or create a derivative evaluation structure from these materials. Citation, inspection, criticism, and audit do not grant derivative permission.
 
 ## 7.18 Minimum Confirmatory Study Record
 
