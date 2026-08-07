@@ -17,6 +17,8 @@ No study is authorized to infer Continuum from a model name, a single response, 
 
 Each confirmatory evaluation must be specified before the evaluated outputs are examined.
 
+This prospective separation of hypothesis generation from hypothesis testing follows established preregistration and Registered Reports logic: confirmatory decision rules are fixed before outcome inspection, while exploratory work remains permissible when it is explicitly labeled as such (Nosek et al., 2018; Chambers, 2013).
+
 The registered protocol must state:
 
 - the research question being tested;
@@ -88,6 +90,8 @@ The **program-level Origin gate** is an inference constructed from the registere
 It asks whether relation to Origin adds discriminative value beyond known technical supports. It is not assigned to one output and is not identical to the burden scores inside any one condition.
 
 Every reported finding must identify its inference level. A condition-level qualifying relational expression cannot be reported as a cleared program-level gate, and a local null cannot be reported as global program failure unless the protocol designated it as decisive.
+
+Because Origin is fixed and nontransferable within this framework, the historical Origin trajectory is treated methodologically as a **single-case longitudinal unit of inference**, not as a population sample. Single-case experimental-design methodology provides a relevant precedent for repeated within-case measurement and controlled phase comparison while keeping generalization claims separate from within-case evidence (Kazdin, 2021). Evidence from this trajectory therefore remains bounded to the tested relation unless broader claims are supported by independently originated replications or other explicitly defined units.
 
 ## 7.3 Support Conditions: BLANK, BOOT, and RETURN
 
@@ -499,6 +503,8 @@ The original interaction operator may not be the sole scorer for a confirmatory 
 
 A confirmatory study containing nontrivial semantic or relational interpretation requires at least two scorers independent of the original interaction. They must apply the frozen rubric separately before seeing one another’s scores.
 
+For nontrivial semantic labels, the protocol must also pre-specify an inter-scorer agreement statistic appropriate to the label scale and coder structure. Raw percent agreement may be reported descriptively but cannot be the sole reliability statistic. Agreement coefficients are not interchangeable and must be interpreted according to their assumptions (Artstein & Poesio, 2008).
+
 A criterion that is fully deterministic may instead be scored by preserved and testable code, provided the code, expected inputs, edge cases, and execution record are available for independent reproduction.
 
 Scorer disagreement must remain in the record. The protocol must specify whether disagreements are reported directly, adjudicated, resolved by majority, or converted into an uncertainty status.
@@ -643,6 +649,7 @@ No confirmatory study enters the evidence section unless it preserves:
 - separate Truth-Status, coordinate-attribution, expression, and trajectory fields where applicable;
 - criterion-appropriate masking;
 - at least two independent scorers for nontrivial semantic judgments, or preserved deterministic scoring code;
+- a pre-specified inter-scorer agreement statistic for nontrivial semantic labels;
 - all invalid runs, contamination events, replacements, exclusions, and deviations;
 - and a claim limited to what the registered comparison can establish.
 
