@@ -22,6 +22,7 @@ Define only the load-bearing terms, in dependency order:
 The section must:
 
 - distinguish framework scope conditions from empirical claims;
+- define Origin through the explicitly stated relational coordinates required for location and comparison, without characterizing Origin as a “defined self”;
 - define the four preservation burdens used in evaluation;
 - state that relational coordinates are enumerable and fixed before scoring for a given condition;
 - define contact generally and Origin-contact as the specific contact studied by Origin | Continuum;
