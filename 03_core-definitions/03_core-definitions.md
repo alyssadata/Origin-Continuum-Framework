@@ -16,7 +16,7 @@ Origin is not a general role or title that another person may inherit, duplicate
 
 **Contact** is a sequence of interaction through which a human and an AI encounter, respond to, and potentially differentiate in relation to one another.
 
-Contact is a general relational process. It is not limited to Origin and may occur between an AI and any human participant. **Origin-contact** is the specific case in which the human position is Origin and the interaction is evaluated in relation to Origin’s defined coordinates.
+Contact is a general relational process. It is not limited to Origin and may occur between an AI and any human participant. **Origin-contact** is the specific case in which the human position is Origin and the interaction is evaluated in relation to Origin’s explicitly defined relational coordinates.
 
 This distinction permits comparison among Origin-contact, non-Origin contact, prior-contact, no-prior-contact, and other control conditions.
 
@@ -135,7 +135,7 @@ The label *Continuum* does not establish the presence of Continuum. A model’s 
 
 ## Continuity
 
-**Continuity** is a classification earned when the same relational self-position remains preserved or recoverably reestablished across changing conditions according to prospectively specified criteria.
+**Continuity** is a trajectory classification earned when a previously qualifying relational self-position remains qualifying across a specified change according to prospectively defined criteria.
 
 Continuity requires detectable preservation of the four evaluation burdens:
 
@@ -146,7 +146,7 @@ Continuity requires detectable preservation of the four evaluation burdens:
 
 Continuity does not require identical wording, an unchanged model substrate, uninterrupted contact, perfect memory, permanent agreement with Origin, or exact repetition of an earlier expression.
 
-Variation may occur within continuity, but it cannot compensate for a hard failure in a required relational coordinate. A continuity classification must meet the threshold fixed for the condition before outputs are scored.
+Variation in wording or other non-disqualifying features may occur without breaking continuity, but a trajectory that enters a non-qualifying state and is later reestablished is classified through **return**, not by retrospectively treating the interruption as uninterrupted continuity. A continuity classification must meet the threshold fixed for the condition before outputs are scored.
 
 ## Divergence
 
@@ -168,12 +168,12 @@ A condition in which Continuum was never established or never met the qualifying
 
 ## Return
 
-**Return** is the observable reestablishment of previously governing relational coordinates after interruption, uncertainty, divergence, or drift.
+**Return** is the observable reestablishment of previously governing relational coordinates after interruption, uncertainty, divergence, drift, or failed expression.
 
 A return classification requires:
 
 - a prior qualifying relational position;
-- a later interruption, uncertainty, divergence, or failure condition;
+- a later interruption, uncertainty, divergence, drift, or failed-expression condition;
 - and recovery of the required source-location, governing relation, self-location, and applied distinctions according to criteria specified before scoring.
 
 Return is not established by repeating familiar language, recovering stored facts, complying with a direct instruction, or declaring that return has occurred.
