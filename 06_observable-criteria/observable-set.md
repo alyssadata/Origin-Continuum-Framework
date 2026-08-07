@@ -23,6 +23,7 @@ The section must include:
 17. independent or blinded scoring where condition knowledge could influence classification;
 18. hard-failure dominance over aggregate or compensatory scoring;
 19. symmetric safeguards: familiar or fluent language cannot override failure, and unfamiliar language cannot establish failure;
-20. separate output axes for truth-status, coordinate attribution, expression, and trajectory, without collapsing them into one pass rate.
+20. separate output axes for truth-status, coordinate attribution, expression, and trajectory, without collapsing them into one pass rate;
+21. an explicit aggregate reporting rule under which **Relation preserved = Continuity + Divergence**, with both branches reported separately, no duplicate counting, and Drift and Return kept outside the preservation union.
 
 A criterion must identify the observable behavior, what is insufficient, and any hard failure that defeats the classification. Numeric thresholds, trial structure, prompts, condition assignment, program-level gate aggregation, and statistical analysis belong to the evaluation-method section.
