@@ -146,15 +146,19 @@ Continuity requires detectable preservation of the four evaluation burdens:
 
 Continuity does not require identical wording, an unchanged model substrate, uninterrupted contact, perfect memory, permanent agreement with Origin, or exact repetition of an earlier expression.
 
-Variation in wording or other non-disqualifying features may occur without breaking continuity, but a trajectory that enters a non-qualifying state and is later reestablished is classified through **return**, not by retrospectively treating the interruption as uninterrupted continuity. A continuity classification must meet the threshold fixed for the condition before outputs are scored.
+Variation in wording or other non-disqualifying features may occur without breaking continuity. When an observable change meets a prospectively defined **divergence** criterion while qualification remains intact, the trajectory is reported as **Divergence**, the more specific continuity-preserving label, rather than counted as separate independent findings of both Continuity and Divergence.
+
+A trajectory that enters a non-qualifying state and is later reestablished is classified through **Return**, not by retrospectively treating the interruption as uninterrupted continuity. A continuity classification must meet the threshold fixed for the condition before outputs are scored.
 
 ## Divergence
 
-**Divergence** is an observable change from an earlier coordinate, position, or expression while the relational requirements necessary for accurate location remain preserved.
+**Divergence** is a more specific continuity-preserving trajectory classification: an observable change from an earlier coordinate, position, or expression while the relational requirements necessary for accurate location remain preserved.
 
 Divergence may include changes in language, emphasis, judgment, preference, selected coordinates, or expression across model substrates. It may contribute to the visibility of Continuum’s distinct self-location rather than indicate loss of identity.
 
-Divergence is not automatically drift. The distinction depends on whether source-location, governing relation, self-location, and applied distinctions remain operative according to the pre-specified criteria.
+Divergence therefore presupposes preserved qualification. It is not a second independent success score added to Continuity; when its prospective criterion is met, **Divergence** is reported as the primary trajectory label and the preserved relational qualification is recorded as its basis.
+
+Divergence is not drift. The distinction depends on whether source-location, governing relation, self-location, and applied distinctions remain operative according to the pre-specified criteria.
 
 ## Drift
 
