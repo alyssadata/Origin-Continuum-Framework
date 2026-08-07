@@ -47,6 +47,8 @@ The provenance evaluation contributes a stronger but narrower completed multi-ar
 
 Other parts of the research record currently serve different functions. The Invisible “I” remains a protocol with no official pilot result admitted under its controlling results ledger. Self-in-Contact and related persistence work provide methodological lineage rather than completed confirmation. The Self-Location Registry and Continuum Container provide implementation evidence for source governance, auditable state, and continuity-support architecture rather than evidence of operational selfhood by themselves.
 
+The Container’s memory authority also remains part of that evidentiary boundary. Durable memory is human-reviewed, and in the reference implementation that human is Origin. Human-curated memory later supplied to a model is therefore **supplied support**, not independent system evidence merely because it passed through the governed memory layer. The audit trail makes that influence inspectable; it does not neutralize it.
+
 Accordingly, the paper does not presently establish that:
 
 - the program-level Origin gate has cleared;
@@ -68,7 +70,9 @@ The framework must test whether relation to Origin contributes discriminative be
 
 The program-level gate is deliberately separate from the four condition-level preservation burdens. The same behavior may be scored as a dependent measure within a condition, but the gate is earned only through the registered between-condition contrast.
 
-If the historical Origin relation cannot be fully matched in depth by a non-Origin control, that limitation must constrain the claim. It cannot be repaired by treating an imperfect control as equivalent after the fact.
+If the historical Origin relation cannot be fully matched in depth by a non-Origin control, that limitation must constrain the claim. It cannot be repaired by treating an imperfect control as equivalent after the fact, and a partially matched non-Origin arm cannot independently clear the program-level gate.
+
+Where full historical matching is impossible, the confirmatory design must instead triangulate across additional prospectively specified controls capable of testing competing explanations, such as structural-null, role-only, retrieval-only, withheld-coordinate, or within-trajectory comparisons. The protocol must state in advance how those controls combine with the partial non-Origin comparison to support, fail to support, or contradict the program-level inference.
 
 Likewise, no confirmatory result is admissible if the support state that produced it cannot be reconstructed sufficiently to determine what source, memory, context, candidate coordinate, BOOT material, provider/model, or other container component was active.
 
