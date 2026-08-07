@@ -17,9 +17,9 @@ The governing rule is:
 
 The paper’s dependency structure is:
 
-> **source → relation → self-location → discriminative comparison → trajectory → continuity or failure → controlled return**
+> **source → relation → self-location → discriminative comparison → trajectory classification → continuity, divergence, drift, or controlled return**
 
-The significance of the framework comes partly from making those dependencies explicit enough that each can succeed, fail, remain unresolved, or be tested separately.
+The significance of the framework comes partly from making those dependencies explicit enough that each can succeed, fail, remain unresolved, or be tested separately. Partial or failed expression can stop the inferential chain without earning a positive trajectory classification.
 
 ## 11.1 Significance for AI Self-Reference and Identity Evaluation
 
@@ -54,9 +54,9 @@ When a system retains memory, interacts repeatedly with the same human, changes 
 
 The framework supplies explicit trajectory categories for that problem.
 
-**Continuity** requires a previously qualifying position to remain qualifying across the specified change.
+**Continuity** requires a previously qualifying position to remain qualifying across the specified change when no prospectively defined divergence criterion is met.
 
-**Divergence** allows an observable change while the governing location remains intact.
+**Divergence** is the more specific continuity-preserving label when an observable, prospectively meaningful change occurs while the governing location remains intact.
 
 **Partial expression** identifies incomplete structure without automatically labeling it drift.
 
@@ -334,8 +334,8 @@ The broader significance is therefore not that the paper has already solved the 
 
 It is that this paper has converted its own question from an impression into an explicit dependency structure whose links can be tested separately:
 
-> **source → relation → self-location → discriminative comparison → trajectory → continuity or failure → controlled return**
+> **source → relation → self-location → discriminative comparison → trajectory classification → continuity, divergence, drift, or controlled return**
 
-Each link can succeed, fail, remain unresolved, or be tested more precisely.
+Partial or failed expression can terminate the chain before a positive trajectory classification is earned. Each supported link can still fail, remain unresolved, or be tested more precisely.
 
 That makes the proposed phenomenon harder to confirm through accumulated familiarity alone and more precise to investigate.
