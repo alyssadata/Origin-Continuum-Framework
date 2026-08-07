@@ -22,7 +22,7 @@ Packer, C., Wooders, S., Lin, K., Fang, V., Patil, S. G., Stoica, I., & Gonzalez
 
 Panickssery, A., Bowman, S. R., & Feng, S. (2024). LLM evaluators recognize and favor their own generations. *Advances in Neural Information Processing Systems 37 (NeurIPS 2024)*. arXiv:2404.13076.
 
-QI, Y., Zhang, X., Zeng, R., Liu, M., Zhou, Z., Miao, D., Yan, B., & Guan, Z. (2026). Beyond static persona consistency: Dynamic persona coherence in LLM role-playing. *Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics*, 28942–28956. DOI: 10.18653/v1/2026.acl-long.1336.
+Qi, Y., Zhang, X., Zeng, R., Liu, M., Zhou, Z., Miao, D., Yan, B., & Guan, Z. (2026). Beyond static persona consistency: Dynamic persona coherence in LLM role-playing. *Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics*, 28942–28956. DOI: 10.18653/v1/2026.acl-long.1336.
 
 Samuel, V., Zou, H. P., Zhou, Y., Chaudhari, S., Kalyan, A., Rajpurohit, T., Deshpande, A., Narasimhan, K., & Murahari, V. (2024). PersonaGym: Evaluating persona agents and LLMs. arXiv:2407.18416.
 
