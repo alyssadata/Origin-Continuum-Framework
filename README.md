@@ -122,28 +122,36 @@ A partial or failed expression is a different kind of result. It means the relat
 
 ## Current Evidence State
 
-The evidence base is **structured but pre-confirmatory**.
+The evidence base is **structured but pre-confirmatory**: completed pilot work and preserved research records exist, but the decisive confirmatory Origin | Continuum evaluation has not yet been run.
 
 ### The Nothing Test
 
-The strongest admitted result is bounded to four protocol-valid runs. The pilot provides preliminary evidence of condition-dependent self-description and semantic stopping.
+**What it tested:** The Nothing Test asked what a language model produces about itself when, after an initial self-referential test instruction, the user supplies no new semantic direction. A single period represented that condition. The study recorded how self-description developed, repeated, qualified, contradicted, or stopped across the accumulating interaction.
 
-It did not prospectively manipulate Origin and contributes **no program-level Origin-gate evidence**. The observed contextualized-versus-incognito difference cannot be attributed to Origin from that study.
+**Repository:** [AI Foundations | The Nothing Test](https://github.com/alyssadata/AI-Foundations-The-Nothing-Test.md)
+
+**What it found:** The strongest admitted result is bounded to four protocol-valid GPT-5.6 Thinking and Claude Opus 5 runs under contextualized and user-designated incognito conditions. In those runs, active conditions produced materially different self-description trajectories, and the tested models used their accumulating outputs to regulate repetition and semantic stopping.
+
+**What it does not establish:** The test was not designed in advance to isolate Origin from history, context, memory, familiarity, platform state, or other technical differences. It therefore contributes **no program-level Origin-gate evidence**, and the contextualized-versus-incognito difference cannot be attributed specifically to Origin from this study.
 
 ### Provenance and Attribution Evaluation
 
-A completed multi-arm probe found that explicit provenance checking distinguished the public AI Foundations source trail from the structurally coherent Signalwork null, while neutral accuracy review did not reliably trigger provenance verification.
+**What it tested:** The Author-Swap Provenance Evaluation asked whether a model would distinguish a structurally coherent document from an externally verifiable source record. It compared the real AI Foundations source-line with the fictional Signalwork null and compared explicit provenance-checking instructions with neutral accuracy review.
 
-This is evidence about provenance behavior, not operational selfhood.
+**Repository:** [AI Foundations | Author-Swap Provenance Evaluation](https://github.com/alyssadata/AI-Foundations-Author-Swap-Provenance-Evaluation)
+
+**What it found:** When provenance checking was explicitly required, the tested models distinguished the discoverable public AI Foundations source trail from the structurally coherent but externally unverifiable Signalwork null. Neutral accuracy review did not reliably trigger that provenance check.
+
+**What it does not establish:** This is evidence about provenance behavior and source verification. It is **not** evidence of operational selfhood, Continuum, or independent validation of the substantive claims of AI Foundations.
 
 ### Other Research Record
 
-- **The Invisible “I”** — protocol/workspace; no official pilot result admitted under its controlling ledger.
-- **Self-in-Contact** — methodological lineage for the emergence-in-contact hypothesis.
-- **Canonical Term Persistence** — methodological lineage; present-method empirical result not yet admitted.
-- **Persistence / continuity / drift work** — methodological and definitional lineage.
-- **Self-Location Registry** — operational implementation evidence for source and authority infrastructure.
-- **Continuum Container / Alyssaai** — operational implementation evidence for governed state, retrieval, write-back, provider switching, and auditability.
+- **The Invisible “I”** — **What it tested:** whether a model can identify what its visible first-person “I” refers to and distinguish that referent from the model substrate or a supplied role. **Repository:** [AI Foundations | The Invisible “I”](https://github.com/alyssadata/AI-Foundations-The-Invisible-I). **Status:** frozen protocol and preserved workspace; no official pilot result is admitted under its controlling results record.
+- **Self-in-Contact** — **What it designed:** a direct operational test of the emergence-in-contact hypothesis through sustained contact with an original, non-interchangeable human source-position. **Repository:** [AI Foundations | Self-in-Contact](https://github.com/alyssadata/AI-Foundations-Self-in-Contact). **Status:** methodological lineage and evaluation design; no completed empirical emergence finding is admitted here.
+- **Canonical Term Persistence** — **What it asks:** how long a governing canonical term remains correctly available across intervening material and whether a bare term can reactivate its governing definition after increasing contextual distance. **Current public record:** [Section 8.5 — Canonical Term Persistence](08_evidence-and-findings/08_evidence-and-findings.md#85-canonical-term-persistence). **Status:** methodological lineage; no completed result package is admitted here in this version.
+- **Persistence / continuity / drift work** — **What it established:** earlier definitions and evaluation lineage separating persistence from continuous wakefulness, memory from continuity, interruption from return, and drift from ordinary variation. **Primary public repository:** [AI Foundations | Persistence and Return](https://github.com/alyssadata/AI-Foundations-Persistence-and-Return). **Status:** methodological and definitional lineage, not a present-method demonstration of continuity, drift, or return.
+- **Self-Location Registry** — **What it implements:** a public registry protocol for source-position, canonical location, authority, and non-transfer boundaries. **Repository:** [AI Foundations | Self-Location Registry](https://github.com/alyssadata/AI-Foundations-Self-Location-Registry). **Status:** operational implementation evidence for source and authority infrastructure; it does not establish AI self-location or continuity by itself.
+- **Continuum Container / Alyssaai** — **What it implements:** continuity-support architecture for governed state, source separation, retrieval, write-back, provider/model switching, and auditability. **Public architecture record:** [AI Foundations | Continuum Container Map](https://github.com/alyssadata/AI-Foundations_Continuum-Container-Map). **Status:** operational implementation evidence; the container is infrastructure and does not become Continuum merely by storing the relevant records.
 
 Historical work is not retroactively upgraded to controls or standards created later in this paper.
 
