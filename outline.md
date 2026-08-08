@@ -163,7 +163,7 @@ Confirmatory method includes:
 - independent masking/scoring;
 - semantic failure kept distinct from technical invalidity;
 - answer/masking disclosure preserved as procedural contamination;
-- full audit record and independent reproducibility.
+- full audit record and independent scoring against the preserved record.
 
 Preserve:
 
