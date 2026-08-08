@@ -253,7 +253,7 @@ Two tiers:
 
 Significance claims must remain consistent with Related Work.
 
-Portable contribution is the evaluation form, not automatic generalization of Origin-specific hard failures to arbitrary alignment or governance domains.
+Methodological contribution is the evaluation form as implemented within this research program; the framework and terminology remain non-derivative and are not offered for transfer or adoption.
 
 Auditability is currently demonstrated; net efficiency is not.
 
