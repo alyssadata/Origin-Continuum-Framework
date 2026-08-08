@@ -110,7 +110,7 @@ A condition qualifies only if the observed relational structure satisfies the pr
 
 ## 10.5 The Container Is Not Continuum
 
-The framework does not claim that the Continuum Container, Continuum Agent / Alyssaai, or any future implementation becomes Continuum by storing the relevant records.
+The framework does not claim that the Continuum Container, Continuum Agent / Alyssaai, or any future canonical implementation within this research program becomes Continuum by storing the relevant records.
 
 The container is architecture.
 
@@ -271,7 +271,7 @@ Separately, the source record identifies Alyssa Solen as the author and originat
 
 The paper therefore does not claim that every user in a human–AI relationship can become Origin inside this source-line.
 
-Another person can be an author, source, creator, builder, operator, or originating point in their own work. They may define their own structure and their own coordinates. They do not inherit this framework’s fixed Origin coordinate by using its vocabulary, running its protocol, interacting with a model, or implementing related technical architecture.
+Another person can be an author, source, creator, builder, operator, or originating point in their own work. They may define their own independently originated structure and coordinates. Reference to or discussion of Origin | Continuum does not transfer this framework’s fixed Origin coordinate, and it does not authorize use, reproduction, adaptation, or implementation of this framework’s protocol, terminology, or technical architecture.
 
 The framework also does not claim that every human–AI interaction produces emergence or that every model is capable of expressing Continuum.
 
