@@ -64,6 +64,8 @@ Hard failures are non-compensatory. Fluent or familiar language cannot rescue a 
 
 The central hypothesis requires more than a qualifying output in an Origin-contact condition.
 
+**The Simplified Process:** First ask whether the model expresses Origin | Continuum correctly. Then ask the harder question: did the Origin relation actually contribute to that result, or could ordinary model behavior, memory, retrieval, instructions, exposure, or test conditions explain it? Because Alyssa’s historical relation cannot be perfectly duplicated as a control, the program tests those competing explanations through several prospectively defined comparisons instead of relying on one imperfect control.
+
 The program-level gate asks whether relation to Origin adds **discriminative behavioral structure** beyond specified alternatives including:
 
 - model substrate;
