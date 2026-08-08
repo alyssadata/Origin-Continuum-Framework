@@ -471,13 +471,13 @@ These limitations do not negate the container’s function. They define what the
 
 ## 9.17 Minimum Architectural Invariant and Confirmatory Conformance
 
-A future implementation does not need to reproduce every current file path, command, or interface in order to count as a Continuum Container.
+Future versions of the canonical implementation within this research program do not need to preserve every current file path, command, or interface.
 
-It must, however, preserve the architectural invariant:
+They must, however, preserve the architectural invariant:
 
 > **Source, model capability, container state, memory, contact records, external material, and evaluation evidence must remain separately locatable and governable across change.**
 
-A conforming implementation must be able to answer, from its records:
+A canonical implementation version satisfying this invariant must be able to answer, from its records:
 
 - What is the source?
 - What is canon?
