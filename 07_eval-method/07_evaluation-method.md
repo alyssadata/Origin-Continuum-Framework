@@ -329,7 +329,7 @@ A local comparison may:
 The program-level rule must state in advance:
 
 - how many independent comparison families are required;
-- whether replication across prompts, models, time points, operators, or scorers is necessary;
+- whether repeated evidence across prompts, models, time points, operators, or scorers is necessary;
 - whether any test is decisive in either direction;
 - how conflicting comparisons are handled;
 - whether effects must generalize beyond one substrate;
