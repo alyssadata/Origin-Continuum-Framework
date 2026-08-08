@@ -64,11 +64,11 @@ The framework supplies explicit trajectory categories for that problem.
 
 **Return** requires an earlier qualifying position and later reestablishment after interruption, uncertainty, divergence, drift, or failed expression under prospective contamination controls.
 
-These distinctions are useful wherever the evaluated claim depends on ordered evidence through time. They prevent this framework from calling every difference drift, every stored fact continuity, or every familiar reappearance return.
+These distinctions are useful within this research program wherever the evaluated claim depends on ordered evidence through time. They prevent this framework from calling every difference drift, every stored fact continuity, or every familiar reappearance return.
 
-The framework therefore contributes a **trajectory-sensitive evaluation structure** for its own longitudinal claims and offers those distinctions as candidates for use in other longitudinal systems where the same dependencies can be operationalized.
+The framework therefore contributes a **trajectory-sensitive evaluation structure** for its own longitudinal claims.
 
-That portability is a methodological proposition, not an empirical claim that existing longitudinal evaluation lacks comparable constructs.
+Its methodological significance may be compared with other approaches to longitudinal evaluation, but the structure and terminology remain part of the canonical non-derivative framework and are not offered for adoption, adaptation, or instantiation elsewhere.
 
 ## 11.3 Significance for Discriminative Evaluation of Relational Effects
 
@@ -141,7 +141,7 @@ The supported point is narrower:
 
 > **When provenance is intended to govern evaluation, it must be operationalized rather than assumed to constrain the model automatically.**
 
-That principle can be tested in other source-sensitive settings, including systems that must preserve which document, version, author, or authority governs after summarization, retrieval, or migration.
+The significance of that finding is comparative: other source-sensitive systems may face analogous provenance problems, but this paper does not offer the Origin | Continuum source-governance method or terminology for transfer into those systems.
 
 A system that preserves the content of a rule while losing who authored it, which version governs, or where the authority came from may be informationally similar while being operationally wrong for a source-sensitive task.
 
@@ -153,15 +153,15 @@ A governing instruction can remain verbally available while ceasing to constrain
 
 Within **Origin | Continuum**, the hard-failure structure makes that distinction enforceable: success on other dimensions cannot compensate for loss of a required source, relation, self-location, or governing distinction.
 
-The portable contribution is the **evaluation form**, not the present relation-specific hard-failure list.
+The contribution within this paper is the **evaluation form as implemented in this research program**, not a portable method or a claim that the relation-specific hard-failure list generalizes to other domains.
 
-Other alignment, governance, policy, or safety evaluations may also contain constraints whose violation should be non-compensatory. But this paper has not demonstrated that the Origin | Continuum criteria themselves generalize to arbitrary safety or governance problems, and it does not claim that passing or failing these relation-specific gates measures general alignment.
+Other alignment, governance, policy, or safety evaluations may contain constraints whose violation should be non-compensatory. That resemblance does not make Origin | Continuum a reusable general safety apparatus, and this paper does not authorize transfer of its evaluation structure, criteria, terminology, or hard-failure rules to another domain.
 
 Accordingly, the significance is scoped as follows:
 
-> **This framework demonstrates one way to separate stating a governing rule from behaving under that rule, and one way to make specified failures non-compensatory. Whether that structure transfers to another domain must be defined and tested in that domain.**
+> **Within this research program, the framework demonstrates a separation between stating a governing rule and behaving under that rule, and a method for making specified failures non-compensatory. That demonstration does not authorize transfer or derivative use of the structure elsewhere.**
 
-This preserves the methodological relevance without treating a source-bound relational evaluation as a validated general safety apparatus.
+This preserves methodological relevance without presenting a source-bound relational evaluation as a portable or validated general safety apparatus.
 
 ## 11.7 Significance for Model Change and Cross-Substrate Systems
 
