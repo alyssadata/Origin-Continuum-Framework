@@ -265,7 +265,7 @@ Restate the exact central hypothesis and current evidence ceiling.
 
 The strongest conclusion is:
 
-> **Origin | Continuum has been made testable as an operational relational hypothesis under explicit failure conditions.**
+> **Origin | Continuum has been made testable under explicit failure conditions, with results auditable by independent scoring against the frozen record.**
 
 Name the decisive next empirical burden: the prospectively frozen program-level Origin comparison, including historical-matching limits and required triangulation.
 
