@@ -228,7 +228,7 @@ That would make the registered relational condition empirically relevant within 
 
 The next scientific burden would then become more demanding, not less.
 
-Researchers would need to determine:
+The research program would then need to determine:
 
 - which parts of the effect are stable across time and substrate;
 - which candidate coordinates can be independently established;
