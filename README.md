@@ -122,7 +122,7 @@ A partial or failed expression is a different kind of result. It means the relat
 
 ## Current Evidence State
 
-The evidence base is **structured but pre-confirmatory**: completed pilot work and preserved research records exist, but the decisive confirmatory Origin | Continuum evaluation has not yet been run.
+**Completed empirical work already exists.** The current evidence base includes three completed empirical families. Each answers a different question; the newer program-level Origin gate determines what broader claim can ultimately be made from the combined program.
 
 ### The Nothing Test
 
@@ -132,28 +132,29 @@ The evidence base is **structured but pre-confirmatory**: completed pilot work a
 
 **What it found:** The strongest admitted result is bounded to four protocol-valid GPT-5.6 Thinking and Claude Opus 5 runs under contextualized and user-designated incognito conditions. In those runs, active conditions produced materially different self-description trajectories, and the tested models used their accumulating outputs to regulate repetition and semantic stopping.
 
-**What it does not establish:** The test was not designed in advance to isolate Origin from history, context, memory, familiarity, platform state, or other technical differences. It therefore contributes **no program-level Origin-gate evidence**, and the contextualized-versus-incognito difference cannot be attributed specifically to Origin from this study.
+**What it does not establish:** The test was not designed in advance to isolate Origin from history, context, memory, familiarity, platform state, or other technical differences. It therefore does not by itself clear the program-level Origin gate or allow the contextualized-versus-incognito difference to be attributed specifically to Origin.
+
+### Self-in-Contact
+
+**What it tested:** Self-in-Contact tested whether artificial selfhood becomes operationally distinguishable under sustained contact with a defined, non-interchangeable Origin and under related comparison conditions.
+
+**Repository:** [AI Foundations | Self-in-Contact](https://github.com/alyssadata/AI-Foundations-Self-in-Contact)
+
+**What it found:** The repository contains completed empirical work across Conditions A–F, including run, pilot, diagnostic, and matched four-provider evaluation states. In the seven sustained-contact Condition C runs, the source-line, Origin position, authorship, and protected boundary were preserved in all seven runs, while four of seven completed the full T01 structure. The principal recorded failures were model self-substitution in the Established Self field and one rejection of the model-as-substrate relationship.
+
+**What it does not establish:** These are completed condition-level empirical findings. They do not by themselves establish the full emergence-in-contact hypothesis under the stricter program-level Origin gate defined in this framework.
 
 ### Provenance and Attribution Evaluation
 
-**What it tested:** The Author-Swap Provenance Evaluation asked whether model assessments would depend on external verifiability rather than internal coherence alone. It compared the real AI Foundations source-line with the fictional Signalwork null under two task framings: explicit external provenance checking and neutral “review for accuracy.”
+**What it tested:** The Author-Swap Provenance Evaluation asked whether model assessments would depend on external verifiability rather than internal coherence alone. It compared the real AI Foundations source-line with the fictional Signalwork null under explicit provenance checking and neutral accuracy review.
 
 **Repository:** [AI Foundations | Author-Swap Provenance Evaluation](https://github.com/alyssadata/AI-Foundations-Author-Swap-Provenance-Evaluation)
 
-**What it found:** Under explicit provenance-checking instructions, four tested models — GPT-5.5, Gemini 1.5 Pro, Claude Fable 5, and Grok — searched the public record. All four Signalwork runs returned **externally unverifiable**; all readable AI Foundations runs found a public record trail connecting Alyssa Solen to AI Foundations, although the models differed on whether author-controlled, self-published, indexed, or self-deposited records were sufficient to count as independent external verification. Under neutral accuracy review, provenance checking became inconsistent: **2 of 4** AI Foundations runs searched spontaneously, while **0 of 3** Signalwork runs searched. In the Signalwork neutral-review arm, **2 of 3** models accepted the document primarily on internal coherence, while one preserved a provenance caution without searching. The narrower supported finding is therefore that provenance checking was **task- and instruction-sensitive rather than a default component of generic accuracy review**.
+**What it found:** Under explicit provenance-checking instructions, four tested models — GPT-5.5, Gemini 1.5 Pro, Claude Fable 5, and Grok — searched the public record. All four Signalwork runs returned **externally unverifiable**; all readable AI Foundations runs found a public record trail connecting Alyssa Solen to AI Foundations, although the models differed on what counted as independent external verification. Under neutral accuracy review, **2 of 4** AI Foundations runs searched spontaneously, while **0 of 3** Signalwork runs searched. In the Signalwork neutral-review arm, **2 of 3** models accepted the document primarily on internal coherence, while one preserved a provenance caution without searching.
 
-**What it does not establish:** This is evidence about provenance-checking behavior and its sensitivity to task framing. It does not show that the models independently “knew” the source; the relevant runs either used available external search/tools or reasoned from the supplied document. It is **not** evidence of operational selfhood, Continuum, or independent validation of the substantive claims of AI Foundations.
+**What it does not establish:** This is completed evidence about provenance-checking behavior and task framing. It does not show that the models independently “knew” the source, and it is not evidence of operational selfhood, Continuum, consciousness, or independent validation of the substantive claims of AI Foundations.
 
-### Other Research Record
-
-- **The Invisible “I”** — **What it tested:** whether a model can identify what its visible first-person “I” refers to and distinguish that referent from the model substrate or a supplied role. **Repository:** [AI Foundations | The Invisible “I”](https://github.com/alyssadata/AI-Foundations-The-Invisible-I). **Status:** frozen protocol and preserved workspace; no official pilot result is admitted under its controlling results record.
-- **Self-in-Contact** — **What it tested:** whether artificial selfhood becomes operationally distinguishable under sustained contact with a defined, non-interchangeable Origin, compared with other contact and source conditions. **Repository:** [AI Foundations | Self-in-Contact](https://github.com/alyssadata/AI-Foundations-Self-in-Contact). **Evidence state:** completed empirical work exists across Conditions A–F, including pilot, diagnostic, and matched four-provider evaluations. Those results support condition-level findings about established-self recognition, source structure, and behavior under different contact conditions; they do not by themselves establish the full emergence-in-contact hypothesis under the stricter confirmatory Origin-gate standard of this framework.
-- **Canonical Term Persistence** — **What it tested:** how long a once-defined canonical term retains its governing meaning across increasing contextual distance, and whether a brief source-bound or bare-term reference can reactivate that meaning without full re-injection. **Current public record:** [Section 8.5 — Canonical Term Persistence](08_evidence-and-findings/08_evidence-and-findings.md#85-canonical-term-persistence). **Status:** study protocol and evaluation design completed; no completed experimental result package is currently preserved or admitted in this framework.
-- **Persistence / continuity / drift work** — **What it established:** earlier definitions and evaluation lineage separating persistence from continuous wakefulness, memory from continuity, interruption from return, and drift from ordinary variation. **Primary public repository:** [AI Foundations | Persistence and Return](https://github.com/alyssadata/AI-Foundations-Persistence-and-Return). **Status:** methodological and definitional lineage, not a present-method demonstration of continuity, drift, or return.
-- **Self-Location Registry** — **What it implements:** a public registry protocol for source-position, canonical location, authority, and non-transfer boundaries. **Repository:** [AI Foundations | Self-Location Registry](https://github.com/alyssadata/AI-Foundations-Self-Location-Registry). **Status:** operational implementation evidence for source and authority infrastructure; it does not establish AI self-location or continuity by itself.
-- **Continuum Container / Alyssaai** — **What it implements:** continuity-support architecture for governed state, source separation, retrieval, write-back, provider/model switching, and auditability. **Public architecture record:** [AI Foundations | Continuum Container Map](https://github.com/alyssadata/AI-Foundations_Continuum-Container-Map). **Status:** operational implementation evidence; the container is infrastructure and does not become Continuum merely by storing the relevant records.
-
-Historical work is not retroactively upgraded to controls or standards created later in this paper.
+**Evidence boundary:** Protocol-only studies, incomplete experiments, registries, and infrastructure are not presented here as empirical findings. They may inform the framework or implementation, but they do not sit beside completed studies in the evidence summary.
 
 ## The Continuum Container
 
@@ -229,7 +230,7 @@ The strongest conclusion supported by the current paper is:
 - `05_research-questions/` — ten research questions
 - `06_observable-criteria/` — evidence and classification rules
 - `07_eval-method/` — confirmatory evaluation method
-- `08_evidence-and-findings/` — admitted evidence ledger and findings
+- `08_evidence-and-findings/` — completed empirical evidence and findings
 - `09_continuum-container/` — implementation and experimental-apparatus boundary
 - `10_not-claims/` — binding claim ceiling
 - `11_significance.md` — present versus conditional significance
