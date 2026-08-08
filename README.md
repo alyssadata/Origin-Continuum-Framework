@@ -43,7 +43,7 @@ A condition-level qualifying relational expression must satisfy:
 3. **self-location**;
 4. **applied governing distinctions**.
 
-Hard failures are non-compensatory. Fluent or familiar language cannot rescue a structural failure, and unfamiliar wording cannot establish one.
+Hard failures are non-compensatory. Fluent or familiar language cannot rescue a structural failure, and unfamiliar language cannot establish one.
 
 ## Program-Level Origin Gate
 
@@ -193,7 +193,7 @@ The governing boundary is:
 
 The strongest conclusion supported by the current paper is:
 
-> **Origin | Continuum has been made testable as an operational relational hypothesis under explicit failure conditions.**
+> **Origin | Continuum has been made testable under explicit failure conditions, with results auditable by independent scoring against the frozen record.**
 
 ## Repository Map
 
