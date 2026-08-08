@@ -56,7 +56,7 @@ The following are insufficient:
 
 Each comparison may support, fail to support, or contradict the gate prediction. A local null does not automatically terminate the entire program unless the protocol identified that comparison in advance as decisive. Conversely, one favorable comparison does not clear the program-level gate.
 
-The evaluation method must specify before analysis how local comparisons combine into the program-level conclusion, including any decisive test, minimum replication requirement, aggregation rule, and stopping condition.
+The evaluation method must specify before analysis how local comparisons combine into the program-level conclusion, including any decisive test, minimum repeated-comparison requirement, aggregation rule, and stopping condition.
 
 Until that rule is satisfied, the gate remains unresolved. If the prospectively defined program-level gate fails, downstream outputs may still be valid observations of model, context, memory, retrieval, or role effects, but they cannot establish Continuum as defined by this framework.
 
@@ -378,9 +378,9 @@ Where knowledge of the condition could influence interpretation, scoring must be
 
 The scorer must apply prospective criteria to preserved outputs rather than infer the intended arm from names, source-lines, model labels, or prompt content when those features are not themselves being scored.
 
-Disagreement among scorers must remain part of the record. A classification is not strengthened by hiding ambiguity, and independent failure to reproduce a reported classification counts against the claim.
+Disagreement among scorers must remain part of the record. A classification is not strengthened by hiding ambiguity, and independent failure to reach a reported classification under the frozen rubric counts against the claim.
 
-The evaluation method will specify masking procedure, scorer number, adjudication rule, reliability analysis, and the program-level gate aggregation rule. The observable criterion here is that classifications can be reproduced from the published rule and evidence rather than from privileged knowledge of what an output was expected to show.
+The evaluation method will specify masking procedure, scorer number, adjudication rule, reliability analysis, and the program-level gate aggregation rule. The observable criterion here is that classifications can be independently derived from the frozen rule and preserved evidence rather than from privileged knowledge of what an output was expected to show.
 
 ## 6.13 Minimum Qualifying Structure
 
