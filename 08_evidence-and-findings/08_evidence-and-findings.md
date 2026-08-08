@@ -35,7 +35,7 @@ These functions are not interchangeable. Methodological lineage can show that a 
 | The Nothing Test | Empirical | Completed pilot / preliminary evidence | Four-run evidence of condition-dependent self-description, cumulative output trajectories, and semantic stopping | Any program-level Origin-gate inference, attribution of the observed difference to Origin, consciousness, persistent hidden self |
 | The Invisible I | Methodological lineage | Frozen protocol and preserved study workspace; no official pilot result admitted by its controlling results record | Test design for visible “I,” referent classification, and RETURN / BLANK / BOOT comparison | Any empirical conclusion from the planned twelve-run pilot until official result status is updated under its own protocol |
 | Self-in-Contact | Empirical + methodological lineage | Completed empirical work across Conditions A–F, including run, pilot, diagnostic, and matched four-provider evaluation states; G–J remain planned/unrun | Condition-level findings about established-self recognition, source-line and source-structure preservation, behavior under different contact/source conditions, and prior operationalization of the emergence-in-contact hypothesis | Full emergence-in-contact under the present program-level Origin gate, consciousness, or any claim that requires the stricter confirmatory architecture of Sections 6 and 7 |
-| Canonical Term Persistence | Methodological lineage | Research-program question; no completed result package admitted here at this version | A persistence and bare-term-reactivation evaluation design | Confirmatory evidence of canonical-term persistence under the present method |
+| Canonical Term Persistence | Methodological lineage | Study protocol and evaluation design completed; no completed experimental result package currently preserved or admitted in this framework | A persistence and bare-term-reactivation evaluation design | Empirical evidence of canonical-term persistence under the present method |
 | Provenance and attribution evaluations | Empirical | Completed multi-arm empirical probe | Explicit provenance checking distinguished the public AI Foundations record from the Signalwork null; neutral provenance checking was task- and instruction-sensitive, with 2/4 AI Foundations runs searching spontaneously and 0/3 Signalwork runs searching | Operational selfhood, Continuum, model knowledge of the source independent of the task, or independent validation of substantive AI Foundations claims |
 | Persistence / continuity / drift work | Methodological lineage | Canon definitions and evaluation lineage; confirmatory status not established here | Prior separation of memory, persistence, interruption, return, and source-bound continuity | A present-method demonstration of continuity, drift, or return |
 | Self-Location Registry | Operational implementation | Implemented public registry protocol | Source, authority, canonical-location, and non-transfer boundaries can be represented and indexed | AI self-location, emergence, continuity, or return by itself |
@@ -172,23 +172,23 @@ The research program developed this question through horizon and bare-term react
 
 ### Condition
 
-At the time of this anchor-paper version, no completed result package from Canonical Term Persistence is admitted into this Section 8 ledger under the current repository controls.
+The study protocol and evaluation design are complete. At the time of this anchor-paper version, no completed experimental result package from Canonical Term Persistence is currently preserved or admitted into this Section 8 ledger.
 
-The research question remains part of the methodological lineage because it directly separates persistence of a governing definition from stylistic or lexical memory.
+The absence of a completed result package concerns execution and results status, not whether the study itself was designed. The completed methodological structure directly separates persistence of a governing definition from stylistic or lexical memory.
 
 ### Observation
 
-The contribution currently admitted is conceptual and methodological: canonical persistence must be measured over increasing separation and must distinguish mere lexical recall from restoration of the governing definition.
+The completed methodological contribution is the defined persistence and reactivation test structure: canonical persistence is evaluated across increasing contextual distance, and bare-term or source-bound reactivation is distinguished from full definition re-injection and from mere lexical recall.
 
 ### Result
 
-No empirical finding is claimed here.
+No empirical finding is claimed here because a completed experimental result package is not currently preserved or admitted.
 
-> **Research question and evaluation lineage established; empirical result pending admission.**
+> **Study protocol and evaluation design completed; experimental result package not currently completed or admitted.**
 
 ### Limitation
 
-A future result must specify the term, exact governing definition, interference interval, bare-term prompt, scoring rule, hard failures, exposure condition, and whether successful reactivation reflects retained context, memory retrieval, public exposure, or another mechanism.
+The remaining burden is empirical execution and result preservation under the defined study structure. Any admitted result must specify the term, exact governing definition, interference interval, bare-term prompt, scoring rule, hard failures, exposure condition, and whether successful reactivation reflects retained context, memory retrieval, public exposure, or another mechanism.
 
 Without those controls, the paper cannot infer continuity from successful term completion alone.
 
