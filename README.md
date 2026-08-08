@@ -103,23 +103,22 @@ Truth-Status remains a separate axis from coordinate attribution.
 
 ## Longitudinal Taxonomy
 
-The framework separates expression status from trajectory status.
+**Expression status asks whether the relation qualifies at a given point. Trajectory status asks what happened to a previously qualifying relation across time or change.**
 
-**Continuity** — a previously qualifying position remains qualifying across the specified change when no registered divergence criterion is met.
+- **Continuity** — the relation remains qualifying without a registered meaningful change.
+- **Divergence** — the relation remains qualifying while undergoing a registered meaningful change. The relation is still preserved.
+- **Drift** — a previously qualifying relation loses, corrupts, misapplies, or falsely reconstructs a required coordinate.
+- **Return** — a previously qualifying relation becomes nonqualifying, interrupted, or uncertain and is later validly reestablished under the predefined recovery rule.
 
-**Divergence** — the more specific continuity-preserving trajectory label when a prospectively meaningful change occurs while the required relation remains intact. It is not a duplicate Continuity success and is not Drift.
+So Continuity and Divergence are both successful preservation outcomes. The difference is whether a registered meaningful change occurred.
 
-**Drift** — a previously qualifying position loses, corrupts, misapplies, or falsely reconstructs a required coordinate.
-
-**Return** — a previously qualifying relational structure is validly reestablished after interruption, uncertainty, divergence, drift, or failed expression under a prospectively fixed contamination and recovery rule.
-
-For comparable preservation trajectories, reporting uses the union:
+For comparable preservation trajectories, reporting therefore uses:
 
 > **Relation preserved = Continuity + Divergence**
 
-Continuity and Divergence remain mutually exclusive primary trajectory labels for the specified comparison. Each trajectory is counted once. **Relation preserved** is a reporting aggregate, not a fifth trajectory status; Drift and Return remain separate, and expression labels are not inserted to complete the trajectory total.
+Continuity and Divergence remain mutually exclusive primary trajectory labels for the specified comparison: a trajectory is counted as one or the other, not both. **Relation preserved** is only a reporting aggregate, not a fifth trajectory status.
 
-Partial and failed expression remain expression statuses and are not automatically Drift.
+A partial or failed expression is a different kind of result. It means the relation did not qualify at that point. **It does not automatically become Drift**, because Drift requires a previously qualifying relation followed by loss or corruption across time or change.
 
 ## Current Evidence State
 
