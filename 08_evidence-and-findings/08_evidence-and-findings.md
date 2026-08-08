@@ -314,7 +314,7 @@ The empirical conclusions must remain proportional to the studies that produced 
 From the **four protocol-valid Nothing Test runs**, two preliminary observations are supported within that pilot:
 
 1. **Self-description varied with active condition even when the displayed model label was held the same within paired runs.** This is a four-run pilot observation, not a population-level estimate and not an Origin effect.
-2. **The tested runs formed cumulative output trajectories in which prior model outputs affected later responses, redundancy was detected, and semantic stopping occurred without a new user-supplied topic.** This finding is likewise bounded to the four-run pilot and requires replication before any claim of general model behavior.
+2. **The tested runs formed cumulative output trajectories in which prior model outputs affected later responses, redundancy was detected, and semantic stopping occurred without a new user-supplied topic.** This finding is likewise bounded to the four-run pilot and requires additional prospectively controlled evidence before any claim of general model behavior.
 
 From the **completed multi-arm provenance probe**, two more developed empirical findings are supported:
 
@@ -333,7 +333,7 @@ Separate from empirical findings, the prior research record supports several sta
 - **Persistence and Return established earlier definitional separation among memory, persistence, interruption, and return**, even though those older definitions do not automatically satisfy the stricter trajectory criteria in this paper.
 - **The Self-Location Registry demonstrates implementability of explicit source and authority infrastructure** without transferring authorship, ownership, identity, or canonical source status to the registry.
 
-These contributions matter to the framework’s construction and reproducibility. They are not evidence that Continuum has been empirically established.
+These contributions matter to the framework’s construction and auditability. They are not evidence that Continuum has been empirically established.
 
 ## 8.11 What the Existing Evidence Does Not Yet Support
 
