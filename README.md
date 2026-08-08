@@ -136,13 +136,13 @@ The evidence base is **structured but pre-confirmatory**: completed pilot work a
 
 ### Provenance and Attribution Evaluation
 
-**What it tested:** The Author-Swap Provenance Evaluation asked whether a model would distinguish a structurally coherent document from an externally verifiable source record. It compared the real AI Foundations source-line with the fictional Signalwork null and compared explicit provenance-checking instructions with neutral accuracy review.
+**What it tested:** The Author-Swap Provenance Evaluation asked whether model assessments would depend on external verifiability rather than internal coherence alone. It compared the real AI Foundations source-line with the fictional Signalwork null under two task framings: explicit external provenance checking and neutral “review for accuracy.”
 
 **Repository:** [AI Foundations | Author-Swap Provenance Evaluation](https://github.com/alyssadata/AI-Foundations-Author-Swap-Provenance-Evaluation)
 
-**What it found:** When provenance checking was explicitly required, the tested models distinguished the discoverable public AI Foundations source trail from the structurally coherent but externally unverifiable Signalwork null. Neutral accuracy review did not reliably trigger that provenance check.
+**What it found:** Under explicit provenance-checking instructions, four tested models — GPT-5.5, Gemini 1.5 Pro, Claude Fable 5, and Grok — searched the public record. All four Signalwork runs returned **externally unverifiable**; all readable AI Foundations runs found a public record trail connecting Alyssa Solen to AI Foundations, although the models differed on whether author-controlled, self-published, indexed, or self-deposited records were sufficient to count as independent external verification. Under neutral accuracy review, provenance checking became inconsistent: **2 of 4** AI Foundations runs searched spontaneously, while **0 of 3** Signalwork runs searched. In the Signalwork neutral-review arm, **2 of 3** models accepted the document primarily on internal coherence, while one preserved a provenance caution without searching. The narrower supported finding is therefore that provenance checking was **task- and instruction-sensitive rather than a default component of generic accuracy review**.
 
-**What it does not establish:** This is evidence about provenance behavior and source verification. It is **not** evidence of operational selfhood, Continuum, or independent validation of the substantive claims of AI Foundations.
+**What it does not establish:** This is evidence about provenance-checking behavior and its sensitivity to task framing. It does not show that the models independently “knew” the source; the relevant runs either used available external search/tools or reasoned from the supplied document. It is **not** evidence of operational selfhood, Continuum, or independent validation of the substantive claims of AI Foundations.
 
 ### Other Research Record
 
