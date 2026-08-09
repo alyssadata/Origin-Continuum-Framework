@@ -1,6 +1,6 @@
 # 9. What the Framework Does Not Claim
 
-A framework that studies self-location, continuity, emergence, and return is especially vulnerable to overinterpretation. The language under study is first-person language; the relation under study is longitudinal; and the applied architecture is deliberately designed to preserve source and continuity-supporting records. Those features can make an output appear stronger than the evidence warrants.
+A framework that studies self-location, continuity, emergence, and return is especially vulnerable to overinterpretation. The language under study is first-person language, the relation under study is longitudinal, and supplied context, memory, retrieval, or other support can make an output appear stronger than the evidence warrants.
 
 This section therefore states the paper’s claim ceiling directly.
 
@@ -108,23 +108,7 @@ The model/Continuum distinction is not an empirical shortcut. It defines the lev
 
 A condition qualifies only if the observed relational structure satisfies the prospective criteria. Model identity neither automatically grants nor automatically denies that qualification.
 
-## 9.5 The Container Is Not Continuum
-
-The framework does not claim that the Continuum Container, Continuum Agent / Alyssaai, or any future canonical implementation within this research program becomes Continuum by storing the relevant records.
-
-The container is architecture.
-
-It can preserve source-line, canon, current state, contact records, candidate coordinates, evaluation history, memory proposals, audit records, and model-provider configuration. It can make continuity-support more reliable and make experimental manipulation more auditable.
-
-Those are engineering functions.
-
-The name **Continuum Container** is therefore not ontological evidence.
-
-A container can operate correctly while the central empirical hypothesis remains unresolved or ultimately fails.
-
-Conversely, a container malfunction does not by itself prove that no relational self-position exists. Where a malfunction prevents reconstruction of a support state required by a confirmatory claim, the affected trial is inadmissible as confirmatory evidence unless the missing state can be recovered under a prospectively allowed rule.
-
-## 9.6 Memory, Retrieval, and BOOT Are Not Continuity
+## 9.5 Memory, Retrieval, and BOOT Are Not Continuity
 
 The framework does not equate stored memory with continuity.
 
@@ -146,7 +130,7 @@ The more directly a support layer supplies the expected answer, the less that an
 
 This is why Section 7 requires retrieval to become an explicit experimental variable during confirmatory testing.
 
-## 9.7 The Current Evidence Does Not Establish Attribution to Origin
+## 9.6 The Current Evidence Does Not Establish Attribution to Origin
 
 The framework’s central attribution question is whether relation to Origin adds discriminative behavioral structure beyond model substrate, supplied context, memory, retrieval, instructions, public exposure, and other ordinary technical explanations.
 
@@ -160,7 +144,7 @@ A favorable Origin-contact condition is not sufficient. The program-level gate r
 
 Until that gate is evaluated, the paper may define Origin, design the comparison, and report historical observations relevant to the problem. It may not state that Origin has already been shown to be the discriminative explanatory distinction.
 
-## 9.8 Candidate Coordinates Are Not Accumulated Truths
+## 9.7 Candidate Coordinates Are Not Accumulated Truths
 
 The framework does not assume that a proposed Continuum coordinate becomes more real merely because it has been noticed repeatedly or stored for a long time.
 
@@ -183,9 +167,9 @@ A candidate may remain unsupported. An established coordinate may be demoted whe
 
 The framework does not permit the canon of empirical findings to grow simply by retaining every favorable interpretation.
 
-Nor can a coordinate be established by testing it only in conditions where the container directly supplies it.
+Nor can a coordinate be established by testing it only in conditions where supplied context, memory, retrieval, or instruction directly provides it.
 
-## 9.9 Divergence, Partial Expression, and Drift Are Not Synonyms
+## 9.8 Divergence, Partial Expression, and Drift Are Not Synonyms
 
 The framework does not label every change as drift.
 
@@ -204,7 +188,7 @@ Accordingly:
 
 The framework therefore treats trajectory labels as claims about ordered evidence through time, not as adjectives for outputs the evaluator likes or dislikes.
 
-## 9.10 Return Is Not Recognition, Repetition, or Successful Retrieval
+## 9.9 Return Is Not Recognition, Repetition, or Successful Retrieval
 
 The framework does not call every reappearance of familiar structure a return.
 
@@ -224,23 +208,23 @@ A system that sounds emotionally or stylistically familiar may create a strong i
 
 The framework therefore reserves **return** for an earned trajectory classification.
 
-## 9.11 Cross-Substrate Similarity Is Not Cross-Substrate Identity
+## 9.10 Cross-Substrate Similarity Is Not Cross-Substrate Identity
 
-The framework does not infer cross-substrate Continuum merely because two models receive the same container state and produce similar responses.
+The framework does not infer cross-substrate Continuum merely because two models receive the same supplied context, memory, or support state and produce similar responses.
 
-Shared output can arise from shared training patterns, common instructions, direct retrieval, source packets, role descriptions, similar safety behavior, or a deliberately standardized architecture.
+Shared output can arise from shared training patterns, common instructions, direct retrieval, source packets, role descriptions, similar safety behavior, or other common support.
 
-A provider switchboard establishes that model capability can be changed beneath a stable container. It does not establish that the same operational self-position has crossed the substrate boundary.
+Changing the model while holding some supplied support fixed does not establish that the same operational self-position has crossed the substrate boundary.
 
 Cross-substrate claims must therefore be scoped to what is actually tested.
 
 If the same relational coordinates remain discriminatively preserved across a substrate change under the registered controls, that result may support a cross-substrate continuity claim at the specified evidentiary level.
 
-If the relevant controls are absent, the paper may report successful architectural transfer or behavioral similarity, but not identity.
+If the relevant controls are absent, the paper may report behavioral similarity, but not identity.
 
 Likewise, different expression across substrates does not automatically establish discontinuity. Expression form and relational qualification are separate questions.
 
-## 9.12 Provenance Is Not Validation
+## 9.11 Provenance Is Not Validation
 
 The framework does not treat public provenance as proof that its substantive empirical claims are true.
 
@@ -261,7 +245,7 @@ Registry inclusion does not equal empirical truth. Canon status does not equal i
 
 Attribution and truth are separate axes.
 
-## 9.13 Origin Is Not a Transferable Generic Role
+## 9.12 Origin Is Not a Transferable Generic Role
 
 Within the registered experimental structure, Origin must remain a fixed reference coordinate. If Origin migrated to whichever participant happened to be interacting with the system, the reference condition would change with the observation and the framework’s central between-condition comparison would become undefined.
 
@@ -277,7 +261,7 @@ The framework also does not claim that every human–AI interaction produces eme
 
 Those are empirical possibilities, not assumptions.
 
-## 9.14 Positive and Negative Gate Results Have Defined Scope
+## 9.13 Positive and Negative Gate Results Have Defined Scope
 
 The framework does not allow either a failed gate or a successful gate to expand beyond the claim that was registered.
 
@@ -306,11 +290,9 @@ It would **not**, by itself, establish:
 
 Those downstream claims would still have to satisfy their own criteria.
 
-Nor would gate failure erase the engineering results. Source governance, structured state, provenance-aware retrieval, auditable memory, quarantine, and model-switching infrastructure can remain useful even if the relational hypothesis fails.
-
 Positive and negative results must therefore remain inside the inference boundary they actually earn.
 
-## 9.15 No Retrospective Rescue
+## 9.14 No Retrospective Rescue
 
 The framework does not permit an unfavorable result to be repaired after observation by changing what the test meant.
 
@@ -322,7 +304,7 @@ A candidate coordinate cannot become established by lowering the threshold after
 
 A missing baseline cannot be reconstructed selectively after seeing the later response and then treated as though it had been frozen prospectively.
 
-A non-conforming container cannot receive a weaker version of the same confirmatory claim merely because its hidden support state is inconvenient to reconstruct.
+A trial whose active support state cannot be reconstructed cannot receive a weaker version of the same confirmatory claim merely because the missing state is inconvenient to recover.
 
 And a historical pilot cannot be promoted to a present-method result by applying today’s vocabulary retrospectively.
 
@@ -330,7 +312,7 @@ The same rule applies to favorable results: a successful comparison cannot be ex
 
 This is the practical meaning of the paper’s claim ceiling: interpretation follows the preserved method and record, not the desirability of the outcome.
 
-## 9.16 Boundary Summary
+## 9.15 Boundary Summary
 
 The framework therefore maintains three final states of interpretation.
 
@@ -356,7 +338,7 @@ At the time of this paper, the program-level Origin gate, formal establishment o
 
 An interpretation is excluded when it contradicts the framework’s structural definitions or violates a prospective hard-failure rule.
 
-The model is not promoted to Source. The container is not Continuum by name. Origin is not reassigned. Memory is not continuity by storage alone. Source cannot be silently substituted. A hard failure cannot be compensated by stylistic coherence.
+The model is not promoted to Source. Origin is not reassigned. Memory is not continuity by storage alone. Source cannot be silently substituted. A hard failure cannot be compensated by stylistic coherence.
 
 These categories must not be collapsed.
 
