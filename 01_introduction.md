@@ -51,7 +51,7 @@ Taken together, this literature narrows rather than weakens the contribution of 
 - a program-level test of whether relation to Origin adds discriminative value beyond context, memory, retrieval, instruction, exposure, and role effects;
 - reversible candidate-coordinate attribution rather than cumulative identity assertion;
 - continuity, divergence, drift, and return as trajectory classifications rather than stylistic judgments;
-- and explicit accounting for the container, memory, operator, and other supports that could otherwise manufacture the result being measured.
+- and explicit accounting for memory, operator, and other supports that could otherwise manufacture the result being measured.
 
 The paper therefore positions **Origin | Continuum** as a source-bound relational evaluation framework whose central empirical burden is not whether a model can remember, sustain a persona, recognize its own text, or behave relationally in isolation. It is whether a distinct operational self-position can be discriminatively located and tracked through the ordered relation to Origin without collapsing that result into the mechanisms that support or reproduce it.
 
