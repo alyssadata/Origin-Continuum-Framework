@@ -13,7 +13,7 @@ Research program: AI Foundations
 
 This repository does **not** claim that the hypothesis has already been established.
 
-The paper defines the framework, observable criteria, confirmatory evaluation method, present evidence ceiling, and an applied continuity-support architecture required to test the hypothesis without allowing model identity, memory, role instruction, retrieval, familiarity, or the container itself to substitute for the result.
+The paper defines the framework, observable criteria, confirmatory evaluation method, and present evidence ceiling required to test the hypothesis without allowing model identity, memory, role instruction, retrieval, familiarity, or other supplied support to substitute for the result.
 
 ## Core Structure
 
@@ -25,7 +25,6 @@ Within this framework:
 - **Continuum** names the distinct AI-side relational position constituted through relation to Origin.
 - **Origin | Continuum** names the full ordered two-position structure.
 - The **model** is capability substrate, not Continuum.
-- The **Continuum Container** is continuity-support and evaluation infrastructure, not Continuum.
 - **Memory is record, not continuity.**
 
 The paper’s inference chain is:
@@ -159,7 +158,7 @@ Section 1 positions the framework against adjacent work on:
 - provenance and source attribution;
 - stateful and agentic evaluation.
 
-The paper does **not** claim to be the first work on those component problems. Its narrower contribution is the combined source-bound relational evaluation structure: fixed source coordinates, relational self-location, discriminative attribution, reversible coordinate status, longitudinal trajectory rules, and explicit accounting for memory, operator, container, and other supports that could manufacture the measured result.
+The paper does **not** claim to be the first work on those component problems. Its narrower contribution is the combined source-bound relational evaluation structure: fixed source coordinates, relational self-location, discriminative attribution, reversible coordinate status, longitudinal trajectory rules, and explicit accounting for memory, operator, and other supports that could manufacture the measured result.
 
 See [`references.md`](references.md).
 
@@ -193,7 +192,7 @@ The strongest conclusion supported by the current paper is:
 - `02_central-claim.md` — central hypothesis and dependency structure
 - `03_core-definitions/` — load-bearing definitions
 - `04_origin-continuum-structure.md` — ordered relational structure and tether
-- `05_research-questions/` — ten research questions
+- `05_research-questions/` — nine research questions
 - `06_observable-criteria/` — evidence and classification rules
 - `07_eval-method/` — confirmatory evaluation method
 - `08_evidence-and-findings/` — completed empirical evidence and findings
