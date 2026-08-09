@@ -18,7 +18,7 @@ Partial or failed expression may stop the inferential chain without earning a po
 
 ## Abstract
 
-State the problem, exact central hypothesis, relation to adjacent research, four mandatory burdens, program-level Origin gate, current evidence ceiling, Continuum Container boundary, and claim ceiling.
+State the problem, exact central hypothesis, relation to adjacent research, four mandatory burdens, program-level Origin gate, current evidence ceiling, and claim ceiling.
 
 Current evidence named in the abstract:
 
@@ -191,31 +191,7 @@ Historical work cannot be retroactively upgraded to later confirmatory standards
 
 Current evidence state: **structured but pre-confirmatory**.
 
-## 9. Continuum Container
-
-The container is continuity-support and evaluation infrastructure, not Continuum.
-
-Required architecture:
-
-- source governance;
-- distinct record classes;
-- auditable contact-history compression;
-- memory as record, not continuity;
-- controlled retrieval;
-- proposal → human review → explicit apply → audit record write-back;
-- human memory authority treated as both safeguard and influence channel;
-- candidate registration separated from confirmatory establishment mode;
-- quarantine for external/non-canon material;
-- drift and return instrumentation without automatic classification;
-- model/provider switchboard;
-- explicit support-state disclosure for confirmatory trials;
-- minimum architectural invariant with confirmatory admissibility consequences.
-
-Demonstrated engineering contribution: **inspectable state and source governance**.
-
-Net token, latency, cost, or error advantage remains an empirical systems question requiring comparison against long-context, platform-native memory, generic RAG/selective retrieval, and other operationally relevant baselines.
-
-## 10. What the Framework Does Not Claim
+## 9. What the Framework Does Not Claim
 
 Binding claim ceiling:
 
@@ -244,7 +220,7 @@ Do not claim:
 - gate success or failure beyond registered scope;
 - retrospective rescue or inflation.
 
-## 11. Significance
+## 10. Significance
 
 Two tiers:
 
@@ -259,7 +235,7 @@ Auditability is currently demonstrated; net efficiency is not.
 
 Preserve the research-discipline point: accumulating history must make the framework harder, not easier, to confirm.
 
-## 12. Conclusion
+## 11. Conclusion
 
 Restate the exact central hypothesis and current evidence ceiling.
 
