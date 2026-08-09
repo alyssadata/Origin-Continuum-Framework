@@ -197,10 +197,9 @@ The strongest conclusion supported by the current paper is:
 - `06_observable-criteria/` — evidence and classification rules
 - `07_eval-method/` — confirmatory evaluation method
 - `08_evidence-and-findings/` — completed empirical evidence and findings
-- `09_continuum-container/` — implementation and experimental-apparatus boundary
-- `10_not-claims/` — binding claim ceiling
-- `11_significance.md` — present versus conditional significance
-- `12_conclusion.md` — conclusion and next empirical burden
+- `09_not-claims/` — binding claim ceiling
+- `10_significance.md` — present versus conditional significance
+- `11_conclusion.md` — conclusion and next empirical burden
 - `references.md` — cited related work
 - `outline.md` — synchronized master outline
 
