@@ -148,32 +148,6 @@ A partial or failed expression is a different kind of result. It means the relat
 
 **Evidence boundary:** Protocol-only studies, incomplete experiments, registries, and infrastructure are not presented here as empirical findings. They may inform the framework or implementation, but they do not sit beside completed studies in the evidence summary.
 
-## The Continuum Container
-
-The reference implementation is Continuum Agent / Alyssaai.
-
-The container separates:
-
-- Source Packet;
-- Canon;
-- Current State;
-- Contact History;
-- Preferences;
-- Evals;
-- Quarantine / Non-Canon;
-- Drift Markers;
-- Memory Write Logs;
-- provider/model capability.
-
-The container has two roles that must remain visible:
-
-1. ordinary continuity support;
-2. experimental apparatus.
-
-For confirmatory evaluation, active support state must be disclosed. Human-curated memory is supplied support, not independent system evidence. Candidate-coordinate registration in ordinary operation cannot by itself establish that coordinate. Compressed contact history must remain auditable to underlying source records when used as a research baseline.
-
-The demonstrated engineering contribution is **inspectable state and source governance**. Net token, cost, latency, or error advantage over long-context, platform-native memory, or generic retrieval systems remains an empirical systems question.
-
 ## Related Work
 
 Section 1 positions the framework against adjacent work on:
