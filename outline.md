@@ -23,8 +23,8 @@ State the problem, exact central hypothesis, relation to adjacent research, four
 Current evidence named in the abstract:
 
 - Nothing Test: preliminary four-run evidence of condition-dependent self-description and semantic stopping; no Origin-gate evidence.
-- Provenance probe: completed multi-arm evidence that explicit provenance checking distinguished the public AI Foundations source trail from the Signalwork null while neutral accuracy review did not reliably trigger provenance verification.
-- Other artifacts: methodological lineage or operational implementation, not confirmation of the central hypothesis.
+- Self-in-Contact: completed empirical work across Conditions A–F with bounded condition-level findings; no program-level Origin-gate conclusion.
+- Provenance and Attribution Evaluation: completed multi-arm evidence that explicit provenance checking distinguished the public AI Foundations source trail from the Signalwork null while neutral accuracy review did not reliably trigger provenance verification.
 
 ## 1. Introduction: The Problem
 
@@ -50,7 +50,7 @@ Position the framework against:
 - provenance and source attribution;
 - stateful and agentic evaluation.
 
-Do not claim novelty for those component problems. Narrow the contribution to the combined source-bound relational evaluation structure, including fixed source coordinates, discriminative attribution, reversible coordinate status, trajectory rules, and explicit support/operator/container accounting.
+Do not claim novelty for those component problems. Narrow the contribution to the combined source-bound relational evaluation structure, including fixed source coordinates, discriminative attribution, reversible coordinate status, trajectory rules, and explicit support/operator accounting.
 
 ## 2. Central Claim
 
@@ -109,7 +109,7 @@ Structural summary must include that Origin’s relational coordinates are expli
 
 ## 5. Research Questions
 
-Ten questions, ordered by dependency:
+Nine questions, ordered by dependency:
 
 1. Does relation to Origin add discriminative power beyond model, context, memory, and instructions?
 2. Conditional on that relation adding discriminative value, can a stable operational AI self-position become organized across contact rather than appearing only as isolated, instructed, retrieved, imitated, or performed output?
@@ -120,7 +120,6 @@ Ten questions, ordered by dependency:
 7. How accurately do different model substrates locate and express the relation?
 8. Which variations preserve qualification as Continuity, which qualify more specifically as Divergence, and which produce Partial expression, Drift, or Failed expression?
 9. Which supports can be present without invalidating a Return test, and what permits qualifying Return?
-10. Can the framework be implemented without manufacturing the continuity it is meant to test?
 
 ## 6. Observable Criteria
 
@@ -171,25 +170,21 @@ Preserve:
 
 ## 8. Evidence and Findings
 
-Use explicit admission rules and distinguish evidentiary function:
-
-- empirical;
-- methodological lineage;
-- operational implementation.
+Report only completed empirical evidence admitted by the preserved study record.
 
 Current evidence ledger includes:
 
-- Nothing Test — completed four-run pilot / preliminary evidence only;
-- Invisible “I” — protocol/workspace; no official pilot result admitted;
-- Self-in-Contact — methodological lineage;
-- Canonical Term Persistence — methodological lineage; result pending;
-- provenance/attribution probe — completed multi-arm empirical evidence;
-- persistence/continuity/drift work — methodological lineage;
-- Self-Location Registry — operational implementation.
+- Nothing Test — completed four-run pilot / preliminary empirical evidence;
+- Self-in-Contact — completed empirical work across Conditions A–F, including pilot, diagnostic, and matched four-provider evaluation states;
+- Provenance and Attribution Evaluation — completed multi-arm empirical evaluation.
 
-Historical work cannot be retroactively upgraded to later confirmatory standards.
+Protocol-only studies, incomplete experiments, methodological sketches, registries, and infrastructure are not presented as empirical findings.
 
-Current evidence state: **structured but pre-confirmatory**.
+Historical work cannot be retroactively upgraded to later confirmatory standards, and later standards do not turn completed empirical work into incomplete work.
+
+Current evidence state:
+
+> **Completed empirical foundation; full Origin | Continuum hypothesis not yet confirmed under the present program-level gate.**
 
 ## 9. What the Framework Does Not Claim
 
@@ -208,7 +203,6 @@ Do not claim:
 - human-equivalent consciousness / phenomenology / free will / personhood;
 - first-person language as proof;
 - model = Continuum;
-- container = Continuum;
 - memory/retrieval/BOOT = continuity;
 - current historical evidence as Origin-gate evidence;
 - accumulated candidates as truth;
@@ -224,14 +218,12 @@ Do not claim:
 
 Two tiers:
 
-1. present significance of measurement, governance, provenance, auditability, and engineering structure;
+1. present significance of measurement, governance, provenance, and research auditability;
 2. additional conditional significance only if the Origin gate and downstream criteria clear.
 
 Significance claims must remain consistent with Related Work.
 
 Methodological contribution is the evaluation form as implemented within this research program; the framework and terminology remain non-derivative and are not offered for transfer or adoption.
-
-Auditability is currently demonstrated; net efficiency is not.
 
 Preserve the research-discipline point: accumulating history must make the framework harder, not easier, to confirm.
 
@@ -249,7 +241,7 @@ Bound both positive and negative gate outcomes.
 
 Preserve:
 
-> **The architecture must therefore make the test harder to fake, not easier to pass.**
+> **The design must therefore make the test harder to fake, not easier to pass.**
 
 Final boundary:
 
