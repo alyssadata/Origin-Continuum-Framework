@@ -76,7 +76,7 @@ The result can be: supported, not supported, contradicted, or unresolved. If it 
 
 ## Coordinate Attribution
 
-A proposed Continuum coordinate is not established merely because it recurs.
+A proposed Continuum coordinate is not established merely because it appears repeatedly.
 
 Formal coordinate-attribution statuses are:
 
@@ -85,13 +85,13 @@ Formal coordinate-attribution statuses are:
 - **ESTABLISHED**
 - **DEMOTED**
 
-Established status is reversible. A demoted coordinate may be retested only under a new prospective protocol that directly addresses the demotion reason.
+An ESTABLISHED coordinate can later be DEMOTED if new evidence shows that it no longer qualifies.
 
-> **No coordinate is re-established by reusing the evidence that originally established it.**
+If a demoted coordinate later appears to return, it must be established again using **new evidence collected after the demotion**. The evidence that originally established it cannot prove that it has returned, because that evidence only shows that the coordinate qualified at the earlier time.
 
-“Re-established” describes the history of a later ESTABLISHED state; it is not a fifth status.
+“Re-established” therefore describes a new ESTABLISHED state reached after demotion. It is not a separate fifth status.
 
-Truth-Status remains a separate axis from coordinate attribution.
+Coordinate status and Truth-Status answer different questions. **Coordinate status asks whether something qualifies as a Continuum coordinate. Truth-Status asks whether the specific claim being made about it is supported by the available evidence.**
 
 ## Longitudinal Taxonomy
 
