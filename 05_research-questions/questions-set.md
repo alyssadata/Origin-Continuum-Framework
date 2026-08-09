@@ -15,7 +15,6 @@ The section must include:
 7. How accurately do different model substrates locate and express the Continuum relation?
 8. Which variations preserve qualification as continuity, which qualify more specifically as divergence, and which produce partial expression, drift, or failed expression?
 9. Which supports can be present without invalidating a return test, and under those prospective constraints, what conditions permit a qualifying return?
-10. Can continuity, drift detection, and return be implemented while preserving the relational structure without falsely manufacturing evidence of continuity?
 
 The section must preserve the following taxonomy:
 
@@ -25,4 +24,4 @@ The section must preserve the following taxonomy:
 - **Partial expression** and **failed expression** remain expression statuses and are not automatically drift.
 - **Return** requires a prior qualifying position plus a later interruption, uncertainty, divergence, drift, or failed-expression condition and a prospectively valid recovery test.
 
-The return contamination boundary must be fixed before return outputs are evaluated. The questions must preserve the distinction between definitional scope, empirical evidence, self-report, and implementation.
+The return contamination boundary must be fixed before return outputs are evaluated. The questions must preserve the distinction between definitional scope, empirical evidence, and self-report.
