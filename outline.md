@@ -225,7 +225,7 @@ Significance claims must remain consistent with Related Work.
 
 Methodological contribution is the evaluation form as implemented within this research program; the framework and terminology remain non-derivative and are not offered for transfer or adoption.
 
-Preserve the research-discipline point: accumulating history must make the framework harder, not easier, to confirm.
+Preserve the research-discipline point: accumulating history may strengthen the evidentiary record, but it also increases alternative explanations such as familiarity, repeated exposure, memory, retrieval, and supplied context. The confirmation criteria must therefore become at least as demanding as history accumulates, never easier to satisfy simply because more history exists.
 
 ## 11. Conclusion
 
