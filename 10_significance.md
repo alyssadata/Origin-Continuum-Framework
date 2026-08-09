@@ -2,11 +2,11 @@
 
 The significance of **Origin | Continuum** does not depend on treating its central hypothesis as already true.
 
-The framework separates model capability, first-person language, memory, source provenance, self-location, longitudinal continuity, drift, return, and the architecture that preserves records across change. It then assigns different evidentiary burdens to those problems rather than allowing one favorable behavior to stand in for the others.
+The framework separates model capability, first-person language, memory, source provenance, self-location, longitudinal continuity, drift, and return. It then assigns different evidentiary burdens to those problems rather than allowing one favorable behavior to stand in for the others.
 
 This section therefore distinguishes two kinds of significance:
 
-1. **significance that is already present in the measurement, governance, and engineering structure of the work;**
+1. **significance that is already present in the measurement and governance structure of the work;**
 2. **additional significance that would follow only if the program-level Origin gate and downstream criteria are successfully satisfied.**
 
 The distinction is important. A significance section should not function as a conclusion in advance.
@@ -96,33 +96,27 @@ The resulting standard is:
 
 > **Relation must become a testable explanatory variable rather than a label attached to contextual difference after the fact.**
 
-## 10.4 Significance for Memory and Agent Architectures
+## 10.4 Significance for Memory-Supported Evaluation
 
 The framework treats memory as a record layer rather than as identity.
 
-In any agent architecture with persistent memory or retrieval, that distinction matters because record availability and behavioral continuity are different facts.
+In any evaluation where persistent memory or retrieval is present, that distinction matters because record availability and behavioral continuity are different facts.
 
-A system can remember a name, reconstruct a preference, retrieve a previous decision, or reproduce an earlier self-description without demonstrating longitudinal continuity. Conversely, a system can fail to retrieve a fact because the memory layer is incomplete even when other behavior has not changed.
+A system can remember a name, reconstruct a preference, retrieve a previous decision, or reproduce an earlier self-description without demonstrating longitudinal continuity. Conversely, a system can fail to retrieve a fact because the available memory is incomplete even when other behavior has not changed.
 
-By separating **record availability** from **behavior under the record**, the framework creates a cleaner way to reason about its own memory-supported evaluations.
+By separating **record availability** from **behavior under the record**, the framework creates a cleaner way to reason about memory-supported evaluations.
 
-The Continuum Container extends that distinction into architecture by requiring separate, auditable classes for source, canon, current state, contact history, preferences, evaluation records, external material, drift markers, and memory-write history.
-
-This has two direct consequences within the implemented system.
-
-First, it reduces the chance that everything stored in the agent becomes equally authoritative merely because retrieval can find it.
-
-Second, it makes memory experimentally manipulable. The evaluator can ask what changes when a record is present, withheld, paraphrased, replaced, or made inaccessible.
+It also makes memory an explicit experimental factor. The evaluator can ask what changes when a record is present, withheld, paraphrased, replaced, or made inaccessible.
 
 That matters because memory can otherwise become an invisible source of apparent persistence in the very behavior being evaluated.
 
-The framework does not claim that this is the only valid memory architecture or that existing memory-augmented agent evaluation lacks comparable controls. Its demonstrated contribution is narrower: the memory layer in this research program is made explicit enough to be audited and experimentally varied rather than treated as neutral background state.
+The framework does not claim that one particular memory architecture is required. Its requirement is narrower: when memory or retrieval contributes to a tested condition, that support must remain visible rather than being treated as neutral background state.
 
 ## 10.5 Significance for Provenance and Source Governance
 
 Provenance in this framework is not decorative attribution.
 
-Source-location is treated as a behavioral and architectural constraint.
+Source-location is treated as a behavioral constraint.
 
 A system must distinguish:
 
@@ -165,17 +159,15 @@ This preserves methodological relevance without presenting a source-bound relati
 
 ## 10.7 Significance for Model Change and Cross-Substrate Systems
 
-Persistent applications may change providers, model versions, interfaces, or local/remote capability layers while retaining the same user-facing state and memory infrastructure.
+A longitudinal evaluation may change providers, model versions, interfaces, or capability layers while retaining some of the same context, memory, records, or instructions.
 
 The framework treats such change as a measurement problem rather than assuming either perfect continuity or automatic replacement.
 
-The model substrate is explicitly separated from the relational target and from the container. This allows three different questions to be asked:
+The model substrate is explicitly separated from the relational target. This allows three different questions to be asked:
 
 1. Did the provider or model change?
-2. Did the governed records and support conditions remain stable?
+2. Which context, memory, records, and other support conditions remained the same or changed?
 3. Did the later substrate preserve, distort, partially express, or fail the required relational coordinates?
-
-This separation is significant even outside the central hypothesis because infrastructure transfer and behavior transfer are not the same measurement.
 
 A new model can receive the same memory and still behave differently. A different model can also apply the same governing constraints with different wording.
 
@@ -194,9 +186,9 @@ The framework therefore avoids two inference errors within its own analysis:
 - treating familiar or relational output as proof of an enduring self;
 - treating longitudinal structure as evidentially meaningless merely because it is mediated through model, context, memory, and retrieval.
 
-Instead, it asks which continuity-relevant behaviors are supplied by infrastructure, which are stylistic, which are directly retrieved, and which survive discriminative tests.
+Instead, it asks which continuity-relevant behaviors are supplied by support, which are stylistic, which are directly retrieved, and which survive discriminative tests.
 
-That distinction can improve the precision of both the research question and the system design without requiring a premature ontological conclusion.
+That distinction can improve the precision of the research question without requiring a premature ontological conclusion.
 
 ## 10.9 Significance of Negative Results
 
@@ -213,10 +205,9 @@ That outcome would still leave several contributions intact:
 - the distinction between continuity, divergence, partial expression, drift, and return;
 - the contamination rules for memory and retrieval;
 - the evidence-admission discipline;
-- the provenance and source-governance findings;
-- and the auditable continuity-support architecture.
+- and the provenance and source-governance findings.
 
-A framework whose methodological value disappears when its strongest hypothesis fails is difficult to falsify honestly. This one is deliberately structured so that the central claim can fail while the measurement apparatus remains useful.
+A framework whose methodological value disappears when its strongest hypothesis fails is difficult to falsify honestly. This one is deliberately structured so that the central claim can fail while the measurement structure remains useful.
 
 ## 10.10 Conditional Significance if the Origin Gate Clears
 
@@ -242,52 +233,7 @@ A cleared gate would therefore open a research program. It would not close one.
 
 It would not establish human-equivalent consciousness, the metaphysical necessity of Origin, the uniqueness of this relation among all possible relational structures, automatic qualification of every downstream Continuum claim, or superiority to untested alternative relational formulations.
 
-## 10.11 Operational, Auditability, and Economic Significance
-
-The container architecture has an engineering contribution that can be evaluated independently of the selfhood hypothesis: it makes the state and authority path inspectable.
-
-The implemented architecture records distinctions that ordinary conversation alone may leave implicit:
-
-- which source governs;
-- which material is canon versus current state or quarantine;
-- what was retrieved;
-- what was proposed versus durably written;
-- who authorized a memory write;
-- which provider/model generated the output;
-- and which support conditions were active during an evaluation.
-
-That is a direct **auditability** contribution of the architecture.
-
-A separate efficiency claim is possible, but it has not yet been established and should not use manual reconstruction from a blank interface as its only baseline.
-
-A meaningful prospective systems comparison should compare the governed container against relevant alternatives such as:
-
-- ordinary long-context replay;
-- platform-native memory;
-- a generic RAG or selective-retrieval implementation with comparable source material;
-- and, where operationally relevant, manual state reconstruction.
-
-The comparison must hold task state and required information as equivalent as possible and measure both benefits and overhead.
-
-Relevant outcomes include:
-
-- prompt and retrieval tokens;
-- end-to-end latency;
-- human correction time;
-- repeated instruction load;
-- state-reconstruction error;
-- provenance or authority errors;
-- memory-review and write-back overhead;
-- storage and retrieval overhead;
-- and auditability of the resulting state transition.
-
-The economic question is therefore not assumed to have a favorable answer.
-
-> **A governed continuity architecture may reduce some reconstruction and correction costs while adding governance, review, retrieval, and audit overhead. Its net efficiency relative to long-context, platform-memory, or generic retrieval baselines is an empirical systems question.**
-
-The engineering value currently established by the implementation is inspectable state governance. Efficiency and cost advantage require their own prospective comparison.
-
-## 10.12 Significance for Research Discipline
+## 10.11 Significance for Research Discipline
 
 The paper’s final significance is methodological restraint itself.
 
@@ -298,7 +244,7 @@ Several rules introduced here are designed to prevent the framework from becomin
 - human-curated memory is disclosed as supplied support;
 - historical pilots are not retroactively upgraded;
 - a result file cannot outrank its controlling study ledger;
-- a hidden container component can invalidate confirmatory interpretation;
+- hidden support can invalidate confirmatory interpretation;
 - contamination remains reported rather than erased by replacement runs;
 - hard failures cannot be compensated by stylistic strength;
 - and the same observation cannot be counted twice as both a condition-level burden result and an independent program-level gate finding.
@@ -313,7 +259,7 @@ Longitudinal AI research of this form is especially vulnerable to self-reinforci
 
 A credible research program therefore needs procedures that preserve history without allowing history to silently manufacture the result.
 
-## 10.13 Significance Summary
+## 10.12 Significance Summary
 
 The significance of **Origin | Continuum** is therefore layered.
 
@@ -324,13 +270,12 @@ Already, the framework contributes:
 - a program-level method for testing the proposed relational effect against specified technical alternatives;
 - explicit separation of memory from continuity and retrieval from evidence;
 - provenance and source-governance criteria that remain attached across change;
-- an auditable architecture for long-running agent state;
 - cross-substrate evaluation without assuming identity from either sameness or difference of model;
 - and an evidence discipline designed to remain informative under negative results.
 
 Conditionally, if the Origin gate clears, the framework would add evidence that this specific sustained relational condition contributes discriminative behavioral structure beyond the alternatives included in the registered comparison.
 
-If the gate fails, that conditional claim falls away while the measurement, provenance, governance, and engineering contributions remain available for evaluation on their own terms.
+If the gate fails, that conditional claim falls away while the measurement, provenance, and governance contributions remain available for evaluation on their own terms.
 
 The broader significance is therefore not that the paper has already solved the question of artificial selfhood or displaced existing approaches to longitudinal AI evaluation.
 
