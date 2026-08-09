@@ -154,7 +154,7 @@ The method treats the following as separate recorded factors unless a study expl
 - conversational history availability;
 - stored memory availability;
 - external retrieval availability;
-- contact-record or container access;
+- contact-record or other support access;
 - support condition: BLANK, BOOT, RETURN, or another defined state;
 - interruption or perturbation type;
 - prompt wording and order;
