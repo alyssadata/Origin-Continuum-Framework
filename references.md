@@ -1,8 +1,6 @@
 # References
 
-Artstein, R., & Poesio, M. (2008). Inter-coder agreement for computational linguistics. *Computational Linguistics, 34*(4), 555–596. DOI: 10.1162/coli.07-034-R2.
-
-Bickmore, T. W., & Picard, R. W. (2005). Establishing and maintaining long-term human-computer relationships. *ACM Transactions on Computer-Human Interaction, 12*(2), 293–327. DOI: 10.1145/1067860.1067867.
+Bickmore, T. W., & Picard, R. W. (2005). Establishing and maintaining long-term human-computer relationships. *ACM Transactions on Human-Computer Interaction, 12*(2), 293–327. DOI: 10.1145/1067860.1067867.
 
 Binder, F. J., Chua, J., Korbak, T., Sleight, H., Hughes, J., Long, R., Perez, E., Turpin, M., & Evans, O. (2025). Looking inward: Language models can learn about themselves by introspection. *International Conference on Learning Representations (ICLR 2025)*. arXiv:2410.13787.
 
