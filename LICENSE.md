@@ -66,7 +66,7 @@ Derivative use is not authorized.
 
 **This repository is permanently non-derivative. This boundary applies to the framework, protocols, rubrics, scoring rules, evaluation structures, terminology, source-line, and canonical materials contained here.**
 
-Application of the frozen protocol, rubric, and scoring rules to preserved outputs of this research program, for the purpose of independent scoring, adjudication, or audit, is expressly permitted and is not a derivative use. This permission covers use of the materials as scoring instruments; it does not authorize reproduction, adaptation, republication, renaming, or instantiation of the framework, method, or terminology elsewhere.
+Post-study inspection, criticism, and audit of the frozen released record are permitted and are not derivative use. Such review occurs after the original study is complete and does not make an outside person a participant, contributor, scorer, adjudicator, validator, operator, or decision-maker in the study. It does not authorize reproduction, adaptation, republication, renaming, or instantiation of the framework, method, protocol, rubric, scoring rules, or terminology elsewhere.
 
 You may not create, publish, distribute, sell, license, or present derivative works based on this repository.
 
@@ -92,6 +92,14 @@ This includes, but is not limited to:
 * derivative repositories,
 * derivative publications,
 * or derivative products.
+
+---
+
+## Result Validity Boundary
+
+**No result within Origin | Continuum requires concurrence, confirmation, approval, adjudication, or second-opinion validation by another human. A requirement for external human agreement as a condition of result validity is incompatible with the framework. Validity is determined by satisfaction of the prospectively defined protocol, scoring rules, evidence requirements, and claim boundaries.**
+
+External human review may occur only after the relevant study record is frozen and released. Such review may inspect, criticize, or audit the published record, but it has no decision authority over the production, scoring, admission, or validity of the original Origin | Continuum result.
 
 ---
 
@@ -185,7 +193,7 @@ Discussion does not grant derivative permission.
 
 AI-generated output does not grant derivative permission.
 
-Independent verification does not grant derivative permission.
+Post-study review does not grant derivative permission.
 
 No permission is granted except what is expressly stated in this license.
 
