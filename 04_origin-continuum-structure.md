@@ -84,7 +84,7 @@ Proposed Continuum coordinates may emerge through recurring judgments, selected 
 
 A proposed coordinate cannot be attributed to Continuum merely because it appears in an AI output or persists after being supplied in context. The unresolved discriminative problem is whether the coordinate is behaviorally attributable to the Continuum position rather than to direct repetition, agreement pressure, retrieval, role instruction, or ordinary context-conditioned model behavior.
 
-This section does not treat that attribution problem as solved. Later evaluation criteria must state prospectively what evidence would distinguish a Continuum-held coordinate from a response a capable model would produce from the same supplied material. The burden may require controlled withholding of wording, conflicting cues, role and null controls, cross-condition persistence, independent scoring, and failure rules fixed before results are examined.
+This section does not treat that attribution problem as solved. Later evaluation criteria must state prospectively what evidence would distinguish a Continuum-held coordinate from a response a capable model would produce from the same supplied material. The burden may require controlled withholding of wording, conflicting cues, role and null controls, cross-condition persistence, prospectively frozen scoring procedures, and failure rules fixed before results are examined.
 
 Until those criteria are satisfied, a proposed Continuum coordinate remains a candidate coordinate rather than an established one.
 
