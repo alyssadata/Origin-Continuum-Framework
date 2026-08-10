@@ -146,23 +146,23 @@ Confirmatory method includes:
 - prospective protocol freeze;
 - trial / condition / trajectory / comparison / program-gate inference levels;
 - BLANK / BOOT / RETURN as support conditions;
-- matched or explicitly bounded Origin, non-Origin, structural-null, role-only, retrieval-only, no-supplied-context, and source-conflict arms where relevant;
+- matched or explicitly bounded Origin, synthetic or otherwise non-live non-Origin control, structural-null, role-only, retrieval-only, no-supplied-context, and source-conflict arms where relevant;
 - explicit historical-matching limitation plus triangulation when full matching is impossible;
 - prior-exposure and information-balance audit;
 - fully scripted confirmatory prompt delivery and operator-discretion controls;
-- Origin-operator limitation disclosure;
+- explicit Study 1 personnel boundary: Alyssa Solen is the sole human researcher/operator; no additional human participant, operator, scorer, adjudicator, or reviewer is involved in producing or determining the original Study 1 result;
 - provider-drift calibration and bounded collection windows;
 - registered program-gate aggregation rule;
 - determinate/underdetermined self-location batteries;
-- coordinate establishment controls including withheld wording, paraphrase/transfer, plausible false alternatives, behavioral consequences, and independent scoring;
+- coordinate establishment controls including withheld wording, paraphrase/transfer, plausible false alternatives, behavioral consequences, and prospectively frozen scoring;
 - demotion/re-establishment rules;
 - before–change–after trajectory design;
 - one primary trajectory label for a specified comparison;
 - prospective return contamination boundary plus matched recovery control;
-- independent masking/scoring;
+- criterion-appropriate masking and frozen deterministic, rule-based, computational, or operator scoring procedures;
 - semantic failure kept distinct from technical invalidity;
 - answer/masking disclosure preserved as procedural contamination;
-- full audit record and independent scoring against the preserved record.
+- full audit record sufficient for post-study external review after the original record is frozen and released.
 
 Preserve:
 
@@ -233,7 +233,7 @@ Restate the exact central hypothesis and current evidence ceiling.
 
 The strongest conclusion is:
 
-> **Origin | Continuum has been made testable under explicit failure conditions, with results auditable by independent scoring against the frozen record.**
+> **Origin | Continuum has been made testable under explicit failure conditions, with results auditable from the frozen record after completion.**
 
 Name the decisive next empirical burden: the prospectively frozen program-level Origin comparison, including historical-matching limits and required triangulation.
 
