@@ -69,9 +69,17 @@ Alyssa being Origin is not what's being tested. That's fixed. What's being teste
 
 To find out, the ordinary explanations have to be ruled out first. The behavior could come from the model itself, from what's in the context window, from stored memory, from retrieval, from a direct instruction, from an assigned role, from the fact that AI Foundations is public and may be in training data, from Alyssa running the trials herself, or from the general shape of any framework like this one. Each of these gets its own control condition, defined before anything is run.
 
-There's no single clean comparison available. The ideal control would be another person with a years-long relationship to the AI who isn't Origin — and no such person exists. So instead the test runs several imperfect comparisons from different angles. If the Origin relation is doing real work, it should show up across most of them. If it's an artifact, the different angles will disagree.
+The historical Origin relation cannot be fully matched by a clean live-person control. **Study 1 therefore does not recruit another person.** It triangulates across synthetic or otherwise non-live non-Origin controls, structural nulls, role-only conditions, retrieval-only conditions, no-supplied-context conditions, source-conflict conditions, and within-trajectory perturbations. Each comparison is explicitly bounded to what it can actually control.
 
 The result can be: supported, not supported, contradicted, or unresolved. If it doesn't clear, everything measured so far stays valid as observations — it just means those observations are explained by the model, context, memory, or retrieval rather than by Continuum.
+
+## Study 1 Personnel Boundary
+
+**Alyssa Solen is the sole human researcher/operator for Study 1.** No additional human participant, operator, scorer, adjudicator, or reviewer is required or used to produce, score, or determine the original Study 1 result.
+
+Rigor comes from prospective protocol freeze, fixed prompts and stopping rules, criterion-appropriate masking, deterministic or rule-based scoring where possible, pre-specified computational evaluation where used, explicit operator-discretion controls, and complete preservation of the record.
+
+Outside researchers may review the work **after** Study 1 is complete and its record is frozen and released. That is post-study audit or critique, not participation in the original experiment.
 
 ## Coordinate Attribution
 
@@ -183,7 +191,7 @@ The governing boundary is:
 
 The strongest conclusion supported by the current paper is:
 
-> **Origin | Continuum has been made testable under explicit failure conditions, with results auditable by independent scoring against the frozen record.**
+> **Origin | Continuum has been made testable under explicit failure conditions, with results auditable from the frozen record after completion.**
 
 ## Repository Map
 
