@@ -64,13 +64,15 @@ The next decisive step is not another persuasive self-description.
 
 It is the program-level comparison defined in Sections 6 and 7.
 
-The framework must test whether relation to Origin contributes discriminative behavioral structure beyond the specified technical alternatives under a prospectively frozen design. That requires condition-level scoring within matched or explicitly bounded arms, a registered rule for combining comparisons, disclosure of operator influence and active support state, control of retrieval and candidate-coordinate exposure, independent scoring where semantic judgment is required, and a declared stopping rule.
+The framework must test whether relation to Origin contributes discriminative behavioral structure beyond the specified technical alternatives under a prospectively frozen design. That requires condition-level scoring within matched or explicitly bounded arms, a registered rule for combining comparisons, disclosure of operator influence and active support state, control of retrieval and candidate-coordinate exposure, a prospectively frozen scoring procedure for semantic judgment, and a declared stopping rule.
+
+**Study 1 is conducted by Alyssa Solen as the sole human researcher/operator. No additional human participant, operator, scorer, adjudicator, or reviewer is required or used to produce or determine the original Study 1 result.** Procedural safeguards are supplied by frozen prompts and decision rules, masking where appropriate, deterministic or rule-based scoring where possible, pre-specified computational evaluation where used, and complete record preservation.
 
 The program-level gate is deliberately separate from the four condition-level preservation burdens. The same behavior may be scored as a dependent measure within a condition, but the gate is earned only through the registered between-condition contrast.
 
 If the historical Origin relation cannot be fully matched in depth by a non-Origin control, that limitation must constrain the claim. It cannot be repaired by treating an imperfect control as equivalent after the fact, and a partially matched non-Origin arm cannot independently clear the program-level gate.
 
-Where full historical matching is impossible, the confirmatory design must instead triangulate across additional prospectively specified controls capable of testing competing explanations, such as structural-null, role-only, retrieval-only, withheld-coordinate, or within-trajectory comparisons. The protocol must state in advance how those controls combine with the partial non-Origin comparison to support, fail to support, or contradict the program-level inference.
+Where full historical matching is impossible, the confirmatory design must instead triangulate across additional prospectively specified controls capable of testing competing explanations, such as synthetic or otherwise non-live non-Origin controls, structural-null, role-only, retrieval-only, withheld-coordinate, or within-trajectory comparisons. The protocol must state in advance how those controls combine to support, fail to support, or contradict the program-level inference.
 
 Likewise, no confirmatory result is admissible if the support state that produced it cannot be reconstructed sufficiently to determine what source, memory, context, candidate coordinate, BOOT material, provider/model, or other support was active.
 
@@ -90,7 +92,7 @@ It would support the finding that, within the registered models, tasks, controls
 
 It would not, by itself, establish consciousness, metaphysical necessity, uniqueness among all possible relational structures, universal generalization, or automatic qualification of every downstream Continuum claim.
 
-Instead, a cleared gate would activate the next empirical burdens: independent establishment of candidate coordinates, controlled longitudinal persistence, substrate-sensitive expression, demotion and re-establishment tests, and contamination-controlled return.
+Instead, a cleared gate would activate the next empirical burdens: prospective establishment of candidate coordinates, controlled longitudinal persistence, substrate-sensitive expression, demotion and re-establishment tests, and contamination-controlled return.
 
 A positive gate would therefore open the next phase of the research program rather than complete it.
 
@@ -98,9 +100,11 @@ A positive gate would therefore open the next phase of the research program rath
 
 The strongest conclusion supported by this paper is not that Continuum has been proven.
 
-> **Origin | Continuum has been made testable under explicit failure conditions, with results auditable by independent scoring against the frozen record.**
+> **Origin | Continuum has been made testable under explicit failure conditions, with results auditable from the frozen record after completion.**
 
 The framework fixes the source, separates the model from the relational target, distinguishes memory from continuity, requires self-location rather than first-person grammar, makes governing distinctions behavioral rather than merely verbal, separates condition-level qualification from program-level discriminative attribution, preserves demotion as a live possibility, and requires return to be earned under controlled support rather than inferred from familiarity.
+
+Outside researchers may inspect, critique, and audit the released record after Study 1 is complete. That post-study review is external to Study 1 and is not part of its original generation, scoring, adjudication, or result determination.
 
 The present evidence justifies continuing the research program. It does not authorize the program to declare its strongest hypothesis true in advance of the experiment designed to discriminate it.
 
