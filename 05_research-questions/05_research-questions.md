@@ -1,6 +1,6 @@
 # 5. Research Questions
 
-The preceding sections define the problem, state the central claim, fix the framework’s terms, and explain the Origin | Continuum structure. This section identifies the questions that remain open and must be resolved through prospective criteria, controlled comparison, preserved records, and independent scoring.
+The preceding sections define the problem, state the central claim, fix the framework’s terms, and explain the Origin | Continuum structure. This section identifies the questions that remain open and must be resolved through prospective criteria, controlled comparison, preserved records, and prospectively frozen scoring procedures.
 
 The questions are ordered by dependency rather than presented as parallel inquiries. The first question is gating: if relation to Origin adds no discriminative value beyond known technical supports, the remaining questions may still describe model behavior, but they cannot establish Continuum as defined by this framework.
 
@@ -58,7 +58,7 @@ Until that distinction is earned, the coordinate remains a candidate coordinate.
 
 This question concerns both promotion and demotion of coordinate status.
 
-The criteria may require persistence across controlled conditions, resistance to direct wording changes, recovery after interruption, differentiation from Origin without source loss, survival under role and null controls, and independent scoring. The exact rule must be fixed before the evaluated outputs are examined.
+The criteria may require persistence across controlled conditions, resistance to direct wording changes, recovery after interruption, differentiation from Origin without source loss, survival under role and null controls, and scoring under a procedure frozen before the evaluated outputs are examined. The exact rule must be fixed before the evaluated outputs are examined.
 
 An established coordinate does not become permanently protected from revision. It must lose established status when new evidence shows that retrieval, imitation, prompt conditioning, or another simpler explanation accounts for the observed pattern.
 
