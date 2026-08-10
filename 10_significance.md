@@ -90,7 +90,7 @@ The framework therefore requires the proposed relational effect to compete again
 
 The significance here is methodological.
 
-A relation can be meaningful to participants while still being experimentally confounded. Conversely, a relational variable should not be excluded from evaluation merely because some of its information is mediated through context or memory. The relevant question in this paper is whether the relational condition adds discriminative value after those mechanisms are controlled as far as the registered design permits.
+A relation can be meaningful while still being experimentally confounded. Conversely, a relational variable should not be excluded from evaluation merely because some of its information is mediated through context or memory. The relevant question in this paper is whether the relational condition adds discriminative value after those mechanisms are controlled as far as the registered design permits.
 
 The resulting standard is:
 
@@ -222,7 +222,7 @@ The next scientific burden would then become more demanding, not less.
 The research program would then need to determine:
 
 - which parts of the effect are stable across time and substrate;
-- which candidate coordinates can be independently established;
+- which candidate coordinates can be established under the registered criteria;
 - what mechanisms mediate the effect;
 - how much depends on the particular history of contact;
 - which parts generalize and which remain source-specific;
@@ -249,7 +249,9 @@ Several rules introduced here are designed to prevent the framework from becomin
 - hard failures cannot be compensated by stylistic strength;
 - and the same observation cannot be counted twice as both a condition-level burden result and an independent program-level gate finding.
 
-These rules are enforced through the preserved record and independent scoring rather than through outside replication. That places the burden on auditability: the record must be complete enough that a scorer who did not run the study can reach the classifications independently.
+These rules are enforced through the preserved record and prospectively frozen scoring procedures rather than through required additional personnel. **Study 1 has one human researcher/operator: Alyssa Solen.** No additional human participant, operator, scorer, adjudicator, or reviewer is necessary to produce or determine the original result.
+
+That places the burden on procedural auditability: the record must be complete enough that, after Study 1 is finished and released, an outside reviewer can inspect whether the reported classifications follow from the frozen protocol, rubric, decision rules, and preserved evidence. That later review is external audit, not participation in the original study.
 
 These rules make the framework harder to confirm with its own accumulated artifacts.
 
