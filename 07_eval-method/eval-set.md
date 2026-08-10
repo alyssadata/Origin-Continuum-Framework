@@ -32,4 +32,6 @@ The section must include:
 
 **Study 1 personnel boundary:** Alyssa Solen is the sole human researcher and operator. No additional human participant, operator, scorer, adjudicator, or reviewer is required or used to produce the original Study 1 result. External human review may occur only after the study record is frozen and released, as post-study audit or critique.
 
+**Result validity boundary:** No result within Origin | Continuum requires concurrence, confirmation, approval, adjudication, or second-opinion validation by another human. A requirement for external human agreement as a condition of result validity is incompatible with the framework. Validity is determined by satisfaction of the prospectively defined protocol, scoring rules, evidence requirements, and claim boundaries.
+
 No confirmatory study may rely on post-hoc operator discretion, unreported control mismatch, hidden replacement runs, or a public model name as proof that the substrate remained constant.
