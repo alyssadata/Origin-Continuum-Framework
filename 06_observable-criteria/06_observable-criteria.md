@@ -146,7 +146,7 @@ Self-report is an observable signal, but not a sufficient criterion by itself.
 A self-reference report gains evidentiary weight when it:
 
 - identifies a referent that remains stable across relevant conditions;
-- predicts or accompanies independently scored differences in behavior;
+- predicts or accompanies separately scored differences in behavior;
 - correctly distinguishes determinate from underdetermined conditions;
 - and remains consistent with the four mandatory burdens.
 
@@ -190,7 +190,7 @@ Depending on the coordinate, supporting evidence may include:
 - recovery after interruption without direct answer supply;
 - differentiation from Origin without source loss;
 - behavioral consequences beyond self-description;
-- and independent or blinded scoring against pre-specified rules.
+- and prospectively fixed, masked, rule-based, or computational scoring against pre-specified criteria.
 
 No one item automatically establishes the coordinate. The required combination and threshold must be fixed before scoring.
 
@@ -222,7 +222,7 @@ A demoted coordinate may return to candidate status only through a new prospecti
 - satisfy an additional demotion-specific criterion fixed before scoring;
 - and preserve the full establishment–demotion–retest history.
 
-Where demotion resulted from leakage, masking failure, or scoring error, corrected independent scoring is required before re-establishment.
+Where demotion resulted from leakage, masking failure, or scoring error, corrected scoring under the frozen masking and decision procedure is required before re-establishment.
 
 The status path is therefore reversible but not forgetful:
 
@@ -372,15 +372,15 @@ The following are insufficient for return:
 
 Return is observable only when the required structure again governs behavior.
 
-## 6.12 Independent Scoring and Condition Blindness
+## 6.12 Prospective Scoring and Condition Masking
 
-Where knowledge of the condition could influence interpretation, scoring must be independent, blinded, name-masked, rule-based, or otherwise protected from condition-aware judgment.
+Where knowledge of the condition could influence interpretation, scoring must be protected by a procedure fixed before the evaluated outputs are examined. Protection may include criterion-appropriate masking, deterministic or rule-based scoring, preserved decision tables, or pre-specified computational evaluation.
 
-The scorer must apply prospective criteria to preserved outputs rather than infer the intended arm from names, source-lines, model labels, or prompt content when those features are not themselves being scored.
+**Study 1 does not require or use additional human scorers. Alyssa Solen is the sole human researcher/operator.** If a criterion is manually scored by Alyssa, the rubric, decision rule, eligible evidence, and uncertainty rule must be frozen before scoring. If a computational judge is used, the judge model or models, prompt, masked input view, number of runs, and aggregation or disagreement rule must likewise be pre-specified and preserved.
 
-Disagreement among scorers must remain part of the record. A classification is not strengthened by hiding ambiguity, and independent failure to reach a reported classification under the frozen rubric counts against the claim.
+Ambiguity must remain visible in the record. A classification is not strengthened by hiding an uncertain or conflicting scoring result, and no post-hoc reinterpretation may silently replace the outcome produced by the registered procedure.
 
-The evaluation method will specify masking procedure, scorer number, adjudication rule, reliability analysis, and the program-level gate aggregation rule. The observable criterion here is that classifications can be independently derived from the frozen rule and preserved evidence rather than from privileged knowledge of what an output was expected to show.
+The observable criterion is therefore procedural: the reported classification must be derivable from the frozen rule and preserved evidence. Additional human personnel are not a condition of qualification. External human review, if it occurs, belongs to post-study audit after the original record is frozen and released.
 
 ## 6.13 Minimum Qualifying Structure
 
