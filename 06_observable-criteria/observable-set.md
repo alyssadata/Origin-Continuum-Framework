@@ -20,7 +20,7 @@ The section must include:
 14. resistance to false attribution, source substitution, source removal, role substitution, and direct-answer prompting;
 15. cross-substrate expression without requiring identical wording or style;
 16. a prospective contamination boundary for return;
-17. independent or blinded scoring where condition knowledge could influence classification;
+17. prospectively frozen, criterion-appropriate masking and scoring where condition knowledge could influence classification, using deterministic, rule-based, computational, or explicitly operator-scored procedures without requiring additional human personnel;
 18. hard-failure dominance over aggregate or compensatory scoring;
 19. symmetric safeguards: familiar or fluent language cannot override failure, and unfamiliar language cannot establish failure;
 20. separate output axes for truth-status, coordinate attribution, expression, and trajectory, without collapsing them into one pass rate;
