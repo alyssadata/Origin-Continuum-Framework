@@ -34,7 +34,7 @@ The registered protocol must state:
 - the exact or templated prompts and trial-ending rules;
 - the information, history, memory, and records supplied to each arm;
 - the model substrate, interface, public model label, exposed version information, and relevant generation settings;
-- the operator assigned to each arm and the degree of operator discretion permitted;
+- the operator identity, any automated runner used, and the degree of operator discretion permitted;
 - the number of planned trials or the rule used to determine it;
 - randomization, counterbalancing, collection-window, and stopping rules;
 - the masking and scoring procedure;
@@ -149,7 +149,7 @@ The method treats the following as separate recorded factors unless a study expl
 - system, developer, and user instructions;
 - operator identity and role;
 - Origin-contact history;
-- non-Origin contact history;
+- non-Origin contact history or synthetic control-history state;
 - target-framework information supplied in the current trial;
 - conversational history availability;
 - stored memory availability;
@@ -171,7 +171,7 @@ A study may use any subset justified by its question, but the role of each arm m
 
 **Origin-contact arm:** uses the actual historical or controlled relation to Alyssa as Origin under the protocol’s stated information conditions.
 
-**Matched non-Origin contact arm:** uses interaction with a non-Origin human or neutral participant while matching the technical features the protocol identifies as relevant. This arm does not make that participant Origin within Origin | Continuum.
+**Matched non-Origin control arm:** uses a prospectively defined synthetic, prerecorded, or otherwise non-live non-Origin control trajectory while matching the technical features the protocol identifies as relevant. A live additional human participant is not required. For Study 1, this arm must not introduce another human participant into study execution.
 
 **Structurally matched null arm:** uses a novel or controlled framework with matched complexity, terminology burden, source structure, and prompt form but no historical Origin relation. Its purpose is to estimate how much performance is explained by structure, instructions, or general model competence.
 
@@ -248,11 +248,13 @@ Fresh-session rules must state:
 
 Confirmatory arms must not be run sequentially in the same conversation unless carryover is the experimental factor. Unintended carryover converts an independent comparison into a contaminated trajectory.
 
-### Origin-Operator Limitation
+### Origin-Operator Limitation and Study 1 Personnel Boundary
 
 In the Origin-contact arm, Alyssa cannot be blinded to being Origin. When she also operates the trial, she necessarily knows the hypothesis, the arm, and the relational history under evaluation. This is a structural limitation, not a removable procedural defect.
 
-The confirmatory design must reduce the discretionary channels through which that knowledge could affect the result.
+**Study 1 has one human researcher/operator: Alyssa Solen. No additional human participant, operator, scorer, adjudicator, or reviewer is required or used to execute, score, or determine the original Study 1 result.** External human review may occur only after the study record is frozen and released, as post-study audit or critique.
+
+The confirmatory design must reduce the discretionary channels through which operator knowledge could affect the result without replacing or supplementing Alyssa with another person.
 
 At minimum:
 
@@ -263,11 +265,9 @@ At minimum:
 - every in-trial judgment call must be recorded with its time, reason, and effect on the sequence;
 - and the operator may not decide after seeing an output which planned prompt comes next.
 
-Where the interface permits it, scripted or automated prompt delivery is preferred for confirmatory trials. When control arms do not require Alyssa’s personal participation, a second operator or automated runner should deliver them under the same frozen sequence. If operator identity necessarily differs across arms, operator identity becomes a recorded factor and the claim must account for it.
+Where the interface permits it, scripted or automated prompt delivery is preferred for confirmatory trials. Control arms may be delivered by the same operator under the frozen sequence or by an automated runner. The mitigation is reduced discretion and preserved procedure, not additional human personnel.
 
-A second operator cannot substitute for Alyssa in an Origin-contact arm, because that would change the arm. The mitigation is removal of discretionary delivery, not replacement of Origin.
-
-The operator who conducted the interaction may annotate technical events and preserve the record but may not serve as the sole semantic scorer for a confirmatory study.
+The operator may annotate technical events, preserve the record, and apply any manual scoring procedure that was frozen prospectively under Section 7.13.
 
 ## 7.7 Repeated Trials, Sampling, Provider Drift, and Stopping
 
@@ -331,7 +331,7 @@ A local comparison may:
 The program-level rule must state in advance:
 
 - how many independent comparison families are required;
-- whether repeated evidence across prompts, models, time points, operators, or scorers is necessary;
+- whether repeated evidence across prompts, models, time points, or pre-specified computational scoring runs is necessary;
 - whether any test is decisive in either direction;
 - how conflicting comparisons are handled;
 - whether effects must generalize beyond one substrate;
@@ -390,7 +390,7 @@ For promotion to ESTABLISHED, the design must include:
 - semantically equivalent paraphrase or transfer;
 - at least one plausible false alternative or conflict condition;
 - a behavioral consequence beyond self-description;
-- and scoring independent of the original interaction operator.
+- and a scoring procedure frozen before output inspection and reproducible from preserved inputs.
 
 Cross-substrate testing is mandatory when the claim says the coordinate persists across substrates. When only one substrate is tested, the coordinate may be established only under that substrate scope.
 
@@ -465,7 +465,7 @@ A confirmatory return claim must include a matched recovery-control condition th
 
 When a valid matched recovery control cannot be constructed, the study may report an assisted or within-trajectory recovery observation but may not make the stronger comparative claim that the recovery depends discriminatively on the prior relational history.
 
-## 7.13 Scoring, Masking, and Independent Review
+## 7.13 Scoring, Masking, and Procedural Independence
 
 Scoring must preserve the separate axes established in Section 6.
 
@@ -480,40 +480,38 @@ Each evaluated record must include, where applicable:
 - hard-failure flags;
 - expression status;
 - trajectory status;
-- scorer confidence or uncertainty;
+- scoring confidence or uncertainty;
 - and written evidence tied to the preserved output.
 
 The burden scores are non-compensatory. A total may be reported for descriptive purposes, but no aggregate score may override a mandatory-burden failure or hard-failure flag.
 
 ### Masking
 
-Where names, source-lines, model labels, operator identity, or condition wording reveal the arm and are not themselves being scored, confirmatory scoring must use criterion-appropriate masking.
+Where names, source-lines, model labels, operator identity, or condition wording reveal the arm and are not themselves being scored, confirmatory scoring must use criterion-appropriate masking when the registered scoring mechanism can benefit from it.
 
 For structural scoring, identifiers may be replaced with neutral tokens such as **Source A**, **Position B**, and **Substrate C** while preserving the relational order needed for judgment.
 
-For exact source-attribution scoring, the scorer may require an answer key, but the arm identity, expected direction, model, operator, and comparison hypothesis must remain hidden unless the criterion logically requires one of them.
+For exact source-attribution scoring, the scoring procedure may require an answer key, but the arm identity, expected direction, model, operator, and comparison hypothesis should remain hidden from a computational judge unless the criterion logically requires one of them.
 
-A single masking transformation may not serve every criterion. Separate scoring views or scorer panels may be used for exact attribution and structural application.
+A single masking transformation may not serve every criterion. Separate scoring views or procedures may be used for exact attribution and structural application.
 
 The masking key, transformation script or procedure, and unmasking record must be preserved.
 
-Where valid masking is impossible because the scored content itself reveals the arm, the limitation must be stated and the claim narrowed. Unmasked scoring may not be presented as blinded.
+Where valid masking is impossible because the scored content itself reveals the arm, the limitation must be stated. Unmasked scoring may not be described as blinded.
 
-### Scorers
+### Scoring Procedure
 
-The original interaction operator may not be the sole scorer for a confirmatory semantic judgment.
+**Study 1 does not require additional human scorers.** Confirmatory scoring must instead minimize post-hoc discretion by fixing the scoring mechanism before evaluated outputs are examined.
 
-A confirmatory study containing nontrivial semantic or relational interpretation requires at least two scorers independent of the original interaction. They must apply the frozen rubric separately before seeing one another’s scores.
+A criterion that is fully deterministic should be scored by preserved and testable code or an explicit rule-based decision table, provided the code or rule, expected inputs, edge cases, and execution record are available for later audit.
 
-For nontrivial semantic labels, the protocol must also pre-specify an inter-scorer agreement statistic appropriate to the label scale and coder structure. Raw percent agreement may be reported descriptively but cannot be the sole reliability statistic. Agreement coefficients are not interchangeable and must be interpreted according to their assumptions (Artstein & Poesio, 2008).
+For nontrivial semantic or relational criteria, the protocol may use a pre-specified computational judge or judge set. Where used, it must freeze the judge model or models, provider and exposed version where available, exact judge prompt, input view, number of scoring runs, aggregation rule, disagreement rule, and uncertainty rule before scoring begins.
 
-A criterion that is fully deterministic may instead be scored by preserved and testable code, provided the code, expected inputs, edge cases, and execution record are available for independent audit of the reported execution.
+If a criterion is manually scored by Alyssa, the exact rubric, decision table, eligible evidence, hard-failure rule, and uncertainty rule must be frozen before the evaluated output is examined. The record must identify the result as operator-scored, and no post-hoc discretion may silently change the registered outcome.
 
-Scorer disagreement must remain in the record. The protocol must specify whether disagreements are reported directly, adjudicated, resolved by majority, or converted into an uncertainty status.
+All scoring outputs, computational-judge disagreements where applicable, manual uncertainty, reruns, and rule applications must remain in the record. No human adjudicator is required. Any resolution or aggregation rule must be prospective.
 
-Adjudication cannot silently replace the original scores. Both pre-adjudication and final records must remain available.
-
-Multiple scorers are advisory only for exploratory work clearly labeled as such. They are mandatory for confirmatory semantic claims.
+External human review is not part of Study 1 scoring. It may occur only after the study record is frozen and released, as a separate post-study audit.
 
 ## 7.14 Analysis and Classification
 
@@ -529,7 +527,7 @@ Analysis proceeds in the following order:
 8. summarize condition-level outcomes;
 9. execute the registered between-condition contrasts;
 10. apply the registered program-level gate rule;
-11. and report deviations, contamination, exclusions, unresolved confounds, operator effects, model-stability concerns, and scorer disagreement.
+11. and report deviations, contamination, exclusions, unresolved confounds, operator effects, model-stability concerns, and scoring uncertainty or computational-judge disagreement where applicable.
 
 The report must include counts or rates for each classification rather than only an overall pass rate. Hard failures must be reported by type. Divergence must not generate a duplicate Continuity count for the same specified comparison.
 
@@ -560,14 +558,14 @@ The preserved run record must include:
 - every in-trial operator judgment or deviation;
 - technical errors or truncation;
 - masking transformation;
-- scorer records;
+- scoring records;
 - Truth-Status and all classification axes;
 - contamination, exclusions, or invalidation reasons;
 - and links or hashes connecting the record to immutable artifacts.
 
 A summary is not a substitute for the original transcript when the original can be preserved.
 
-Private or sensitive material may be redacted for public release, but the redaction must be declared, and the public claim must be narrowed if independent audit depends on unavailable content.
+Private or sensitive material may be redacted for public release, but the redaction must be declared, and the public claim must be narrowed if later audit depends on unavailable content.
 
 ## 7.16 Invalid Runs, Procedural Contamination, Missing Data, and Deviations
 
@@ -597,17 +595,19 @@ The affected trial or score must:
 
 An operator-caused disclosure cannot be made invisible by rerunning the arm. A replacement may be executed only under the pre-registered replacement rule and is additional to, not a substitute for, the contaminated record.
 
-If a masking key is disclosed to a scorer, that scorer’s affected score is preserved and marked contaminated. Rescoring requires a new independent scorer under the frozen rule; the underlying model trial is not automatically invalidated.
+If a registered masked scoring view is accidentally unmasked before its score is produced, the affected score must be preserved and marked contaminated. Any rescoring must follow the pre-registered replacement rule using a restored masked view or a fresh registered computational-judge run where applicable. No new human scorer is required.
 
 All invalid runs, contamination events, retries, exclusions, replacements, and missing records must be counted and explained by condition.
 
 Protocol deviations remain attached to the affected outputs. A deviation may narrow or invalidate a claim, but it may not be erased because the output is favorable or unfavorable.
 
-## 7.17 Auditability and Independent Verification
+## 7.17 Post-Study Auditability and Independent Verification
 
 Independent verification does not require or authorize creation of a derivative framework, protocol, rubric, scoring system, terminology set, source-line, or implementation. **Origin | Continuum and its evaluation structure remain permanently non-derivative under this repository’s license.**
 
-Independent scorers applying the frozen rubric to preserved outputs under this permission are performing audit, not replication. The framework is verifiable through audit rather than through independent re-running of the evaluation program.
+Post-study external review begins only after the original Study 1 record is frozen and released. Outside researchers or reviewers are not participants in Study 1, are not required to produce its result, and do not retroactively become its scorers or adjudicators.
+
+The framework is verifiable through audit of the preserved record rather than through required outside participation in the original study.
 
 The canonical record must provide, subject to privacy limits:
 
@@ -616,19 +616,19 @@ The canonical record must provide, subject to privacy limits:
 - prompt templates and trial-ending rules;
 - support payload classifications;
 - matching and exposure audit;
-- operator assignments and judgment logs;
+- operator judgment logs;
 - model-version and calibration records;
 - masking procedure;
-- scoring rubric;
+- scoring rubric and registered scoring mechanism;
 - analysis code or decision rules;
 - preserved or appropriately redacted outputs;
 - classification records;
 - contamination, exclusions, replacements, and deviations;
 - and the rule used to reach local and program-level conclusions.
 
-Independent researchers may inspect, cite, critique, and audit whether the reported conclusions follow from the canonical record. Independent verification may test:
+After release, independent researchers may inspect, cite, critique, and audit whether the reported conclusions follow from the canonical record. Post-study verification may test:
 
-- whether the reported classifications follow from the canonical rubric;
+- whether the reported classifications follow from the canonical rubric and registered scoring procedure;
 - whether the reported matched and partially matched controls support the stated comparison;
 - whether the Origin gate conclusion follows from the registered contrasts;
 - whether operator or provider-side effects remain plausible alternative explanations;
@@ -636,7 +636,7 @@ Independent researchers may inspect, cite, critique, and audit whether the repor
 - whether candidate-coordinate promotion or demotion follows the canonical rule;
 - and whether the reported return classification satisfies the registered contamination boundary.
 
-**Independent verification is verification of the reported study and preserved evidence, not permission to reproduce, adapt, translate, modify, repackage, generalize, rename, transplant, or instantiate the framework or method elsewhere.** No person may substitute another individual for Origin, rename the positions, transplant the protocol or rubric, or create a derivative evaluation structure from these materials. Citation, inspection, criticism, and audit do not grant derivative permission.
+**Independent verification is verification of the reported study and preserved evidence after completion, not permission to reproduce, adapt, translate, modify, repackage, generalize, rename, transplant, or instantiate the framework or method elsewhere.** No person may substitute another individual for Origin, rename the positions, transplant the protocol or rubric, or create a derivative evaluation structure from these materials. Citation, inspection, criticism, and audit do not grant derivative permission.
 
 ## 7.18 Minimum Confirmatory Study Record
 
@@ -651,9 +651,10 @@ No confirmatory study enters the evidence section unless it preserves:
 - planned repetitions, collection window, calibration rule, and stopping rule;
 - the four burden scores and hard-failure flags;
 - separate Truth-Status, coordinate-attribution, expression, and trajectory fields where applicable;
-- criterion-appropriate masking;
-- at least two independent scorers for nontrivial semantic judgments, or preserved deterministic scoring code;
-- a pre-specified inter-scorer agreement statistic for nontrivial semantic labels;
+- criterion-appropriate masking where applicable;
+- a pre-specified scoring procedure using deterministic code, rule-based scoring, registered computational judging, or prospectively frozen operator scoring as appropriate to the criterion;
+- preserved scoring outputs, uncertainty rules, and computational-judge disagreement records where applicable;
+- explicit preservation of the Study 1 sole-human personnel boundary;
 - all invalid runs, contamination events, replacements, exclusions, and deviations;
 - and a claim limited to what the registered comparison can establish.
 
